@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T12:32:16.336458+00:00",
+  "updated": "2026-10-26T12:38:31.480001+00:00",
   "thenews": [
     {
       "title": "26/10/2026",
@@ -107,7 +107,113 @@
       "image": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/60e6d496-749b-4d22-9c51-d45464856b75/image.png"
     }
   ],
-  "andreazza": [],
+  "andreazza": [
+    {
+      "title": "Andreazza: Lula no Jornal Nacional e os 4 anos em 1 mês | Estadão Analisa - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcTh1ZlNIYUdnSnROV1VsMFEwbHNiRzFQby1NUEtVdFNMb2cyNzJIRm4zTmNha0F1dzZMNXlzV2RCQUltdlVldHhZekJyeWVzLXU0dDVTLUhBT1ZlWTZWWjdVRDJBRjVlWU9pMjNNVk16WmZBMFBXbHVLN3poUXBCcXQ1U216cFBLSVk2c2xhWVJWdGE4ZmRuSWhVbTI5NmNzQnExdFZZcDc1ZDdhTENtT0RzYk5VX095WGlkRGMxNjHSAcYBQVVfeXFMT2RxS0Z2TXEyNFpraVdlWExmNUNRdEs5OWRDUHBQVkJoVl9Wb0dNVHpOSGF0cEVpWGx6R1JBOUdIWm9falk1bERzZnFFTzlwUjBGNE40LTJVLXhIcFl5MlBqdXlGZkRrbFJsMVFHOHJ5Y3Q0eWhvZExSc09FRnViX283aXVmTkJIWGw3RFVlY1ZGWmVXWFhTeDVoLUVWVmppbFNha0hfRnpLSXhDdXg2NHFUZExrbG5GaVAxTzdoZjJTNG1xdjN3?oc=5",
+      "summary": "Andreazza: Lula no Jornal Nacional e os 4 anos em 1 mês | Estadão Analisa Estadão",
+      "date": "2026-10-16T07:00:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Andreazza: Vai ter debate. Calor de Lula tira Flávio Bolsonaro do ar-condicionado | Estadão Analisa - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMG1QOFVXb09OZmxQcDNQc3N5UHdBQTQ3eVBjYjhadlpMa3hScGJEUnA2YUl6aGxEY1pPUlVZNGRfLWxidnVhYk5IdFRjdnphemx6VVFQaWZLOGhDOXJpcUp1LXlVNzZsX3E0REVsd0hiNVdhMUVvdEFNU04wOGUwNHdLN3NkVC1oU3hhY0I4YXRHUTRUcDQ3SUh2NDBVbnk2SFR0YXJQS0RvOWdHQ3A1cnhyUHYyU2w1MkcwWnZjVmtrSEM5RXBWMEdtUEg3REJiVURuVVRtU3BmNVUtMjNNMHRn0gHnAUFVX3lxTE5QM09kQzNiRjV2dVc2T3VhMTc5Z3VNX0kxSi12b2FpMEJtcDRTSk40NkUtdGRTVHllbW96eXJ3d1piX0NZWkdVcW1rczVxbkJwazVaX2RtdGszdmdEcTA4NDJ4alV2clVYQ3lSU2MtQ3kyZWdOMnBReUVSTW4yVHoyVmQxRGNhY2g4am9QaGh4ZXIwTGlTYXdYSWF0ODhpZWdudDA5NHRUOFMyaTQ3aUF3WHpIMzRxRzQ0SXZpRlJDRzRVS2tKNnQzeFNUbmd1bjdDaXVkc0tzLTlrSmhaUXlMWFVkNGdLZw?oc=5",
+      "summary": "Andreazza: Vai ter debate. Calor de Lula tira Flávio Bolsonaro do ar-condicionado | Estadão Analisa Estadão",
+      "date": "2026-10-15T07:00:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Lula x Flávio Bolsonaro: o último debate | Estadão Analisa com Carlos Andreazza - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSUV6MzlpVmdkVjYtd3dnVXRYYjRyVENOMzJtSE1PMVhFbDdua1Z4dnNicW9hbWlkU2V0SU5YLXJXOWFKejJjX21nRUdBRkxYaXNVYm1Ddm1USTl1TFlrVHB5c01FdnBja0U3dU5UZzdzWWtVNVk4elZMeVpNeGhRRTRJY2pRUkFXU0p4RkpMYzBnX19laGJVN1RTRFgxTzRCUEluSXdXT194bklORHZ6YlJ1OHRKS0wtbmxnTk1qUmFiV3J4TndGUdIBzgFBVV95cUxNYXNoRjd3Yy1ETVJXSzRENk5jMFluMGZuMlVTOGtya3lDRGYtbzVfNTlMMWhqLWpldWhMQmpuaUtFTmxJNmRTVlNJVXFqZDFwR0ZtZTZucGFPajRFVXRCaEs3MEFvX1BaMTZNS29CS3RudEdQTGhHaUN2eHVNNExRWkptVFVKUlFWQjl0TEpma08zOHA1YUlZT0gyQ3RMV3J6UUJnQ2NabGNHRjVoS29XRzU1OGV5RjhuX3p6c1hYNUlBdmNlMGlENDBDbkp2QQ?oc=5",
+      "summary": "Lula x Flávio Bolsonaro: o último debate | Estadão Analisa com Carlos Andreazza Estadão",
+      "date": "2026-10-23T09:44:33+00:00",
+      "image": ""
+    },
+    {
+      "title": "‘Flávio Bolsonaro explora a perspectiva de poder. Lula vai para o tudo ou nada’ | Estadão Analisa - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcUhHdDN3WlNocVVCSmlwd21fNGhmMlFEeW94Z09ORFBLMlhuVVllaVA0akp5Y2poeFFGQ2hOUHN2MUVBN256WXlWT21nd0VyQUhZQmtNd3N1MkEwRHJaVkNEODVEeDhDcVowOEhnTW5iaTg5M3hQR241VXJnMjFOWTllVUU4TFBJWEh5bHg1eVhEbFhNUkRFNkFrc3pVblgteEt5RHRKQnlfRUlHdTVrSlh2RHMyWUpsbk94WjlyWHN1U1BRM0t4UkUxcmwzaWVqQXhfbDVTWldfbDE0VWfSAeMBQVVfeXFMTllEMlhqS2pvQ1BCcUF5RkpTS1Nnd18tU0Q4SlEyTWtPd2F6SDJFblo2T2tOR3lWdHd2ZWVTTTJ4OVFET2pUVmg2dXFybko5YnF4TWl6OThTeU9VZWtyZU1yV3RKYmpHalBBLWJLRjRST0l5c0ZDdjlMenVDbUh6WXdxZVgzTXNkMEFLN2dBQWx3VzR0cUJ4MmxmdlpEdFg0MEgtR0hhZmVfRlV3cEJ6MXJ3bGZ2UGNrRVBZVkx4WTlPUnpEck9GTFpIdVhtX0kxLWluSWZkWEdzenRHSUUycktkemM?oc=5",
+      "summary": "‘Flávio Bolsonaro explora a perspectiva de poder. Lula vai para o tudo ou nada’ | Estadão Analisa Estadão",
+      "date": "2026-10-09T07:00:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Lula reeleito: algumas hipóteses sobre a virada monumental | Estadão Analisa com Carlos Andreazza - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRl84d19lTmdCRjNIbGtIYnAxYkxLUUZEMHNQU2UzbWxBemNkVHF5emdQeWhwRmZvZ0FacEhITWh5X1A2TndUZTFIUEUyVWZHVGROOTBMX2pZSmtPUDlaX2xUaXNCZWxrZnE3b29HWF9BSFF4aGpSY2pHamNHRWUwSHQtM1dVYXVwNm12clVnQ1F1a0pZRHE0Y0VBX2xLVTZOSmZSdEY3YXpJSlN5dC1yNEtoWkhJZHlPMHFMbmtsTFprN2tUcF90VXpkMUdjZjlWbnhuSzUxZkdxelZpcy05RdIB5gFBVV95cUxQLTNxT1NPeFdLQ2duOG1LZjRyRGFLQVAxOGhLdTBBSWljTVM3SWdaNEhadkk0WHdIVDVVTkZlMWxILUdHSzhicExQX1d0T19sR19mSHBRdHRhNjRLX3pNVV9ZcXUzcy1EODNKOGlidXgtQ1VpckkxN0w0a2lDcE1NS0E5OFhLV0VUeHZ0UVhuUWxNNmY4LUlNZkZkY2NMeW42Qkpicm14NFRpWV9Qck1HRzAwejh2c09HNmtsY3paWWdrajdJR3E2VlFMSjM0cXVKMHlfX0xLR2hlTV9qWVc0Vy02QVFLdw?oc=5",
+      "summary": "Lula reeleito: algumas hipóteses sobre a virada monumental | Estadão Analisa com Carlos Andreazza Estadão",
+      "date": "2026-10-26T09:43:53+00:00",
+      "image": ""
+    },
+    {
+      "title": "Andreazza: O peso da perspectiva de poder para Flávio. STF, tenso. Lula, perdido | Estadão Analisa - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVlA4LW5OcWtEeUc5cFdFVDBsU3BjWExjMFR2c2JybHdUemhlTlRDRUdpZFRSWjdCSzVaaTAwbjRodEF5aENyM3B1THM1NUNIVmVRTm94Y2Zvdjc3bGNYX3hzTXVTUWpxa2ItYmJ3RWVkZEhyM3paUTFOd2Jvb2xBN2E3X1A1dXk3bTM0bzhqRTZjOFZEejcwUVhqVVZZMENXT0xuNEc1WUtkRXMtWXhPZXQ3XzhuVm11bDhFdXlrSVctM0pvVUhkS2p3bVBMWF9JSXB5Qm9GdnZuQkM50gHiAUFVX3lxTFBhRzgxcERJa3V5ek5ycTFpSFVKblhWendOX1RKamR6clB2NG8tUUE0VDFKSGdqSTVQaHZfZVlDQ3B0cVh6Z1Y5Qm1JazNPYUsxekF4YmhBek1VQVRPT2RiZXVmVnhHVTVlOU1GYnJ5dnNrOE9aU1Q0eVMzeTh4Ymo4X3lnUXgwY3hPMjhuT0M0dEZQOFl6NmlBYkdSb3FycllGTThISmNmRG5FblNnV3NYckFCV2Fna2RwS2Z2ZDVLVXNqRDN4NDF1Wno3alpoSlpRdllkTVZRM1BvbTRnMmd2SVE?oc=5",
+      "summary": "Andreazza: O peso da perspectiva de poder para Flávio. STF, tenso. Lula, perdido | Estadão Analisa Estadão",
+      "date": "2026-10-06T07:00:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Andreazza: Contra a censura do mal, o TSE paralelo de Gilmar, Moraes e Dino | Estadão Analisa - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNU0ZWRTFhS3dLaU42RTJkaTFOakl1TnFvS282T29fb2x5aHF1eEhucWtIZmFTcHh6bUs3NldBc0JkSUtZT0JwQkRzMzBrR21Sc1REMXVmTU1tNlJBWkdnSF9tUFRJc2dWbjJCQklfM0cySV95M0tSMGRCc2ptRDZUS0tmbDV5cVR4UXFDcXVGOU12WF9iSmhXckt6ZnEzWExTX0cwSGszNXEwdWktc3g5ZXlka3JERGwxbF9sek10clFkTUVUdmpHWk80YTEzSUItTDVGcmFNSzDSAd4BQVVfeXFMUHJGWXhMb3JNcElISU9pSWI2czRORklwWHMydEFNS1Y5R1ZJUzNFTUkwb1ViVUd4Q0U3WFo5OThJM3Jfak5SNXl6dVowaXVkYWx3R3RMTHVyYzNWTTROUWNsa3BkMEtJWDY3MXhxYnZIUGQ1NmFMYnJKekJ1eDE2ajVIU1d6ZVlqSVZEUS1UUWhWU1VTMVJ2NWZQTG1tV09HTENsYy1US3R5MTl6b1NBQ1V6M1d1a1dmV1BJemNkZmZGMHJOLUEwVXRGNmMtVjR6dzdqSS0yalRld2lWdTJR?oc=5",
+      "summary": "Andreazza: Contra a censura do mal, o TSE paralelo de Gilmar, Moraes e Dino | Estadão Analisa Estadão",
+      "date": "2026-09-30T07:00:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Flávio Bolsonaro caiu na armadilha de Lula? | Estadão Analisa - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSGFjdHpDWUo0SE02REJJdi1DcTJhTkhpZ1hQMkxRYlVKZDZIVDVzOWNCLWNjQUc3QXhEcEdLLVloM0h3cFBZZXVlUGtvSEY5cklHU1FDQTFfTFV0TUpFcm1kYmJHWTlSd2hsVVVxeENlUlROUDFWMUNaLWlKdC1pb0dUTVZ6OF9sS3A4Szk5eXpMRDE1TzB6OGhzdGZXbUdrTk8zcEs3SXEwUWQxQngzSFZB0gG3AUFVX3lxTE1NSTFWRjdRaTJoV29SS1ZZR1VJeE54UzBGOHl2Q216eWxSTFEyVHhKTkdJV2xHa2ZJMXlsQTF3WXlZZHg2VGFKYmZnazZwal9fbW01bXFROG5YaEYya2J0ZzBwLXl4eGJCM2dVVTJpMS1MQXVmVmpOaU1WbGNwR25tcWVUaW1BZzNsZ0E4NXJnc0hHSy1xQmVsMzhZTG9HOXhzX29WTkVhbnRBdmcyMnFrX0pEUXMycw?oc=5",
+      "summary": "Flávio Bolsonaro caiu na armadilha de Lula? | Estadão Analisa Estadão",
+      "date": "2026-10-22T09:28:19+00:00",
+      "image": ""
+    },
+    {
+      "title": "STF puxador de votos. Lula no passado. E o eleitor agora diante Flávio Bolsonaro | Estadão Analisa - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWmE0dTkya0RQbmlPOE50ZTk3ZG9zZVphdnJoUkJYek1sTUdUd1pIZVp2SnNCTWtfYXhTcS1wTGhPaFBVUFRiSWs3SlNGZEotaW1UeURNekFpQmVnVVNnV1hEMllzNTFUMmJWRXFZM2JuS1lRbjFHdDZ3Y0dwd2ZnOVpld2lzQnVwS1dHNFhNcEdxaF9oTUlHMUc2Q2xGMXg0ZlRkLTNYS19ucHNJd2wycHBjT1lTdjVSeThtQzdGbmcyMWRkenkyWGhjRVdLTzhMNy1TeXZqMDVrWFBQMVBhZNIB5gFBVV95cUxPaUVyOG11aFZjR1BpQTctNWZXc1d3eG9MZTdBR3dOSWQxZFFTRnRydWNJdFM1MHlZQmRfYUlBM2k1YjZqMHd1WllPY1J6RURlcjZNazM0aUR3aEVIX3ZfZWxqaEE0VjJZc2s5TjYzUlZ3SnZRNEcyVXpzcV9NYXJkamV4dWVrSW16RXl3V1dkUXVjVEpaTlBFdUhOZlBiQzduZmUxdTBBZXpqR3VPSXZNenBPN3ZfSndMNFBpZXZ3dUVoSGYwWG0yb1pMUUU1Qk9wMlR1U2VFQWx6b1I1TzFreWVpTFdjZw?oc=5",
+      "summary": "STF puxador de votos. Lula no passado. E o eleitor agora diante Flávio Bolsonaro | Estadão Analisa Estadão",
+      "date": "2026-10-05T07:00:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Campanha de ar-condicionado de Flávio Bolsonaro experimenta o calor com pressão de Lula - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZS0xVjF3U2VzS0NsVVVrckh5aGR5M08zMWVTdHJHVVh4UFN4OWJaMXFRZnpOdmoxSEMtbUwtbExNTVo0TEpIOHYxd29GYWJTY1JybFFhMnIxeFNNMWV2OUVaV2NVR2NabFNXR3dHUi1jcUNUTlNUQ2YwQ05TaVdpR0ViYVlSbWtjajcxVGNZbmY3b3JQMUZ5OHE4U1pjV0U3c2NBdkRua1htZHJ0TnlQd0tyNVkxTEZuamxLd095NXRBMDFJXzdvUGxla3hEektCMFJwQ1czdk3SAd4BQVVfeXFMUHFYelNSc0swVEdaNU5sRnNZZlRXMlh0c1BRS0pWYXgzdUxrMG1MeTZLOV9Ga1ZTU0xVWkduSUo0Z0NsQjJpaFdFV2dzbk9DWXVrcnVfOXdSS1llRTI5Y1U4ZDF5S1diZ3J0TTdrMXlSNmxTeTR5dmdnSDJjN2xrMFhSYVhUOF9vM1BxbHdOVU5WRS04UjhWdTBXREVrMVpSQ3ZLOWl2VEpWOHQzTlZlMzR0ZHRNa2VDeUlBbTl5c1NQUVMtbDFpd2hCZEEwRTNhbzU0R3BYX0Z0anFCYnNn?oc=5",
+      "summary": "Campanha de ar-condicionado de Flávio Bolsonaro experimenta o calor com pressão de Lula Estadão",
+      "date": "2026-10-14T07:00:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Eleição dos rejeitados: Lula pressiona por erro de Flávio Bolsonaro | Estadão Analisa - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOVlDQTFUY2toYW5aclQ2WHh2NWpKeF9HX2dVcFRKYU83cUhQRDdaYklSQVktUmpubkJTOG56MVNrcUlONGpGWUNXVERCLWNfTjBXSE5yR0ZpeUlHODRKQzBhbXRETmJmZ3F3TGtDS2hXMGh1ZjZlYlVXVVBSRElaZTJkN0F4ckd6OFBUVmxxaFZrOEExWTR4R05KWWUybmthd3g0UE5EX2lVVUhNM0ZtMVdNZXpxUEhTdU5zX2tVZF9NcWI0MXhEZF83UkpLbEtQ0gHWAUFVX3lxTE15Qmc1bkxSbEptc0VIZzAxOV9nbjRKTFUxQXBWWFhRSmNzWXZzSWh0WmZZbTRRUVNUR1A1YzNSVDRhXzhRWWF5UlFHLWZJTzN5b0xHTXJiS0R1NnkxRGUwbm9KSUNkWTl0MWxpSjhrNFY2WVVJSlhUcGc4V3dqMW9tVUthek5ETncwbkFVTnZJY1pKb1ZFbjVOOGNXZ3pUanhMN2d4QldZSFFiWF9FNFNUbGtYc2lyWDNDVHRZN3UzczEtVWFPQ2VlYmhFUXJwb0JfRl8wY3c?oc=5",
+      "summary": "Eleição dos rejeitados: Lula pressiona por erro de Flávio Bolsonaro | Estadão Analisa Estadão",
+      "date": "2026-10-21T09:49:31+00:00",
+      "image": ""
+    },
+    {
+      "title": "Andreazza: Todo mundo escolhendo o próprio juiz: Fux suspende decisão de Dino | Estadão Analisa - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNaEZTcnIyYmtWOXNrZ1NpbGcyNnNjWXV1TGhhcFRkNl9pWU5DNi1KUkp6UUhuRUQ5RmZxWV8yWTdEX005a05Gdmluc1BVSWl0NXEwN3loR092WngwSWIzZmxMZURfZFJnT2ZpUHBiSXR0NHpSXzkxU3psUkxlZ2tidGkwdldrSEhfMGRIU1VtQVFjaG9iRzVJN2dZb2RHMVl0YUZNM3pxWjhzNFRfSnlETm9YS1dLZUE5YWEzZFZ4a0hxaUFOdDZndlZ2SzhzSjA0d3dOYjR4WXFiYzRa0gHiAUFVX3lxTE96ekpqc2ZienAwSnpRYzZjTnBNSzVES19yc0lCbzQxRDRTWXJRbzdtMHJyaXh2bldtYU9DclNPTklGQmlFTVRKSkp6WnlxQ2ItNUdfeWtTVlYwRzRnSC0yZ1dyaU5sMVZWNUdWc0poaFN4ZE52UnNzenV1VXdJbnlqUUlZWFgxMnFmUlE5c1YxdW5QanB3TWNRdlVZWFB4WWRwOWUwUmlmaDdTWFFNVEdLTjFmZXlOSEhZMzlGSzJmUDJoRXFYcTBPM0ctYTVGMldXQW1CdE84NXNLN2lfcVBzeUE?oc=5",
+      "summary": "Andreazza: Todo mundo escolhendo o próprio juiz: Fux suspende decisão de Dino | Estadão Analisa Estadão",
+      "date": "2026-09-29T07:00:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Campanha eleitoral da depressão: a última semana dos rejeitados | Estadão Analisa - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONjNRZTYzNnlaNnVwdmpUMnhwMVZyUmFnbTVaejEzRWJma2otdmpKNFJrUk15X2Q3djhXa1MzNUI4S2tjeHhQZldyZHZTcldWSDVKZzhfRjlUZDhubURMRWliem4tWlhCd3A1eWZrMzNVUUZNaFgtSndTTFlxVzZvRVFucXhOa0pIakc3Vnp6VERtd3phY1lBWnFFbUwxS1ZnNXh0Nll5RzdCc3VldGZiSEYxM0NsMWlsQmZwQVJiTWxyOG1qTnNBbXFic9IB0AFBVV95cUxOS0t2eFFwMEVOME4yQWRkQmdZd0gySzRpTmFFMEdjVFNPUFpiVmYyb25nUmkzb2FuSGxTcjNzSENpTVpILWdVclJKTXZNSzBZdTI5TFNxZmYxZnJ1N3pOcjc3d2ZJeEZnREZFSTBFUUxiYVBEWTkwRy1USWZDU3F2X0ZMZzhhbDVKZXFuTWpQX2RHdzJYYUJFMEVvS252bHQ4ejlNTE91aFNnVXZ5WFFUU2ttcVBYZ3A0M0l5LXUtSW5BTHRaNktVcXZObVNvR29v?oc=5",
+      "summary": "Campanha eleitoral da depressão: a última semana dos rejeitados | Estadão Analisa Estadão",
+      "date": "2026-10-20T09:55:51+00:00",
+      "image": ""
+    },
+    {
+      "title": "Andreazza: Censura de Nunes Marques é homenagem a Alexandre de Moraes | Estadão Analisa - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMk1CZldXYk5nS01xR2hhdzN5VWpCSkpBZWJrVnVWWGlHMnpjZ3ZGdG5pbWZyLUs0T0RfemVYTXhTN0pUU1IxZFRqNk96R2ptVUdoUm5DLWJRX2dBakN3TXhRcjRqUVdwS0hOOEdxUWJLNml5TXEzUUpsRVpzMXJCWVZwRi1vQ3JqeEhBX2Y0UTNYZjhScjU0bl9VZDBwbXJLcGY1U2J4ZXBRNjI0Y2xfenZhV2xBbkw3bG1wQ0EzbjBiMjhLczlhZ3JUZjZBbms3YmRJ0gHYAUFVX3lxTE9zQUpVcVdxenRRY3kxcnBXckJFc1lSa3pTX0kyalAxWWFMTnVDU2VCX3g5YUJBaTVmdFZXbVJ1QWR2dU1kUUZLYmFLQnVIc3d0MUtCWXhHcG5sbUxfb3ZFN1hlT2pKWk9YN1hTamxDR2M2WEY1THpNbUk3RE56TzJxdFBseElaLVZ5UkRaVEk4VGMxYVhuTWFOeVc0cncyVFBqcmtrWjJtMnNmdkw3VnpwdjlPaXdKNi13bm5ncXAtbnRkNkNoTEpmOU1qUDVOMzhHU01RS1ZJTA?oc=5",
+      "summary": "Andreazza: Censura de Nunes Marques é homenagem a Alexandre de Moraes | Estadão Analisa Estadão",
+      "date": "2026-10-13T07:00:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Lula x Flávio Bolsonaro: Debate rasteiro à altura da atividade política no Brasil | Estadão Analisa - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZ1hyZnhfYS1EWVpEaW9EQ2k4dmg0NG5JMnQ2OVA0SjktdDRNVjZFWHM4emVvNlphV05pWW1hRXJBVm5oOUZZd1VjX0QxUnZkSkRnNU56Mllfd0pqNUE1NG5xUnRnUFJvZ05xaUxOQ3V2MFJfZmdWbXJicWtKTzZZNDFoWmZRSThCcl9BYnBLM0Z4bHBBbDdNTklCZVU3bGlWTlltOWVJc3MteUVqUURfSXNSaGxFb2dBUDJjS2VrbkNhTlk1cDMwZGZHSG5ZUmVKWmlpemtpd0Y3SFl5TEtuRkRHRdIB6AFBVV95cUxOcEJkUXZPNkVyN2VwbmR6a3BzWUNuTEZ6LTQyZUI5Y1Rwc2djU09LbXh4bmVDcDlURXF5b3VuV3Fsd2FseWtDWWhDdU9Bbl9Od2dyb3o2ZGhWQ0JmSllleDN6YnhVSURHZEJ2X0hGdVhXSmVYOWZHOWljMkF2NjUzcEVhWFdHYmFEOGZkbDJoUXp5a2JYdUNlOFo5ZEJEVDNSMXlianJKaG5mYmlzLWllNURpek1DbjF5el9xSVpLMjAxTkxFWWZ4OElUNFdRLWhTYVhFQmVsa3dabmJYQVNScHV3b1JBbUhI?oc=5",
+      "summary": "Lula x Flávio Bolsonaro: Debate rasteiro à altura da atividade política no Brasil | Estadão Analisa Estadão",
+      "date": "2026-10-19T09:40:52+00:00",
+      "image": ""
+    }
+  ],
   "espn": [
     {
       "title": "Com show de joia da base, Palmeiras derrota Barcelona e estreia com vitória na Messi Cup - ESPN Brasil",
@@ -194,6 +300,13 @@
       "image": ""
     },
     {
+      "title": "Bola de Ouro: a ESPN consegue prever os vencedores do prêmio? - ESPN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOUN1amZJMmxwTy1qZGtVVWsyUm10andQWHFRbnZWd25mck9ZOGs1S1NkZ1UwQk52ek5HU0JrZ2xCWGRkRlloazJTcVgzSXZCOWN4emsxeWNVREtYczk5ZU15eUt6TkZqUHJlN3FFOWdtYVJwNjg2T3ZjLWN6YUFCNTI4NTIzbGRFTEljZ3Fpc3lFZGQtTmV4bXpNM0l3TXQxcmhhQ0pucw?oc=5",
+      "summary": "Bola de Ouro: a ESPN consegue prever os vencedores do prêmio? ESPN Brasil",
+      "date": "2026-10-26T12:37:16+00:00",
+      "image": ""
+    },
+    {
       "title": "Leila detona o Flamengo por tentativa de 'tapetão' na Libertadores: 'Ridículo, falta de respeito' - ESPN Brasil",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPcTBIWDFybEFqVk95VTFUZmRyZnhIX2ZkN1I3elJnQmhqUlVTalJTajlVUTUwX0l1dC1SWHlOaUNrMzBKb1hjYmVQQTRsdlFZRDRudnB1b2hiUFc2Vkg4TWk2SU9Nc3BWT3VrQUo2VVlaRkpLdHNJRG9CWV9CS204T3dYa1BZMVg2RlR2a2Z3Tm8tV2dsZ3NGSVJmVjdZNnlGcHp2NEpBd3dVbzdLM3pkVFV6T0VkSUpKT1hRcXkyYkJtMDZZV0Q2bjdhR19sX3VnVHluOUlpYzh4NXpwUlpqQVNuWUtxdw?oc=5",
       "summary": "Leila detona o Flamengo por tentativa de 'tapetão' na Libertadores: 'Ridículo, falta de respeito' ESPN Brasil",
@@ -205,13 +318,6 @@
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWVZzOHBEalBxdFpERHdDMGQ3Mkh6NVp4UlFiS3g0ZnhWdDYyUXNqWW1xTXFidWU4UTFaeFZITzNXa09VaXJ0OFEydVQyNUhwTXJnbE9CWlpuTkVWdzFBeWxuTlJINkczNTdHZzd2U3Y4TmE5d09teTMxS0g1ODg0Mm5lSzcxdmNkSks5ejFWbWY0UXVxVzB3Z0g3ZWc4cjN2MEhRNGU5dmx2OThQbEttU0I5YmQ5Mmp3MHYxdk9LX2ZhT3JGQmI3V0NDR0Q4MFo0c04zbXZNcHJMUFNMcVl5Ry1ZTkZJcUZrc213?oc=5",
       "summary": "'Estreia dos sonhos se desfez' e 'final maluco': como imprensa holandesa tratou primeiro jogo de Seedorf no comando do Corinthians ESPN Brasil",
       "date": "2026-10-25T14:04:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Galatasaray x Fenerbahçe: onde assistir ao vivo, horário, palpite e prováveis escalações do jogo do Campeonato Turco - ESPN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQcFJyYkVFTkVLS2RWejAweUctN0NSdnRUVXdKb2lCcU5kNTd3SWNJam52ZEROdkdzVVVqYS0taVdyUkdaRVJocDZLU0lBR3JSdWFWM2tSbmdqVUJDY3ZqM3V0THpJajUzZkducnJVVTN2aVRlV0piZEJlYjNOeDk0X2x3dHBJUS1jMXN4R0ZsZHFVWDRGckpxTUpLVzJSbHV2OXV5QThMZ2RHZnNmMUFXYmpBSWItUmdaUkJaZF9UNlZZWEtpNTg1YTFjalNQcHg2MnJkVU9NOGZueFZQZjlSaHJjR3dFSVc1Ml9kbg?oc=5",
-      "summary": "Galatasaray x Fenerbahçe: onde assistir ao vivo, horário, palpite e prováveis escalações do jogo do Campeonato Turco ESPN Brasil",
-      "date": "2026-10-26T02:16:00+00:00",
       "image": ""
     }
   ],
@@ -394,24 +500,10 @@
       "image": ""
     },
     {
-      "title": "Palmeiras vence Barcelona em estreia na Messi Cup; VEJA os melhores momentos - ESPN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84N09sMHpMelZuOExLX0kxYlNCckcyWEZoTTRpMjQ5dnhtZHo5QnJESzk3Z3pfOVBjeDhZZXltczYxS2xnTlF0TFRtNVRuaGZUMWZKbFdRUFNPZw?oc=5",
-      "summary": "Palmeiras vence Barcelona em estreia na Messi Cup; VEJA os melhores momentos ESPN Brasil",
-      "date": "2026-10-25T21:00:56+00:00",
-      "image": ""
-    },
-    {
       "title": "Como Messi Cup é afirmação de jovens para 'cabeças das bases' de Flamengo e Palmeiras: 'Todo mundo quer ver' - ESPN Brasil",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPc3hKdFZoSTF6QnJ4Q2lUMnh6cEVMdWxoVW5EZEhGUG1uSWgzMzN5TF9DcXc5OHV1SURLRzI2QkJzZ3JDRXlJQ0F1NTZaX2dFZnpIVzljSmQ2UVNzNFFoMUxfMVY3WEkwdDdzS1NzZ1RMSUtTT3ZwemIzVnRYOXhLMEE3dUNNTGVjYzJ5UmZMaGJWSE90NGU4bnM0a1F4WlM5UU00MDU1NllrUkJGN3ZhUl9kX2ZVc05YSlREUlY3VFlHT3NQYkRyNFZfUXNTU3FGSWpqb2h2dU1pUUlmRTZpWHJJSFBvWWN4bTA5dQ?oc=5",
       "summary": "Como Messi Cup é afirmação de jovens para 'cabeças das bases' de Flamengo e Palmeiras: 'Todo mundo quer ver' ESPN Brasil",
       "date": "2026-10-25T11:05:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Gol do Palmeiras! Miguel Messias abre o placar contra o Barcelona na Messi Cup; VEJA - ESPN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB1aDlIZ3pDV1ZHRDRXT3RSdGZPV2c3TXFUWWtSWTZDY3pYQ0EtZWlEMG9xdmlQc0pLZ3g4WHJSakhDM3RMUTBNV1VWRTg5ZTlTY0dVdDFvLWRndw?oc=5",
-      "summary": "Gol do Palmeiras! Miguel Messias abre o placar contra o Barcelona na Messi Cup; VEJA ESPN Brasil",
-      "date": "2026-10-25T19:27:56+00:00",
       "image": ""
     },
     {
@@ -422,10 +514,24 @@
       "image": ""
     },
     {
+      "title": "Palmeiras vence Barcelona em estreia na Messi Cup; VEJA os melhores momentos - ESPN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBtTXpKUnJmejFGLXlVVjRRN1YtN1V1RThiLVdFbldZX2lHeERuVWROVmdXLXdOb0FlcjYwWGp5SnoxaFNuMkotSWJSNVJIX2tXaWdUeHRkYXF5MUNl?oc=5",
+      "summary": "Palmeiras vence Barcelona em estreia na Messi Cup; VEJA os melhores momentos ESPN Brasil",
+      "date": "2026-10-25T21:00:56+00:00",
+      "image": ""
+    },
+    {
       "title": "Veja a coletiva de Abel Ferreira após Palmeiras 2 x 0 Bragantino - ge",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWWE0SjVEN2VMOW92ektTVGctWmE3VDlKd3dGSExoajIxUTB3MDc2YWVxSk1BVTg0WS1FZEZ0NnFwek1VV2l2NEtUVldsVnl6VE01R3RrQWNEUEZld3RwSE9KLXhtV0YwU2ZmQkZNUEJfcGVhTHpfWlJ6RXh0ZXZDV2pPSE81WFpsR1lWeWZjTGxCNUc2emNRWHJVUmZmMElZTkZFOUJ6MzJhd9IBuAFBVV95cUxPemFCc2ViX1Fhd1VpVG41WXAyOXZnb05GcmpYS2RCUVdWM0oxdlVYXzlrSTYxZGhlZ2wySkJzWjFUZzJhelVyVE1WajNIRThULUI0QVg2SnIzeE1KUk9Zc0U4RjlHWE5YUmlmZzE5Z2lMaEx3Y1dJMU92aWpieHA3LWs3dlMwV0x2RTNYV2Uyd0hvbUZ5NEZzc3kzc3VkUFFTMTNIdU9uRVdUcVpnZ0V3Wk5qVUI4bG1H?oc=5",
       "summary": "Veja a coletiva de Abel Ferreira após Palmeiras 2 x 0 Bragantino ge",
       "date": "2026-10-25T03:24:19+00:00",
+      "image": ""
+    },
+    {
+      "title": "Neymar leva terceiro cartão amarelo após confusão e desfalca o Santos em clássico; vídeo - ge",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOTjhWQTl5UVFvaGhJSHozV19Ob2xZcVZFQTl1SkZfX0d0dmx0VmlGcjBRYlFucS1QOWV6cXJoVVdtdURxWi1fZE9Ga0RlNlhQSkdocEJhWlFGQ1lDMkhXWlpQWGZBQjRmOXVuODZxWXM5bGlTRTBfQlNvQVo1dHoyU1RHOHB2NWlQUktTVkVPNlZpdzJuWGJYaU1LcXlXV3hDZndHcXRvQnMzbGphdW5ndjh1aVRFQmQ1TzVqX0M3MXllQy1LRVM4dG9FTUZ1bWN2cFVDTTlFQ3E1VmpOWEZUaEl6ZnRHamJUNWR3UG9jYW1Gd0gxRGJ2TUpNMjQ0TGVENWd5RUJQNGNfZ9IBmAJBVV95cUxOMGhiTk5Oc0lZdVJueGxOLTYtMFlBMWxTeFg5ZXhuck1zS1NxcnRnQ2x6eVg0dlZRSVg1NTREZnE1MzBoU2FfdnhFeUN4M1FuRDZHNXNzcW1wUEx2ZW5HOXJFZ1RzeTFoT3BxaThNc09oajZkOF83cXE1SjNGNmRuT3UxMldVaV9CNVlGajhoRUxXd1pBNm9tWWZRVkxuWnUxZ1RlQU1NOTZUZ3hXM194bnR0ck9RWDRpdW9GTkRPeEtYaUw3WDFWbTFIdmkwbmdKcG1Md2RoNGJVQXk3TS1QWDVmOGl6NXl0OTNRQy1JcVQxYmZmVk1OM2Rqd21NMGxoTkZCcWVJb2doYzBnWVAzclZpMk1iMWx5?oc=5",
+      "summary": "Neymar leva terceiro cartão amarelo após confusão e desfalca o Santos em clássico; vídeo ge",
+      "date": "2026-10-25T00:45:08+00:00",
       "image": ""
     }
   ],
