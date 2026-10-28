@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-27T20:20:05.884196+00:00",
+  "updated": "2026-10-28T00:51:10.957894+00:00",
   "thenews": [
+    {
+      "title": "NIGHT #337",
+      "url": "https://thenewscc.beehiiv.com/p/night-337",
+      "summary": "11/05/2026",
+      "date": "2026-10-27T21:51:54+00:00",
+      "image": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/447c8be6-776c-44ac-8a90-a085db16d6f2/image.png"
+    },
     {
       "title": "27/10/2026",
       "url": "https://thenewscc.beehiiv.com/p/27-10-2026",
@@ -98,13 +105,6 @@
       "summary": "tudo que você precisa saber pra começar seu dia bem e informado",
       "date": "2026-10-20T09:02:00+00:00",
       "image": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/7a5323fc-ce90-425e-b41c-e6a65ae03d82/image.png"
-    },
-    {
-      "title": "NIGHT #331",
-      "url": "https://thenewscc.beehiiv.com/p/night-331",
-      "summary": "19/10/2026",
-      "date": "2026-10-19T21:25:01+00:00",
-      "image": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/905c696f-14c3-4625-ad82-6febe21ff032/image.png"
     }
   ],
   "andreazza": [
@@ -219,14 +219,7 @@
       "title": "Giay e Flaco López entram na seleção do Bola de Prata ESPN - ESPN Brasil",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObjA0SmRDSC14YW1SMVkwQWZQVWZwNWd4N2cwQjF4b2RHUDdGc1NMM0YyaDBIeWlsMFV4ZTU2cjNySUdlLVNlcGIyOC1wNS1XUU1ZNDlOT3lOQ09UQkhpVkVILXN5V3paTHJDTlVQUXlfRnZHdExhbnNLZDRQMEl1YVFzNXgxdkdzZFFYQ2s3c1U5RUFjbU90WFpVanptOF8yZDR5TnNvTzFBTV9PVkNldVZEellrU3lt?oc=5",
       "summary": "Giay e Flaco López entram na seleção do Bola de Prata ESPN ESPN Brasil",
-      "date": "2026-10-27T18:56:11+00:00",
-      "image": ""
-    },
-    {
-      "title": "Cruzeiro vê destaques em alta no mercado e projeta venda no fim da temporada; veja quem pode deixar o clube - ESPN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNRWhLWjAzWDVqVkFUOElsTGJVYUhUQVdJT1hkSWp1UGIwMU84c3U2WE44UW5vYzRic0lRNzVobXhFWDQxWXdIclpqendwYS14N2EwaldwNXJxTnJUMkxvMUs5UjJHSlFwYTVucDJtamsweEE1eUkzUDZSc3lyOF9VX1hwZUxUU09kazU1Y2Y4TzA2c2Vaa19adEVGSlZIYmdzMTdXS2ZNTy1oZHRJc2JoREZBbWxDSGhVZ2FSV3NqdjBjaTNXdjBfOWMxSlAxZW1BclV6QUtQeS1zWVItdzloVjFuSWxtUXVSNGZvZC1lRVFqZw?oc=5",
-      "summary": "Cruzeiro vê destaques em alta no mercado e projeta venda no fim da temporada; veja quem pode deixar o clube ESPN Brasil",
-      "date": "2026-10-27T14:54:00+00:00",
+      "date": "2026-10-27T19:22:00+00:00",
       "image": ""
     },
     {
@@ -237,6 +230,20 @@
       "image": ""
     },
     {
+      "title": "Cruzeiro vê destaques em alta no mercado e projeta venda no fim da temporada; veja quem pode deixar o clube - ESPN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNRWhLWjAzWDVqVkFUOElsTGJVYUhUQVdJT1hkSWp1UGIwMU84c3U2WE44UW5vYzRic0lRNzVobXhFWDQxWXdIclpqendwYS14N2EwaldwNXJxTnJUMkxvMUs5UjJHSlFwYTVucDJtamsweEE1eUkzUDZSc3lyOF9VX1hwZUxUU09kazU1Y2Y4TzA2c2Vaa19adEVGSlZIYmdzMTdXS2ZNTy1oZHRJc2JoREZBbWxDSGhVZ2FSV3NqdjBjaTNXdjBfOWMxSlAxZW1BclV6QUtQeS1zWVItdzloVjFuSWxtUXVSNGZvZC1lRVFqZw?oc=5",
+      "summary": "Cruzeiro vê destaques em alta no mercado e projeta venda no fim da temporada; veja quem pode deixar o clube ESPN Brasil",
+      "date": "2026-10-27T14:54:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Bruno Guimarães perde pênalti, Arsenal cai para time da 4ª divisão e está eliminado da Copa da Liga Inglesa - ESPN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNSTV1c0prYmdJbXhPWk1jX2oyYVNSUTJldFVaUUFvZ3pmWlUwT1lvOGhwLWdWdnlVZi1lalM5cEhxODR0YUgzVmpjSk9ESV9EeVNMaW00aUJoRlJiNkNZMW84aFNUZlJMZXUxdWNmSUxPREtyd1Q0LVNZSDVIa1VPUHpnbVZvNkN6bVExQzMwQ1VmQV9nZnM3aVd0U1RzcWxnR3E0T05EdTNKN3E3YlFJbFl0dURkVl9EblU0RkpiOHFpRThYcGM1QTBZR0tUM3FTcVNNTWJOTmxGZ25UWnpGM3l5aUQ3dmRzUjF1M2NUcVg?oc=5",
+      "summary": "Bruno Guimarães perde pênalti, Arsenal cai para time da 4ª divisão e está eliminado da Copa da Liga Inglesa ESPN Brasil",
+      "date": "2026-10-27T22:51:58+00:00",
+      "image": ""
+    },
+    {
       "title": "Corinthians: compliance apontou 5 'riscos significativos' em empresa contratada por Stabile - ESPN Brasil",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOM2M2TVEzb0RVaTlHS01vNGZNX0lRaXU2ZVVmMG1MdDlsY1RQRGYzb1ozeUozMUlTUHN5eFJKTmFuSHFNa1dPVXVEYldmbXhoTUQwSHVMOTVydGhXbGduWlBrNmhjZ0VyNWxFalNnaGpObzhidmZrRHR3WjZDY0ZPazhLaFduX2FvS2NNekpPVGZTSlFPRFNRQ0VlUmI4RWhyWkpIdVJ4VEM2anV3SWEtMHBRTXl3cFhMbUVhXzl2UVo0ZnZBc2F1ZWFtWWRiNHRjd3dqcGZmTjg1Qi1GaklnS2d3?oc=5",
       "summary": "Corinthians: compliance apontou 5 'riscos significativos' em empresa contratada por Stabile ESPN Brasil",
@@ -244,17 +251,17 @@
       "image": ""
     },
     {
-      "title": "Caso Rojo: o que diz documento que pode punir Estudiantes e colocar Flamengo na final da Libertadores - ESPN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPUG84djFQTElZUUtNTFRERnE1U0x3WTBrdk01TVhJQmNBdmJuOXZhaUd1Sk5IVERfRTRPc3IzSDBxSWEyanNYVVo2THp1QV9EQkk5MTU0djlOWmlacFRNbk9vVW9LaXN6Wm13TzRQZlYwUG1rcmFMWW02M3VRdjB5SFNwdDY3ZEVEQjJUVm9sU1c2SUNuaHo3V2RMcEpnZTRncnNoS1JrSjBPeFVHWFgyT3BPeEtZSTl2SFJkMWFzVWE0ZERQWkR5T25OMGh0Rnd1MWhYR0tjZjBuTGlaWGJBVnAzWjVhWVk?oc=5",
-      "summary": "Caso Rojo: o que diz documento que pode punir Estudiantes e colocar Flamengo na final da Libertadores ESPN Brasil",
-      "date": "2026-10-27T05:43:00+00:00",
-      "image": ""
-    },
-    {
       "title": "Mbappé provoca crise com a China por 'meme' e se desculpa após risco de boicote até a LALIGA - ESPN Brasil",
       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPX3FDRnNvNVFyS0RMckt6ckc3N3dpN0RVcjEzRi1rVUhlSVBZbDl6eURQbi1SeEl2aGpBVlhJZTdoaGpxaWFuVlNQaWtzVWhqamQ3aGhxak5wNzNnVERmZGJoYkh1eUNxbjBrRWdwMmJoQ1ZObmVOMzBRdlE4NXBvSXZlR2JXM3RYZEFqNjZYQUk0M3BlVExCTWl0UExYXzBYNUpUMGV1OFlrUmo5d3R5eW5xNHcxbk5vTE0ybFFyV0RJWTVwTnlUYXZHWS1RNHhsaUlTY1NaazVraWFhbVNnd0RRUUZ6UDA5czBDbFFmZF9wM0lfTUVzQURtYw?oc=5",
       "summary": "Mbappé provoca crise com a China por 'meme' e se desculpa após risco de boicote até a LALIGA ESPN Brasil",
       "date": "2026-10-27T13:45:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Caso Rojo: o que diz documento que pode punir Estudiantes e colocar Flamengo na final da Libertadores - ESPN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPUG84djFQTElZUUtNTFRERnE1U0x3WTBrdk01TVhJQmNBdmJuOXZhaUd1Sk5IVERfRTRPc3IzSDBxSWEyanNYVVo2THp1QV9EQkk5MTU0djlOWmlacFRNbk9vVW9LaXN6Wm13TzRQZlYwUG1rcmFMWW02M3VRdjB5SFNwdDY3ZEVEQjJUVm9sU1c2SUNuaHo3V2RMcEpnZTRncnNoS1JrSjBPeFVHWFgyT3BPeEtZSTl2SFJkMWFzVWE0ZERQWkR5T25OMGh0Rnd1MWhYR0tjZjBuTGlaWGJBVnAzWjVhWVk?oc=5",
+      "summary": "Caso Rojo: o que diz documento que pode punir Estudiantes e colocar Flamengo na final da Libertadores ESPN Brasil",
+      "date": "2026-10-27T05:43:00+00:00",
       "image": ""
     },
     {
@@ -272,13 +279,6 @@
       "image": ""
     },
     {
-      "title": "Jardim crê em Flamengo jogando a final da Libertadores contra o Palmeiras: 'É possível. Está com jurídico' - ESPN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOcEY0dWRmUVNoMDFsam5aOEpwMEUzaWFtRlVfV0hFQ1JubGUzWTdkbkd2YjhidkNFQ0V0QUdVSlhXeWxTaHlQbnBrT1ZNX3pXVzdyeFlhQWlkSVZPNnk3Wl9mRlVOU3pxOWxYeVp6QXhJbmFQbjVQbWhEbmdFVDNKaDlKYTd3aVEwdE9jaHA5ZUJnS2VCdHljNFRTNlJjckItbFlFNTljQmxrOTV2MmtvcE1Dbkl4UnJMYTVXZDEtRkRaQjdQLWxPcGZGS0NiU2pROVhKcmh2YXhFMW42QmNUUnVyekUxcHh4Skp0ZUVyVUUzZWFFTUE?oc=5",
-      "summary": "Jardim crê em Flamengo jogando a final da Libertadores contra o Palmeiras: 'É possível. Está com jurídico' ESPN Brasil",
-      "date": "2026-10-27T03:09:00+00:00",
-      "image": ""
-    },
-    {
       "title": "Corinthians tem 54% de chance de rebaixamento após desmoronar com 1 ponto em 30; Inter reduz risco de queda - ESPN Brasil",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOUFc5TklUNGx3cTg4U3dWbngtNGJwR2syMERDUXBDdU1oTVF4WWlMbm5TNmpCc1pyazlNdXZFbVdQQ2IyNDdzY3hOVWg5eGRqdnVQR2dHdTdKc1lmVEFYYnNmVEktSkpoQUNrZDM2Q1dnWGY2Zkg5aG5ZTnE3VXZQM2ZUaDRLN3NzVHU1YzU3ajltUXFwcXQ5dGRrbVJwMEpnUG5McGF1Wk5rWjluZlZMX2FBSUlCRVZLSjY4TzBxUS1lZktWU1U0eW04NExlNVR2QjgzSmNRRUd0VUlhUUNqSklqWW95UDhEcE84?oc=5",
       "summary": "Corinthians tem 54% de chance de rebaixamento após desmoronar com 1 ponto em 30; Inter reduz risco de queda ESPN Brasil",
@@ -286,17 +286,10 @@
       "image": ""
     },
     {
-      "title": "Palmeiras tem 'problemão' antes de clássico e decisão na Copa do Brasil - ESPN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVFM5UFJzak9pbmdIUXNKbVB6QmNNWm5VeEdycEFvVVZxblVpWFVPZFY5S3p3U0JMNEQ5MUZvOVVDR0ljMnFjVVo2UXNBT1lmVkcwRjNmdjJmUGw1M0diTWpjOXR1b0NUUm92V0tjR3c4dmFXTnNWNWc3bnpXc2FIUVgxYi1DQ05CRkNtVkJkNDZWeFNSSHdjRmdKa2E0LVZ4TUFTXy1sRGZKdkdnVEZzSHI3NGtjellMdG0wY1VtS0xOcHJ5dEJjTFFRMTI4dl9LYmVXWi1uN3ItOEM0VmtmRg?oc=5",
-      "summary": "Palmeiras tem 'problemão' antes de clássico e decisão na Copa do Brasil ESPN Brasil",
-      "date": "2026-10-26T18:41:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Bola de Ouro divulga colocações de brasileiros na disputa de melhor do mundo - ESPN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQcWlEM0lvM3JCeDhjMDRLYjA5aEhyUExkd2VDUlpwZWNYSGFPU05hXzBFeUJuU1RFb3FEbGlYMkNwYTdod2h1QkNCRThOdlRnSnZPRzM1enl6blRHdXNfLWhVU29xUGpncVpMeVlycnU5NlVUdmZiT3dxeFAtOWJTRUY5WjBvSHJKLTU4cVBGRXlGWi1tQlM3R3U4dGVJZElzMm1OMF9CQXNsUS1Yek1faUJ6aWFKT0tsS3pia05MZUtQYlFfZkdJODdyQkpTVDZoVE8tN3AweHlaMXk1ZmJhLVJWTHBvOURrRWwwbVBXOUFhZWVyeEZ4cXh4cnM?oc=5",
-      "summary": "Bola de Ouro divulga colocações de brasileiros na disputa de melhor do mundo ESPN Brasil",
-      "date": "2026-10-26T19:03:00+00:00",
+      "title": "Jardim crê em Flamengo jogando a final da Libertadores contra o Palmeiras: 'É possível. Está com jurídico' - ESPN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOcEY0dWRmUVNoMDFsam5aOEpwMEUzaWFtRlVfV0hFQ1JubGUzWTdkbkd2YjhidkNFQ0V0QUdVSlhXeWxTaHlQbnBrT1ZNX3pXVzdyeFlhQWlkSVZPNnk3Wl9mRlVOU3pxOWxYeVp6QXhJbmFQbjVQbWhEbmdFVDNKaDlKYTd3aVEwdE9jaHA5ZUJnS2VCdHljNFRTNlJjckItbFlFNTljQmxrOTV2MmtvcE1Dbkl4UnJMYTVXZDEtRkRaQjdQLWxPcGZGS0NiU2pROVhKcmh2YXhFMW42QmNUUnVyekUxcHh4Skp0ZUVyVUUzZWFFTUE?oc=5",
+      "summary": "Jardim crê em Flamengo jogando a final da Libertadores contra o Palmeiras: 'É possível. Está com jurídico' ESPN Brasil",
+      "date": "2026-10-27T03:09:00+00:00",
       "image": ""
     },
     {
@@ -307,17 +300,24 @@
       "image": ""
     },
     {
-      "title": "Corinthians vê pessimismo crescer após lesão e pode ter Memphis Depay em campo só depois da Data Fifa - ESPN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOZkE4OU85N3R4VUxad1BGWGdzX1lJUXR6Y0U1RDcyVHhsWl9MMHNPSDFVek50MEptY1lyRkc0LUE2UTA3bElkUzlSeVBTcHNpVXNlVE9LYldnWTJvbUFKSnVoWkRvZFFSb2dEQmM0ZmJKT1FqdUV2V3RQV1dfNlB5YU85YUUxR18wZkZNalp3ejNPVWhJbjdDMnNzdS1mV0F4VE1WVzNoVE9mRXljMW05aVV3MDFpWkE1T2t4VF9pTTZCcjI5MWtvT3FDYm1Qc3R0ZzRrQnhEelVBSWFsY2JqeHBoZlZ5VzhTR2RIajB2b213bGo1dzhtMnhB?oc=5",
-      "summary": "Corinthians vê pessimismo crescer após lesão e pode ter Memphis Depay em campo só depois da Data Fifa ESPN Brasil",
-      "date": "2026-10-26T17:20:00+00:00",
-      "image": ""
-    },
-    {
       "title": "Ex-diretor detona Stabile ao MP, diz que viveu 'assassinato de reputação' e expõe 'sistema radioativo' no Corinthians - ESPN Brasil",
       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZ0ptODU3TFdPcmVWSHdMRGp5d3k5S0xsTXVGLXNFOGNiWFJ4bFFZc1JBZGVpaEVRZlh0bXd3Nk13QnZjV3Jfa1BsUFdLb3BXVkFhdVRLZzhVcVVtTHBlZWxXRUVmbTFaY2dyWmJhaGRwZDdhaERvSXN2eEpNV0NYRVFIeFVxbGpyZDVPdG1NYllndEFkUDVhM2RabERWd2luNEs4U2U2Ni1CYUhwZ3FMQ0EyaER0T3FQR2loMnNDN2RfZm5mX0ZHTkZ6cFhhQTZWMEFhc0xUZDZ6QU5sSklBVk5mbXJWSXRsU25TMDVzdzVoeWFs?oc=5",
       "summary": "Ex-diretor detona Stabile ao MP, diz que viveu 'assassinato de reputação' e expõe 'sistema radioativo' no Corinthians ESPN Brasil",
       "date": "2026-10-27T01:24:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Coritiba anuncia saída do técnico Fernando Seabra após sétimo jogo sem vitória no Brasileirão - ESPN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPYnQ2VVFOT0t0bF9PVVpGQlZMUlVYMUJtX1JsalVOOGJpTk9KVTVMc1c4ZGQxOTBwSDh5ZHJ6cEhfeTNHOFA4VVF4bnF5RGdicV9YY2s4TllrRWF4OUNtWG44VU1LTUprMUxXeXhtQnBrd0Z4dHlnalZ5aWRXME52M29yZUJoU2l2T3p4bnFmWE5zMjBoaDlmNFdOeENZZFFtb3pYWXlMUnhrREU2YV9Ib3RXZURLcXd4Tnk4dWl6VHhxQm9UOGliV201YWg2Y1I0X1FkcEtaalhRWGs4UlQ2LVNxVV9MMkc0NmgtNEh3?oc=5",
+      "summary": "Coritiba anuncia saída do técnico Fernando Seabra após sétimo jogo sem vitória no Brasileirão ESPN Brasil",
+      "date": "2026-10-27T22:07:27+00:00",
+      "image": ""
+    },
+    {
+      "title": "Monaco de Filipe Luís tropeça contra time de filho de Ancelotti na Ligue 1 - ESPN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNcUV6Nk9DbnZrdHdod243MGdkVENDZjdvaXpIMW5BSWZDUEdfb2R6eWVkejFPYXd0U2pHc01uemI2Y3dtNmFCVm91b3N2V2R2dXJNQjRoR2pkWGFiNXRJMGxyVy1WakhhOEZpTk55RGIwbFY5THdfbTI1cXR4bGFkNHBFNVFMcVZMLVN3c3NINzNzc2F0UF9YclE5cDFrcEstamVFc3lPbWJKNVFDTTl3aXZUbFpaVlkxaVlnSGh2R01JUFhmNVkyT1ZKUFMzUFVnU3VFS1Q3cnNCa2ZBc0ZmLUFha1cwUktjT3gyOWZ2d0duX1lab3JIamRIU2M1bGFPV0E?oc=5",
+      "summary": "Monaco de Filipe Luís tropeça contra time de filho de Ancelotti na Ligue 1 ESPN Brasil",
+      "date": "2026-10-25T20:06:00+00:00",
       "image": ""
     }
   ],
@@ -351,6 +351,13 @@
       "image": ""
     },
     {
+      "title": "Redação analisa postura do Atlético-MG em duelo contra Flamengo - ge",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTnZyNHZrMlZNVUR5OEVkS1RUdkcxQm43MjdMdzhMM01QMHI1bmJPLW54MXFpNXhRM2RnaG5Ka1dscndaUWhGeEpqdVM1bE01dnhhblpIUWVWUERDQWlUVUVZRWQzemxVRWhnSEVZbUxHVmNuangxaWl4SW1lb0RYcFkwU3lzWEg3Ymx0MEJUb0phb0o4bkY1M25nWHFGQk54SVRXQWdCOVlDNHpSVjRFdEx1R05mZTNYcm9ycGFkWVVQdnJuS1BBRVVxVWtLZVJieElR0gHiAUFVX3lxTFB1clhMcEl6VXotbWFRa0Yya2o3VU9GemVBQVFJSGhJRy1Zck8temZiM2d3bmlVYzZZMUZGNW1kaVI2MHdVTGNuTjRVOHdVT0NZdTJDdlRPT3M1MTU2NUFKQUlISlB5MDRaYlAxdzBtZU44XzhSWFcwei1IaXR4NHZnTUhXT1BDU29oUXdjMloyN3VfV3QwbC02SUdkdXNsejAtYnJsenh4X3ZRLS1pREh0d1QzeWVFZ0JJbHMtUHhYajVnekQ5T3pyc3ZMYWVyVWc2UU9RWklFRFlqRGFJM2tYcWc?oc=5",
+      "summary": "Redação analisa postura do Atlético-MG em duelo contra Flamengo ge",
+      "date": "2026-10-27T14:10:45+00:00",
+      "image": ""
+    },
+    {
       "title": "Lino: \"É o resultado que muda o ambiente pro Grêmio\" - ge",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWEtKZzh1SWFFcDhSRVptd3JmelVmNFZpZTdRamxCYnJpaVFvWGxyamFJR0FkUmFvRVktaU5QNVpZVVVoZUp3eGM1V3NMYlRFR3o1YkxwX240VzhOYVBHUWo5M3YxbkQxWGRlY0xzVnRrMzM0ZmhkWkQ0WWIxT3hpYmJVYkZ1UFhYODVjUmFmM1dVYmE0ZVNFQUhRbUpSOUVjZU1aSUpQeXB3XzNuSFhZT3lLZjNmamxqZXNlTzZVbDfSAc8BQVVfeXFMTjlvZEJEMlNxdU1CNElHdlprWExILTZIUEhzaE5mX2Y4NXllbGcwYjZJMEZNclhXdUxhZFZlZFRCMU54NzFCeDV4NzJ2d0tzVC1DQWJHUXN2LW53bTJIU09pWXM4bzNXX2NEMnFmbUNVN1FqTmJaLTVYLXczYVdkbkpIS1lZdUZ4MHVDZWtlaHZHM0ZCT0tqbVFnX3Fwb0NCRGVoVl83U2MzeUtuRG1sWXNJQS0yc3BDcVF2QXdPeGg4WGhwdnZhQmJZdENnUXEw?oc=5",
       "summary": "Lino: \"É o resultado que muda o ambiente pro Grêmio\" ge",
@@ -365,10 +372,10 @@
       "image": ""
     },
     {
-      "title": "Redação analisa postura do Atlético-MG em duelo contra Flamengo - ge",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTnZyNHZrMlZNVUR5OEVkS1RUdkcxQm43MjdMdzhMM01QMHI1bmJPLW54MXFpNXhRM2RnaG5Ka1dscndaUWhGeEpqdVM1bE01dnhhblpIUWVWUERDQWlUVUVZRWQzemxVRWhnSEVZbUxHVmNuangxaWl4SW1lb0RYcFkwU3lzWEg3Ymx0MEJUb0phb0o4bkY1M25nWHFGQk54SVRXQWdCOVlDNHpSVjRFdEx1R05mZTNYcm9ycGFkWVVQdnJuS1BBRVVxVWtLZVJieElR0gHiAUFVX3lxTFB1clhMcEl6VXotbWFRa0Yya2o3VU9GemVBQVFJSGhJRy1Zck8temZiM2d3bmlVYzZZMUZGNW1kaVI2MHdVTGNuTjRVOHdVT0NZdTJDdlRPT3M1MTU2NUFKQUlISlB5MDRaYlAxdzBtZU44XzhSWFcwei1IaXR4NHZnTUhXT1BDU29oUXdjMloyN3VfV3QwbC02SUdkdXNsejAtYnJsenh4X3ZRLS1pREh0d1QzeWVFZ0JJbHMtUHhYajVnekQ5T3pyc3ZMYWVyVWc2UU9RWklFRFlqRGFJM2tYcWc?oc=5",
-      "summary": "Redação analisa postura do Atlético-MG em duelo contra Flamengo ge",
-      "date": "2026-10-27T14:10:45+00:00",
+      "title": "Lino: \"O Leonardo Jardim não conseguiu construir uma identidade nesse time\" - ge",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdjNZdE1jYTFyUG9RaU1aTTdXZXUzRWp0dkt4OGVmeDJhMkNrQUVwRlF4MGJCeTB1dERWdzZUcmY2ck9MY0dhbnUwTWRUdXlQU1RtOTdLQWRjZ3locG9WMlVwVVlxSXdRMWV6THJPeEwzTHhSRnZUWTdnbjlVLWx3dFlFUTFZbURPdTk5MXdDNVlMM3V3NjBOTkJONmQ1MWJsdHBQVjkwTl8wUzV4TEE3R21rSDhPVzYwNE5rbXRjSlFlTWZFNEhRVXduVm1ERndBQUNUSGVSNjNpOFVrLWxV0gHuAUFVX3lxTE1YUkdPMGRQc1A1RFdmMEVFTHRVcmpPMzJXRnp4Qmpmd0ktTFY5SFZBYlZ0Ny1wMC0xS1d0ZVZWc0wwX3FrdkEteXJ6WGwzVEdGU3VkTXA3RlNybjhkd1ZuX250aDBTRTNzbzdnMDlxRVJmempvdnRic1I5d09hNmRkZFBZTkpBWF9fSy1ZRUc4YUc2dDd1LXJ2Z3lORjRXUzk3X3lqMGZlNmdsSW5zRURYSmtSbi1XYnY2ckRYWGE0VUR2M0dlS2h3bnUxTWZXaTJyWGZCclZ3QXR3a0p3dGwtcWdSSGVneEFZdmtHeHc?oc=5",
+      "summary": "Lino: \"O Leonardo Jardim não conseguiu construir uma identidade nesse time\" ge",
+      "date": "2026-10-27T19:39:08+00:00",
       "image": ""
     },
     {
@@ -376,13 +383,6 @@
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZGhCbmJYRU02Sm50aHdKRWUzekhxdm9xMGItLVB6SVhic1pzSE9iU3pZM0IxMHZLTEFWRkhQWEdoa0MyVnlpNy1GV3VzbWp0cndoeTkxS1J2NThyR0R3UHZFM19HLXgtb2pWVG5UX2ZGcGp4UWJMV1FsV0MxbHdHTEtTM1BWeF9EOGR4cUdJOXJ0NUZUSzFmUFhOQXlxM3NMdXNKejNPQmhLZTM1bGJBM2pGV01ubmNFZnlteUtLQ3dZRGFyVUxuQXlQc1lDOV9fMHdyU0h3UVhza1Z0V0c5M0lXektHbGpwQWfSAfgBQVVfeXFMUE1OMjJRSmxNelQxR3VZa1YteXB0LXFZVklSMEhQaWktNDRydW1xNGNlS0c4R3NiZ041MnZ2bl9uWlBiVFA4c3BBZC1QM2RJbjNjTGJUcUdfWTVEUmRHbnpiMXNuUEsyVUJKaXI4NmZyenVNcm5Mc0xfYS1veWlKb1lULXZzZjdKazhid2tzRThFc08zS2hSWlBVcXp4VWJrZDltT2c5UEpPejVIa3VWSThNUGh0RVRuUTJGeFdWY240REhJUy1QM2E3VFYzLXZPRWRsV1hMZ3k0emRfNDFZRUxBT0JEY3RJaVpHX2VFR2tocUF0SkQ2dDA?oc=5",
       "summary": "Gato Mestre: Redação Sportv exibe gráfico da média de finalizações no Brasileirão ge",
       "date": "2026-10-27T14:13:43+00:00",
-      "image": ""
-    },
-    {
-      "title": "André Rizek acredita que Carrascal está à frente de Lucas Paquetá no Flamengo - ge",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNNk9ZMGFoT1I0LUEzeWZkdzRwcmpfYmIyTW9NbVJMMlphQ2RSUlNYbWNKQldrM2g0RWctZUd3MVpXVWZxQXpZcHhwNUVUbTFRb0JBVlVCWnBUYVlROHc0RllLdEJmRHZOQXBjMmZaRmJIR2o2RnJOQzVPeU9YemRDd0hobmVZeG1BSy1jTlJhbldnNE9JaklxSzF2VVo5UUZCWUU5bXlTeFlXb2dxOGk4TEdzMm5Hckp1NHBRU0EydklZajBXeFRZNHJfXzFZcWxNM2NzMk5YckFRdi1zaDVJQk54Y29xd9IB9AFBVV95cUxQc21EUExQZHdwQWlwVUVHQlRJODFJajZUSzB6UjVkenVfbHJuWEp2ZlhiYmNmb25PaGQ1ZDFTclg0ZmZNZXg5d0tpYnppZDh5cGQtRDdNUjA4SmhwT2JJNnVPZXZLVTVxOHllNW5CbDVMVUlEQTc2Tk5tOEZaRmdEU2dsWW14Zm9MRWYzOUpDamdsS2JyaldkV0dEYzExVndYWFNYTF9CVmNaWjN6VGotMWNPalBCQUZsdVBsMHpCVVhEUGZGUk0zY2Z4RW81MFRSYnp5RDI2V1dOUnBidGNaYUNrRnRmWnVSR1NvYjRGOFVTYTFM?oc=5",
-      "summary": "André Rizek acredita que Carrascal está à frente de Lucas Paquetá no Flamengo ge",
-      "date": "2026-10-27T18:06:08+00:00",
       "image": ""
     },
     {
@@ -407,10 +407,17 @@
       "image": ""
     },
     {
-      "title": "Lédio sobre Seedorf: \"É muito low profile. Corinthians precisa de ânimo\" - ge",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTVh2aE1hMkVaMTFaNlVHY25hUXR4UDZZeFo0Y2pkeXpqTzhMc05zeEpOOTRVMXdsTnBlZ1RHQm9ldk5lWTdYLVBTYWQwQmNzaEs1TEZiYUlRWmtRVk1ZYXRTNlpLYzZINEx3TkxSYnVUQ3Z4TDVBeWZZcVRla0RqelpzY2Z3dVNHZEZENDhGb3B3ejNKSkdkRlR4QS1YdEJOdnR2R1JreFpfWEZNYmtVMjF2NXRVVUFISmZJLTZIU1YzSzVsQTVpaWZiYkRnUlRNUXg1Y3VPUndLd9IB6AFBVV95cUxPanlQVDZFb0lfT2RmODFJajh3YklzMzNMQVZvYWZlakFsSS1qemZQLVlhc2NkUFRnRUZjVkRvSnlsaUhXbkRCQnNzUFVRV2lVUFBNMS00OGphd3NKSzJCa0J5cDNXVnhPRzZtWk10M1ZyX2hOM0JBdFVwSGxpUDJFX1g3RjdRVXo4MVFYTUlBTW5KTlhuYW1CUHQxdm56N21BWEhsOTIwSU1jUktRMXlRZkttdzdkakwyN2wyN3lqMHhWWUtvbTAwZW52cjdxbi1EUldGWVRtcHpMcm5pY3BIbXhWTk1USjZa?oc=5",
-      "summary": "Lédio sobre Seedorf: \"É muito low profile. Corinthians precisa de ânimo\" ge",
-      "date": "2026-10-26T19:35:33+00:00",
+      "title": "Belle Suarez debate reação de Neymar: \"Cai em pilha toda, se destempera toda hora\" - ge",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTGExVk9ubFFjaUlBWWdHSEdaMFVyb3dJcU1YeWc3d05HRHNybnRadnBBX3g1MXpzQVM4VmdyR25ueTN6NW1pZjN0aHRRTW5kUFJlUktpeVg1akNXazVfR3FySHR2ZUdUUlIyekEtclBwcFNDTm1OSVNTcnh1VlVZRExranBXX2psLXJLd1FhUnJtZ2pXUjBqNkNzRzFXUF9ZRkVnTGM3azBtMXRzTEM0YVVVWmhEcHk2c29ZWUowOUdwQzg1d0s5MGRURV9XVVZGdmI2RHBHaGtXckl4WG04bC1Mb9IB8gFBVV95cUxNeURCUWlRSmJzclEzZ0M1NnNuX01IRkY2a3E2c0NkTU5TbG1uS2FjY0xwd2hfaG5DV1BraHFXdDNoc01XZ2hsR3RiM3QxWmwtaml0dWh2QlBCM25rMHgxWlkzTjdQc1Zma25rRUJsRUtSSVRQZGVvdXhySXhNcmZuS2pCQk9PWUdVTmR3OWZ2YWEzaDRqcVZfNWxyU3JIaWt5eDZRNHdpQVoxa0FhbnBHV3p1bWhubUhUUm5PRlcyMjFkT283bTdReDZodGpXUGpJVXM4amIxV1lNQnRSSFB3ZnBJUmhFcEhaYlIxYVRZdTZtdw?oc=5",
+      "summary": "Belle Suarez debate reação de Neymar: \"Cai em pilha toda, se destempera toda hora\" ge",
+      "date": "2026-10-26T14:27:57+00:00",
+      "image": ""
+    },
+    {
+      "title": "Vini Bueno analisa o elenco do Corinthians na briga contra o Z-4: \"ruim e caro\" - ge",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOM0xoaVZ6QXZjS3dQWTA0MmRyYVdVenVFczczWGsyVFczRXZicTRFeW9pcDNjR3UwMnZCZEdOaGVWbEUwTG9rRkxTLXNiYXA1MmpaMEhoakJ1Y1NVM1pYTmF6UWdGdjVkVjl2SEVhRXVCRnJGTTVOdHhOSzVjVGFSSnlRMXpjY2VFSG5UZVFXVm43U2tRM25TWEU5V05FWGdkdldfTVJ6TzRTbURIM2VndDE5UW45dHZzWkdwRV9aaW8ydkpzdDd3SHZvME0zb3JCSUI4dlVHNU1zUGhWMERuONIB7wFBVV95cUxNNXhBUC1sVDZxMXdEM25wa3M0My1ZNlB6UDlUWHRhOUFlUkoxUEFyTk81M0wwS0ZXVExyWTA2Z1lrMlhYc2xDY0dmMG9yNHBmSEJGa1ozdmZ3V0dxLWx5OGZWUmVlWFBicGNHYVdiVnFqdzdGdzA2blJPMW03WURmQWhocW9XdVRZT3JBM1pNQWlYTk13ZGs0ZENnN0E4cGUxRE83UXlna19ia1ZyMzNpLU9oZ1J6ZWs5b3Bob0xmOVVIX2JxNnlVVC1zSlluMko1YnlPQnZmUmR5YTVWQURzNHRIVXotUnBpVlN3RS1MQQ?oc=5",
+      "summary": "Vini Bueno analisa o elenco do Corinthians na briga contra o Z-4: \"ruim e caro\" ge",
+      "date": "2026-10-26T14:40:22+00:00",
       "image": ""
     },
     {
@@ -419,21 +426,42 @@
       "summary": "Flávia Saraiva sobre final da trave no domingo: \"Final é aquele toque de acerto\" ge",
       "date": "2026-10-23T20:05:28+00:00",
       "image": ""
-    },
-    {
-      "title": "Skye Blakely brilha no solo e conquista ouro no Mundial de Ginástica - ge",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeTVVeEY1OGNtYWYyOUV0Um1nQ3o5c2hNVGtZYjFLQXJVS3ItN0xwSnhNdW8tNnRZTzZKOVVYVVB2MHlhcXQ1X0g5bkIyVi1ZZFBlYWFUM0dQUnFXcU92RndyNFduSzBYZ3pVSTlCRzR5NkNpSEF2Q0U5TG5LUXI2cE1RQ2o1emVGMllOVldEWUppMWU4MUtPLTlWU2RaXzVLX040cEtZeUVjdFphR0wtSzBMcWxKNjVK0gHHAUFVX3lxTE0ySlByQUZCMlBtdG1PNGI5UGVZQ2NOX2JTbEJCVmhOZDZLeUJjVXc1MWtqUFJhZU9rR1BZNXlTV29oSU5icE9SV01FelZ4aFBxVF9aQXdMYlJURkxYYk5HRnVqRTByeWZfM2tOaElWVlJ4Zk9JQi11Z29CQVRRUXJ6UkUzRHh4U0F2VzJGcWRhMVdqejFIUFBEUFU5Q2gwbmJQdjRrWmlZY1hWeW4xRHlkVF93SDFLa0tXV0dSRGJteGNLVFIxYlU?oc=5",
-      "summary": "Skye Blakely brilha no solo e conquista ouro no Mundial de Ginástica ge",
-      "date": "2026-10-23T19:51:03+00:00",
-      "image": ""
     }
   ],
   "palmeiras": [
+    {
+      "title": "Finalista, Palmeiras é citado em processo que envolve Flamengo e Estudiantes; entenda o caso - ge",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNcDFDVF95X3VCZDVMY0lSRjJ5ZWVGb1k4OFJrSVVKVkZDLTNVcHZadnNHMFNtTWJMbGhQa2lXMDc3cENNNEhVcUQ3czg5cVc0blhRcVdyZUJyTVp6eDdqZTd0NVhIcXhYTlk0d0ttSWFBVGQ2TS0yWGZEckZFRnhvdl9Pd0pfOWVocFJZV3FrYXZsZDhiYzJBdHRDVUd0WFFJMTY1Y1BtR0stZzRtTmJ5UHFQb1gwb0psVDR6Tkp5RUdhNmhWdnQtcTdXUFh1WVhpNmFTTVdQU1hOUVE1dVoyQ1U0dThmT21VMnBZamMwRXBsZ9IBgAJBVV95cUxNd09JNVNlYW1scWdscVVTclRyX2NhZlZFcUwya2ZCckgyQW9EaEEwS280RWFHazJtUGtOX0l6SHZOQlF2TWs1NW12aURHYW9tc3Z0LVkycHVlaE5zanFTNFl5Z3pLMmJMRmF0TVc0Rm1YNEZJQ05RUkYtdFNsLVdHSXJlMzI1aGl5dWU5YVRvVE1BcWVGVEdYMlM2X1lhVm5xTlJPTW9QR1RZMERyc3pxdmMyY3JNSjVvODl4NW11ZzhHX0pUTjNaa1BPUHRZOGtYSGFQNGI3Q0NhZmZqaUVJUFVubExPVEVkanZjNWZBZW91SzNtcHhhRlN6YlNrLUJW?oc=5",
+      "summary": "Finalista, Palmeiras é citado em processo que envolve Flamengo e Estudiantes; entenda o caso ge",
+      "date": "2026-10-27T19:13:56+00:00",
+      "image": ""
+    },
+    {
+      "title": "Mayke trata lesão no Palmeiras depois de rescindir com Santos - ge",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYjJ4TWp0SnNMQXFUV1U4Uy0wQ3BpeTFxck9FWXNYaWJ2NFhZUFZTLTB1N25JZHViWmVZVW14QXlyeFlLMVIyMF9uLS1RQU1OTFNIazNVRURiT0dqdnpLRGE4a1R3ZHNidHl3N3JDQkQ5eE1uQjJjYUJoYkpTSW1wd1d6RHJrWDdkYllZSTZGcGZRaURHMmRTRUdWM21rX3dSMC1RZENlU3FHV2xTV2UwNHpqQ1hnSmFKX05sVnhjbHFaWWNGanFHYmRIWdIB2gFBVV95cUxNR0JsUWk5dkVfaEtMbUFySkp4SENzSVNrZ2FnaGVRZVNGX01ieTE3ekZMRnlYV3lSdUNpVkZ5UkVXYTFGTDZUTllIV2k1eXBDZG9FVkN0eFNZRkMwU253VUFxMEl0T01sTUx5YWhZaUE0NWpUM0MycUhyeHo4SDdUT3lJRnUyQzBYQjYxVXZNREExbVpZLXRCOWFGeTRLNEtkSWxwd3BPRE5VZzB4MU0zY2VWcVdqbUpaLTQ4cENJTFZSbE5ZalhNcXVuQWJOT2tzNkpDYzdhZGdCdw?oc=5",
+      "summary": "Mayke trata lesão no Palmeiras depois de rescindir com Santos ge",
+      "date": "2026-10-27T17:55:49+00:00",
+      "image": ""
+    },
+    {
+      "title": "Fernando Seabra é o 20º técnico demitido no Brasileirão 2026; veja a lista - ge",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPV2RCMFVDbUtVMlcyWi1kRnlKMllCX1FMMHB4bmZ5dXFCVXNVRkZ6b2xYMGxBd2dvRkpLU0hUQkQwUlR4c3NOcVQ2bDhobDlpazQ2SExoNnJqazZaYnZxYmktMWQtTnVYWmxHMVV5R2FoZWhWRGRTOTh5RmJkUVRXUUJZLXNCeVg5d1IwUzRyc2NyclZCMVNITmZ0bWgtU1I2Z041NUFZblpwanpwbllaRzRYSTN2Qk5UMzV0c1FVNnhFZW1aeS1qSXR2SdIB2gFBVV95cUxNZTFiS0xrYjNJb20ySG5wSzZ0bjhMZ0k5YzBlUDEzNENORjBNMjlmNnVfbkw4cTlpSHZHQXhDdjdwNnZ2REFDR1htSWg1Y2UxNDJqN0lPeGZ4NXJzeHlYTmhpNGJGZFNrbkVscXZuU1hjRHgtRVloQlRUOGdKUEVsU19TclQtQnozUUhKWVl2MV9DclBUYWxGYUxULUtSM2JOX2dFbTZXelRMNktKZWVBdENiNEIwb3c4TkFHWUR4d0NLUDNhTk5Mci1hX0dfWW9BRnJYN0JtSzdEQQ?oc=5",
+      "summary": "Fernando Seabra é o 20º técnico demitido no Brasileirão 2026; veja a lista ge",
+      "date": "2026-10-27T21:30:54+00:00",
+      "image": ""
+    },
     {
       "title": "Palmeiras prepara mudanças e vive expectativa por Vitor Roque contra o Santos no Brasileiro - ge",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOd3BoTjM3bzdENElZdkZTWDY3VnVWRm9uM0haLU5HRy1XaGdiQWg0ZVNkdDQyQ1N4bHB3NmNnTnhPXzhQbXNSQndMcHpaQXN2WWZsTkYxcUQ5bUtkdzdhT0NjQzhXOEg1aGpUZ3BXYmpZZXF2Q2wtbTBfNFFSX2tkdkhCV0MxMEU5Rm81VGZYNGxwcmh0WGpSaGpUR2lDUlAwWTdORE1HcXlEWjJNRzdXZ1NDNFVJbHU3SVJMRnduNDdYMW9zUWR6cTZCQ1VUZlZSclYzRVJ3UEhTN21KdENMU1FlVEhGNXB4NWVLYnVBYm1UX2_SAYICQVVfeXFMUGw1Q3BEV3RudjNHaFhhWkpkSEF2eG5VN2w5UTNvUmhPVDBkN0pYaXRUR1pxaUlHcllaZUtJckRJTnNmTzlhUVdkdml0NjhTWVJXeUlCSGprN0hqeHQ4Q0gtYmcyV2xRWDF4TlRlZk5RM0pqdmJzUmpaMG9uaFJvUXVHMGxwVUpsTnc1NVYyWm9UaXNnYzBmMjBqLUxWWFdQTHhfYnVBQnVBUnMwWmJPNHNqMloydVpyTjVSbTJiMTFGb0Jmd2NkQzBfNFBpbVozejhObUg0OVFhS2lCUnRmZ3V5cGt6YnFfNGtEUzV1aDFoNDRORDcxQmZVLUZHQVdXakVn?oc=5",
       "summary": "Palmeiras prepara mudanças e vive expectativa por Vitor Roque contra o Santos no Brasileiro ge",
       "date": "2026-10-27T11:00:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Giay e Flaco López entram na seleção do Bola de Prata ESPN - ESPN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObjA0SmRDSC14YW1SMVkwQWZQVWZwNWd4N2cwQjF4b2RHUDdGc1NMM0YyaDBIeWlsMFV4ZTU2cjNySUdlLVNlcGIyOC1wNS1XUU1ZNDlOT3lOQ09UQkhpVkVILXN5V3paTHJDTlVQUXlfRnZHdExhbnNLZDRQMEl1YVFzNXgxdkdzZFFYQ2s3c1U5RUFjbU90WFpVanptOF8yZDR5TnNvTzFBTV9PVkNldVZEellrU3lt?oc=5",
+      "summary": "Giay e Flaco López entram na seleção do Bola de Prata ESPN ESPN Brasil",
+      "date": "2026-10-27T19:22:00+00:00",
       "image": ""
     },
     {
@@ -444,17 +472,17 @@
       "image": ""
     },
     {
-      "title": "Dez finais: Palmeiras abre contagem regressiva para manter sonho da tríplice coroa - ge",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTUxMbWpKNHVsTWNrdmJDcXBVdG1aM0R2TVhTU25IWXZyb3ZwWDdpbndkcVBKandzWnRaQ1c0cnprbmpTVi10NzhDUmtlZGtnTmpiRXRyRWd3N3BCX2NhVXh1M0tsMi1UaEoyUl9aTVplaDJXMFJTcDVKVGd4cUZDU2NVclBJMXFwNVZqNGpsMnlXTDh6Z05uOGtzLXBUUTNpVzQtek5US29zbV9BSE9JYjdjT2h1RENIVmdaLUpjZEh2eEdhLTlfYzVOa2NKdjNZY01WTkN1N1N2ZklReXVVVVNkQ1BSd9IB9AFBVV95cUxQUXZhLUFnSEN4WURTQkZHX0ZHekIzc1NHRmFwNTF2RzJ3VFNjVlBNRm4yOWVnamJKRG9rTjByVTYxaDBKUV94eGhGelhnUnhFWVgzZllwdXVDZERLbTlRS1lBSkpOQU1qNUtiSWZURU9iMGhKYWZSVWNhZkJWUzlRSjIySEVYX1E5WmhHSUJfUGRFVXA2TVhPRnBIUkt4bm9FR1gzZ2huSjlvSHVicGlYVVAySWpSSFIxalRvZlViTGZRU3VmNjJwN19BVTVIN19kNmtwdVVZcS1nalVTTFhEb0Z2SDdVTUxtZ0phYmpsaGhUX2li?oc=5",
-      "summary": "Dez finais: Palmeiras abre contagem regressiva para manter sonho da tríplice coroa ge",
-      "date": "2026-10-27T07:00:00+00:00",
-      "image": ""
-    },
-    {
       "title": "Chances: Flamengo vai a 67% de título, contra 33% do Palmeiras; Inter tem 62% de permanência - ge",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNYW80c0FPVzUxUmJSR2VZT1dHV0doSm9mdU5mRVBzMGFVOGZhOVRJcjgyNHJ0MjRndUtaQ1NPZHlVZjUzLXR4NUZiNVNPSVBCeGxlN2lMMy12cWtGZDFNSkdXQUYwajBOOURScDRWUW5BWk1wN0QxTUwtZHBZS0l3amRka3Y1cjVGWmlLS2gwR1hGUjRCOVdIODZkcnJNbFU0V2Rsd3g0aTFHNXZPbXRVb1FkM3FhN08wWldEelVsSmlmRXNUN1hBdnhhRFQ2NXNkbjExR1BNM3J5UV83YkxDNWZuajhKQkxibzB5WXlEY1gtUHhvaWpTQdIBhwJBVV95cUxObGhxQXI4ZmtOeWc4ZFBMeV9tVTJMVy1OdDIxd2ZaRERkenVVR1RmTnN5QWx0Qlp6Y3BWTHVTMUMtWHVDaUhPNUpQRVZkYnllOFMtVnZ5N1Fna01hV1lHTVFJTnNDYTZ6dXc4VlU2R1BMZVJodncyblpwNmZLaW1yVjRrTVZadURBZjczbUlRT1BGWnRBSHRCZ1ZYSVVFV2EyUFphdDJqeThqTU1ueWhfNV9ySlpqOTRiLXBZaXlLY182Y25sTWdQdXVDVjZISkNxVHFvQ0Z2MGUwR2F3eEY2aVZTd1NPWmVRcHFMRG4zX09sd1d1aWZLWHdHZjBhSHlzMDhVbTNoTQ?oc=5",
       "summary": "Chances: Flamengo vai a 67% de título, contra 33% do Palmeiras; Inter tem 62% de permanência ge",
       "date": "2026-10-27T09:00:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Dez finais: Palmeiras abre contagem regressiva para manter sonho da tríplice coroa - ge",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTUxMbWpKNHVsTWNrdmJDcXBVdG1aM0R2TVhTU25IWXZyb3ZwWDdpbndkcVBKandzWnRaQ1c0cnprbmpTVi10NzhDUmtlZGtnTmpiRXRyRWd3N3BCX2NhVXh1M0tsMi1UaEoyUl9aTVplaDJXMFJTcDVKVGd4cUZDU2NVclBJMXFwNVZqNGpsMnlXTDh6Z05uOGtzLXBUUTNpVzQtek5US29zbV9BSE9JYjdjT2h1RENIVmdaLUpjZEh2eEdhLTlfYzVOa2NKdjNZY01WTkN1N1N2ZklReXVVVVNkQ1BSd9IB9AFBVV95cUxQUXZhLUFnSEN4WURTQkZHX0ZHekIzc1NHRmFwNTF2RzJ3VFNjVlBNRm4yOWVnamJKRG9rTjByVTYxaDBKUV94eGhGelhnUnhFWVgzZllwdXVDZERLbTlRS1lBSkpOQU1qNUtiSWZURU9iMGhKYWZSVWNhZkJWUzlRSjIySEVYX1E5WmhHSUJfUGRFVXA2TVhPRnBIUkt4bm9FR1gzZ2huSjlvSHVicGlYVVAySWpSSFIxalRvZlViTGZRU3VmNjJwN19BVTVIN19kNmtwdVVZcS1nalVTTFhEb0Z2SDdVTUxtZ0phYmpsaGhUX2li?oc=5",
+      "summary": "Dez finais: Palmeiras abre contagem regressiva para manter sonho da tríplice coroa ge",
+      "date": "2026-10-27T07:00:00+00:00",
       "image": ""
     },
     {
@@ -465,10 +493,10 @@
       "image": ""
     },
     {
-      "title": "Jardim crê em Flamengo jogando a final da Libertadores contra o Palmeiras: 'É possível. Está com jurídico' - ESPN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOcEY0dWRmUVNoMDFsam5aOEpwMEUzaWFtRlVfV0hFQ1JubGUzWTdkbkd2YjhidkNFQ0V0QUdVSlhXeWxTaHlQbnBrT1ZNX3pXVzdyeFlhQWlkSVZPNnk3Wl9mRlVOU3pxOWxYeVp6QXhJbmFQbjVQbWhEbmdFVDNKaDlKYTd3aVEwdE9jaHA5ZUJnS2VCdHljNFRTNlJjckItbFlFNTljQmxrOTV2MmtvcE1Dbkl4UnJMYTVXZDEtRkRaQjdQLWxPcGZGS0NiU2pROVhKcmh2YXhFMW42QmNUUnVyekUxcHh4Skp0ZUVyVUUzZWFFTUE?oc=5",
-      "summary": "Jardim crê em Flamengo jogando a final da Libertadores contra o Palmeiras: 'É possível. Está com jurídico' ESPN Brasil",
-      "date": "2026-10-27T03:09:00+00:00",
+      "title": "Vasco treina no Nilton Santos antes de sequência de jogos no sintético - ge",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPM3FDRl80TXJJelBqLXV4dm9aUTlQNzJOYmRsc3REM2M5ampYaE0waEo4c081MkVQRVJJazFsUVRJblFvYlE1WksxWVBYQU14Y2lGZjgtUWdjeU1JZDkxZ1IyekkzRHphcDlCSUdfQW9Ndm9uYjltYXZhVWJOVUtVTUNKaVdyOHZZa2JDRUNIclEwUl83SnRwVlpHSmVIa25RMnN0MDJHa2thUWZ0U2V6cEx0VlVVSVlBdnV2cEl0cFlFWE9OdUxvVGs4a1lpVTlTNkHSAeABQVVfeXFMTm9OQnFlVURJcklBZHoyOWFMMmNkbzBRZXFEUEpRVlZRVkFyWk44Y3QzUlNjSTVzUWhYc0RTM0dEMUJYMW9tY2xGTDA0QWk1cUpSQWkxc1ZpbkVYbUpxZGJNSlNra1FvWjk3Rl9BRV9VOFFUbzV0dld5alRtTDZxNWNNQXdzR1BmTXBkSHZkeEtGaE1CS3R3ajBWZVV5SF9DaElXbE4tQU8xQkJPQ0xrbzV3TlFJSzJNY0RIcjY1VDRmeTVHeWpiSnIyckhjTWlGSVExY1NYYWYtWklxVGJBY3I?oc=5",
+      "summary": "Vasco treina no Nilton Santos antes de sequência de jogos no sintético ge",
+      "date": "2026-10-27T15:58:54+00:00",
       "image": ""
     },
     {
@@ -479,17 +507,10 @@
       "image": ""
     },
     {
-      "title": "Palmeiras tem 'problemão' antes de clássico e decisão na Copa do Brasil - ESPN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVFM5UFJzak9pbmdIUXNKbVB6QmNNWm5VeEdycEFvVVZxblVpWFVPZFY5S3p3U0JMNEQ5MUZvOVVDR0ljMnFjVVo2UXNBT1lmVkcwRjNmdjJmUGw1M0diTWpjOXR1b0NUUm92V0tjR3c4dmFXTnNWNWc3bnpXc2FIUVgxYi1DQ05CRkNtVkJkNDZWeFNSSHdjRmdKa2E0LVZ4TUFTXy1sRGZKdkdnVEZzSHI3NGtjellMdG0wY1VtS0xOcHJ5dEJjTFFRMTI4dl9LYmVXWi1uN3ItOEM0VmtmRg?oc=5",
-      "summary": "Palmeiras tem 'problemão' antes de clássico e decisão na Copa do Brasil ESPN Brasil",
-      "date": "2026-10-26T18:41:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Santos é condenado a pagar mais de R$ 11 milhões ao lateral Mayke - ge",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPWUZZNW1VZ244QkFMdFdSSzVSZDNGWHI2dDBFU0JJQ0JaODlockVLMlhhV1RLZXJad0lwcUdXYnFSenNFLTEyaW9ncjBUaDZYOGZDOGFnUjZROXlvdkotVjhScjEyUmRtaU5EZElQOUQ2MHZzTzJYb1l6amRzeTNYVHJELUhMX1RRMmVaUlg3Rlp0b3lnWHBvRE5HZ1dnZmpTZWhHd1FVY25uRmNfNjgyZGRUdHFGN1JweWNBTFB5MGxnYnV0cWYzVUg2SHdYeEs1MTZZSVFHeW9YbkIweVpNRHg0RVLSAfMBQVVfeXFMTnpXc2RMOW9zQnl3RVhHbnMwWVFNSWNKVmRkdFYyWi1UNXMySzZCRUt2dmMxVXZlLW5vSW8xdmJDSHA2N1VDZWVCNDdCVFRsWEJRRHZleGI4Rkt4a3RQR1NnUUg0MkNLQ2hjUndmam5JV1RPN0M2VURUM3BzT1ZVWV94RFBRMEM2MXJjc3RIOGtDVnp6d1JlSVJpV3E0d1JUY3kxdV90cmlxVHAxZGxpeE4yNkY0QzRKWm5LQXZhQzNCRnVMcXdPMldwbVVVMEZ2NURwMTBIREdoRHNIWGpFLUs0Z0l1WS0xbEo5aXh0dzdEUVNN?oc=5",
-      "summary": "Santos é condenado a pagar mais de R$ 11 milhões ao lateral Mayke ge",
-      "date": "2026-10-26T18:26:54+00:00",
+      "title": "Jardim crê em Flamengo jogando a final da Libertadores contra o Palmeiras: 'É possível. Está com jurídico' - ESPN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOcEY0dWRmUVNoMDFsam5aOEpwMEUzaWFtRlVfV0hFQ1JubGUzWTdkbkd2YjhidkNFQ0V0QUdVSlhXeWxTaHlQbnBrT1ZNX3pXVzdyeFlhQWlkSVZPNnk3Wl9mRlVOU3pxOWxYeVp6QXhJbmFQbjVQbWhEbmdFVDNKaDlKYTd3aVEwdE9jaHA5ZUJnS2VCdHljNFRTNlJjckItbFlFNTljQmxrOTV2MmtvcE1Dbkl4UnJMYTVXZDEtRkRaQjdQLWxPcGZGS0NiU2pROVhKcmh2YXhFMW42QmNUUnVyekUxcHh4Skp0ZUVyVUUzZWFFTUE?oc=5",
+      "summary": "Jardim crê em Flamengo jogando a final da Libertadores contra o Palmeiras: 'É possível. Está com jurídico' ESPN Brasil",
+      "date": "2026-10-27T03:09:00+00:00",
       "image": ""
     },
     {
@@ -507,31 +528,10 @@
       "image": ""
     },
     {
-      "title": "Gustavo Gómez ultrapassa Gil e se torna o segundo zagueiro com mais pontos na história do Cartola - ge",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNc0NETW45TFFGNlNycFFHVDRWMkNFRGdUbTFTZWQ1ci0xcm5JalVYMjdGb1ExeUtWWFdtNFdid3RUZURLMXZaTjFwTE83MHhHOExqUzcydzFsbVgzdkc5NjN2dzdJaDBaQVVKNl9MZHd1dV82ZzN2SFNmQm9YYmZ1alVvSkdGd0hQNUowWHBTSVJ5clJCeXNveGIwTTlUT05WSjZybThaZWc1YVh0M2UxcUZVYkhaclFxaU5yeGRDS21aTVpCTFZxWllneG1xU01kN2Qwd3MySXFNY2VMdmNTUnpPdFNlbnJ3Y01uREdBaE9NVGx0em4w0gGGAkFVX3lxTE4zT2hVd21QcXB3dVZIR2NBR1YyOWNRdUtnVWw2aGRVOTh0NnR0b2ZwSkU4ZVpuT2lqNGFXT2J3MG9CeXhOR3NydHlROWYyUkZVcFZsbDh1SWVrbkJSUDFNSmpTaE1BQ0xZN1E2cnVzTUdWYVNzaHF2X2FNRFFUV3dWY0VuejdVbkFvR3NFaEh6M1RQdG1iaTRXVjhRVjBfd0J1cHRLbS1abzVyQVpSd3ZLSWRES3FYZEVvc3I0VklJZi1rc000eVRBdmFfRjFNSmhEV3dNb3BxdkxTYU1Obm1WcjJCTUw2QUNrZ3lsTExMdnBwUmFtOHJaU09uTFNuZldmdUV5OEE?oc=5",
-      "summary": "Gustavo Gómez ultrapassa Gil e se torna o segundo zagueiro com mais pontos na história do Cartola ge",
-      "date": "2026-10-26T18:23:46+00:00",
-      "image": ""
-    },
-    {
-      "title": "Santos x Palmeiras: Cuca indica substituto de Neymar e espera volta de lateral - ge",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxORTB1U0kwWmJFTzF1emk2ZmpoTUVwdFZfYzJzcXNnUzJ2RE0yOURJT0hvbzdpV3V3WHI1MjUzWElwNGdMbzVxc1pfbHh3ZTNfRVFZaEdaMDR6dUk2OXNDY3JCTmU3eklCUFhxdDJ1QW1mSy1NaWVNUWt5VG80YmxSVlRNZ3RGeERDVy1PZmFlSXpwQWZYWnpiQXI0Yk1hOTVsaGxGU1NBSDBtb21SWDJXNGZEWWZKNGRHZjNWUDFlUTJMMU55elc3azdaalc2ellGRXdENTRsa0sxMmJDUkEwMS1xa3Rxb254Vm9IS0xlWFM5YXQ5WGfSAYQCQVVfeXFMTUZKeURtam5uTlMtalk1NHN2T1lWUVVzT20wZFVKcVlxc1NVYWJHWkJselQyRGtQZmJoV3dhNXZZYTllTVh2ckNDaXFJUHlWS0FyQUpCcUhBa3psWkV6NVNKSkliT0tKNmI3ZlkzbWpDX1JESUZOQTNrXzI1VW55VmpXbUw5LWlMbjJPVE5PM3pwbjlITGxhNVNLb2xISnRWN0FhWEcxc1ZrNFE5UWpyamFsbVZvLThVa3lWTks5T3JWdktwRW1CdXJmMXJrT2F1ZktvRXBnbm9DaFItRlhDa1F1RHlqZ3VfZnQ2MG8wampnNlBvc0VwcXE2Ny1wRVpfUlF0REs?oc=5",
-      "summary": "Santos x Palmeiras: Cuca indica substituto de Neymar e espera volta de lateral ge",
-      "date": "2026-10-26T11:00:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Finalista, Palmeiras é citado em processo que envolve Flamengo e Estudiantes; entenda o caso - ge",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNcDFDVF95X3VCZDVMY0lSRjJ5ZWVGb1k4OFJrSVVKVkZDLTNVcHZadnNHMFNtTWJMbGhQa2lXMDc3cENNNEhVcUQ3czg5cVc0blhRcVdyZUJyTVp6eDdqZTd0NVhIcXhYTlk0d0ttSWFBVGQ2TS0yWGZEckZFRnhvdl9Pd0pfOWVocFJZV3FrYXZsZDhiYzJBdHRDVUd0WFFJMTY1Y1BtR0stZzRtTmJ5UHFQb1gwb0psVDR6Tkp5RUdhNmhWdnQtcTdXUFh1WVhpNmFTTVdQU1hOUVE1dVoyQ1U0dThmT21VMnBZamMwRXBsZ9IBgAJBVV95cUxNd09JNVNlYW1scWdscVVTclRyX2NhZlZFcUwya2ZCckgyQW9EaEEwS280RWFHazJtUGtOX0l6SHZOQlF2TWs1NW12aURHYW9tc3Z0LVkycHVlaE5zanFTNFl5Z3pLMmJMRmF0TVc0Rm1YNEZJQ05RUkYtdFNsLVdHSXJlMzI1aGl5dWU5YVRvVE1BcWVGVEdYMlM2X1lhVm5xTlJPTW9QR1RZMERyc3pxdmMyY3JNSjVvODl4NW11ZzhHX0pUTjNaa1BPUHRZOGtYSGFQNGI3Q0NhZmZqaUVJUFVubExPVEVkanZjNWZBZW91SzNtcHhhRlN6YlNrLUJW?oc=5",
-      "summary": "Finalista, Palmeiras é citado em processo que envolve Flamengo e Estudiantes; entenda o caso ge",
-      "date": "2026-10-27T19:13:56+00:00",
-      "image": ""
-    },
-    {
-      "title": "Ao vivo: Santos x Palmeiras | Rodada 33 | Campeonato Brasileiro - ge",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZVdjNTVPUkNwTVQzSFh2N1pkdVpLU0trVExIRUIwYUJLb0tuYlFZMjMwd2tTU1ltWWRPQkV1dlR1Wmo2a0IzbE1CZjRncHNwTFN5OHZwZ1k5OVJxMWx4VE1DY3U0YnZGRDgxa2JIUFZMMWpJN0pwZVlEV0tqYll1b0ZJeWxmNmxoSDN3bmxtOEtBdnM3bHpHZUQ4dDgyZDd4blZlSmFCNmZKUQ?oc=5",
-      "summary": "Ao vivo: Santos x Palmeiras | Rodada 33 | Campeonato Brasileiro ge",
-      "date": "2026-10-27T18:19:49+00:00",
+      "title": "Santos é condenado a pagar mais de R$ 11 milhões ao lateral Mayke - ge",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPWUZZNW1VZ244QkFMdFdSSzVSZDNGWHI2dDBFU0JJQ0JaODlockVLMlhhV1RLZXJad0lwcUdXYnFSenNFLTEyaW9ncjBUaDZYOGZDOGFnUjZROXlvdkotVjhScjEyUmRtaU5EZElQOUQ2MHZzTzJYb1l6amRzeTNYVHJELUhMX1RRMmVaUlg3Rlp0b3lnWHBvRE5HZ1dnZmpTZWhHd1FVY25uRmNfNjgyZGRUdHFGN1JweWNBTFB5MGxnYnV0cWYzVUg2SHdYeEs1MTZZSVFHeW9YbkIweVpNRHg0RVLSAfMBQVVfeXFMTnpXc2RMOW9zQnl3RVhHbnMwWVFNSWNKVmRkdFYyWi1UNXMySzZCRUt2dmMxVXZlLW5vSW8xdmJDSHA2N1VDZWVCNDdCVFRsWEJRRHZleGI4Rkt4a3RQR1NnUUg0MkNLQ2hjUndmam5JV1RPN0M2VURUM3BzT1ZVWV94RFBRMEM2MXJjc3RIOGtDVnp6d1JlSVJpV3E0d1JUY3kxdV90cmlxVHAxZGxpeE4yNkY0QzRKWm5LQXZhQzNCRnVMcXdPMldwbVVVMEZ2NURwMTBIREdoRHNIWGpFLUs0Z0l1WS0xbEo5aXh0dzdEUVNN?oc=5",
+      "summary": "Santos é condenado a pagar mais de R$ 11 milhões ao lateral Mayke ge",
+      "date": "2026-10-26T18:26:54+00:00",
       "image": ""
     }
   ],
