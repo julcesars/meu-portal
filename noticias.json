@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-29T07:51:42.958059+00:00",
+  "updated": "2026-10-29T14:50:12.712357+00:00",
   "thenews": [
+    {
+      "title": "29/10/2026",
+      "url": "https://thenewscc.beehiiv.com/p/29-10-2026",
+      "summary": "tudo que você precisa saber pra começar seu dia bem e informado",
+      "date": "2026-10-29T09:02:00+00:00",
+      "image": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/900a61d3-99d8-4fe1-8e31-d98c4eafe3c0/image.png"
+    },
     {
       "title": "NIGHT #338",
       "url": "https://thenewscc.beehiiv.com/p/night-338",
@@ -98,13 +105,6 @@
       "summary": "21/10/2026",
       "date": "2026-10-21T21:26:24+00:00",
       "image": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/c600a015-df7d-4cf7-ac66-83ff30933f35/OK4GTV5BABLPHFEY3IXYYEPXPI.avif"
-    },
-    {
-      "title": "21/10/2026",
-      "url": "https://thenewscc.beehiiv.com/p/21-10-2026",
-      "summary": "tudo que você precisa saber pra começar seu dia bem e informado",
-      "date": "2026-10-21T09:03:00+00:00",
-      "image": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/d7e445b3-c52f-45bf-8b3c-2bc6d6ef8ba8/image.png"
     }
   ],
   "andreazza": [
@@ -203,14 +203,14 @@
       "title": "Eleição dos rejeitados: Lula pressiona por erro de Flávio Bolsonaro | Estadão Analisa - Estadão",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOVlDQTFUY2toYW5aclQ2WHh2NWpKeF9HX2dVcFRKYU83cUhQRDdaYklSQVktUmpubkJTOG56MVNrcUlONGpGWUNXVERCLWNfTjBXSE5yR0ZpeUlHODRKQzBhbXRETmJmZ3F3TGtDS2hXMGh1ZjZlYlVXVVBSRElaZTJkN0F4ckd6OFBUVmxxaFZrOEExWTR4R05KWWUybmthd3g0UE5EX2lVVUhNM0ZtMVdNZXpxUEhTdU5zX2tVZF9NcWI0MXhEZF83UkpLbEtQ0gHWAUFVX3lxTE15Qmc1bkxSbEptc0VIZzAxOV9nbjRKTFUxQXBWWFhRSmNzWXZzSWh0WmZZbTRRUVNUR1A1YzNSVDRhXzhRWWF5UlFHLWZJTzN5b0xHTXJiS0R1NnkxRGUwbm9KSUNkWTl0MWxpSjhrNFY2WVVJSlhUcGc4V3dqMW9tVUthek5ETncwbkFVTnZJY1pKb1ZFbjVOOGNXZ3pUanhMN2d4QldZSFFiWF9FNFNUbGtYc2lyWDNDVHRZN3UzczEtVWFPQ2VlYmhFUXJwb0JfRl8wY3c?oc=5",
       "summary": "Eleição dos rejeitados: Lula pressiona por erro de Flávio Bolsonaro | Estadão Analisa Estadão",
-      "date": "2026-10-21T09:49:31+00:00",
+      "date": "2026-10-21T07:00:00+00:00",
       "image": ""
     },
     {
       "title": "Campanha eleitoral da depressão: a última semana dos rejeitados | Estadão Analisa - Estadão",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONjNRZTYzNnlaNnVwdmpUMnhwMVZyUmFnbTVaejEzRWJma2otdmpKNFJrUk15X2Q3djhXa1MzNUI4S2tjeHhQZldyZHZTcldWSDVKZzhfRjlUZDhubURMRWliem4tWlhCd3A1eWZrMzNVUUZNaFgtSndTTFlxVzZvRVFucXhOa0pIakc3Vnp6VERtd3phY1lBWnFFbUwxS1ZnNXh0Nll5RzdCc3VldGZiSEYxM0NsMWlsQmZwQVJiTWxyOG1qTnNBbXFic9IB0AFBVV95cUxOS0t2eFFwMEVOME4yQWRkQmdZd0gySzRpTmFFMEdjVFNPUFpiVmYyb25nUmkzb2FuSGxTcjNzSENpTVpILWdVclJKTXZNSzBZdTI5TFNxZmYxZnJ1N3pOcjc3d2ZJeEZnREZFSTBFUUxiYVBEWTkwRy1USWZDU3F2X0ZMZzhhbDVKZXFuTWpQX2RHdzJYYUJFMEVvS252bHQ4ejlNTE91aFNnVXZ5WFFUU2ttcVBYZ3A0M0l5LXUtSW5BTHRaNktVcXZObVNvR29v?oc=5",
       "summary": "Campanha eleitoral da depressão: a última semana dos rejeitados | Estadão Analisa Estadão",
-      "date": "2026-10-20T09:55:51+00:00",
+      "date": "2026-10-20T07:00:00+00:00",
       "image": ""
     }
   ],
@@ -223,6 +223,13 @@
       "image": ""
     },
     {
+      "title": "Classificação do Brasileirão: como ficou a tabela após rodada de quarta-feira - ESPN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWGtHTXdRV1ZENDllWGpnN1FfMmlTZV9UYWVVMG9LNUIzZm9ORVIwd25uZjVZdkN5RzNadk9JMUNJZlhld3h3VE9lbjM3R0k5QmtxS0E3VEdjYUw3X3ZOc1BEMENualFLZk1PWDA3MDRoZkFuYVYyUHg5MkVEUldUUWtwRmh4UU04dFROaUt2XzhPbDZmelVrT1VqTWU4c2g4dklKUjB5dGRmQmpWdDJKRFY5cW1RNkY2RHhyR2JqdmlPeG1aUzlz?oc=5",
+      "summary": "Classificação do Brasileirão: como ficou a tabela após rodada de quarta-feira ESPN Brasil",
+      "date": "2026-10-29T03:34:00+00:00",
+      "image": ""
+    },
+    {
       "title": "Vasco prioriza compra de Robert Renan e recebe sinal positivo de Carlos Vinicius, do Grêmio; veja detalhes - ESPN Brasil",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxObEdIalhoOERqRS1tOE45ZTFPYlR6UmFoLU9aMnh1X2Vzb0pNNUk0Z0xPbktiNHY5TEpVT0pYQXNaczBsdk1jNklYeWVjVUJMdThpUFk1ZS1ENVVOZHlLYjlUbUtOU2tncC1jSWxqZ1pDSTJvSjVfT3NSM2hKcUVid2tTZC1ZNFRjRUJ5SHhyekhGZ2FENkM2UDFfWWZrdVpuTzZrclZOcl9vcjVfb0ptYXU4TFJPUERNVVFNbnhDQXVybG42MXh3MnV2VDJUUHQ1VVdBd0ZTWHlLV1RqQmc?oc=5",
       "summary": "Vasco prioriza compra de Robert Renan e recebe sinal positivo de Carlos Vinicius, do Grêmio; veja detalhes ESPN Brasil",
@@ -230,17 +237,17 @@
       "image": ""
     },
     {
+      "title": "Ceni explica afastamento de atacante do Bahia antes de jogo com o São Paulo: 'Assunto bem delicado' - ESPN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSHI2M2RZVkh2WXBjbGtLakpIaF9NbGVDSGZuYkdMdzA1MGx2N0pQcFJvd01aYmswOWpMbnNLNTcyMkNfOHg4TDQ5OGdoX0hiS05BTi1BTmdqWDk1WWp0QXV4eGRwNnBEVUpScnQxN05uQzR3dWxwaGVnSFlIRW9FVmFpUlJ0VldHc2tNLWFlWWdfWlB1MDdETVRKa3dDNkV4ZTR3cFlTQUxPdnZ5QTA3Ti1kekhKbDdicTVRcF9la2t1VXFMVnp4cFd6VEZfVHNwNms0b3BPRXlHeFU?oc=5",
+      "summary": "Ceni explica afastamento de atacante do Bahia antes de jogo com o São Paulo: 'Assunto bem delicado' ESPN Brasil",
+      "date": "2026-10-29T04:08:00+00:00",
+      "image": ""
+    },
+    {
       "title": "Conmebol se reúne com Palmeiras e Estudiantes e apresenta projeto de venda de ingressos - ESPN Brasil",
       "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQQ3FCSF8zUGNfOVE3X1dKTkhxZnRybHFJakJrOHlZZXNMcERpLWo1d3hWQV9MdE00ZjR4dWpRU1hjTnM1NGZqVmdGZGd3aEhNOUZ4YW00bmVDSGc0UGREcmVFNjl1SmhialVPZEFkRm1SRTBJZmdkMGRieFhkZ01fX0FXQ1p5OGxhMll5cXRfa1kwVWlMU1UzM1R2cDdFeDgtTUtXaDRTMnhHbXJfcUVkUmRIOGZjc2pKMmg1bmh0QV9uQVlXdTM3SWxwYUFYLS0tN1BCZ3lSWWhDMXU3Rm05YlNMR2x4MGZIRmJ3M2YyMEFxTWkzMERvS1UwaE8wem1nTm9JSjF5MUdJcE54azl0MEdHdUZXUEdnLVZLdGc0N2dLSGtPb1E?oc=5",
       "summary": "Conmebol se reúne com Palmeiras e Estudiantes e apresenta projeto de venda de ingressos ESPN Brasil",
       "date": "2026-10-28T14:31:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Hugo Souza nega elenco rachado no Corinthians e diz que Memphis é 'solução' - ESPN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQY3liODcxaENNRnZRWC11dXRoTlU2bnhINDMyQ1ZVb2k2UEVramhzQV9yTDN1blVJQWUxY1doWU9QT1lRcEVfMW9LeDBCZnp3SUJhMkNqQUxaakJyVlhmSDlWV2xoc2gtbXVxdDdRajhpWURNVHEyU2h6MDhnalVDYTNMYndjTm50eGdqM1hoTEFLV1RJSkdsdHI2RXBkallpOEhFWjRGT2dLRTRBSHZQWFVONUF2OV9VWkpSdXprRzBhRkItWVVkWHpqMWZZNm1YNGY2MndZWEdlZw?oc=5",
-      "summary": "Hugo Souza nega elenco rachado no Corinthians e diz que Memphis é 'solução' ESPN Brasil",
-      "date": "2026-10-28T23:13:00+00:00",
       "image": ""
     },
     {
@@ -265,24 +272,10 @@
       "image": ""
     },
     {
-      "title": "Neymar é suspenso por dois jogos após violar 'Protocolo Vini Jr' em discussão com Nestor em Santos x Bahia - ESPN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNOEt6eG5XbG9uNzBudGs4V0NsUjZOSGY1U3AyRmNqbkY2ZkdNRGZZVnNIaEJuWXh5YUV4SFM1RHMxQzRIN0drVDNJLUU5OGRHQjdfQ3JrUXlBNUV6a1RueWs3QS12MUJtbzF2UWtLdWtaQzB0Q2V4OUdleEc5NmdRVTE4OTJqYnVCWVpaNktSeVJ4SVpOQTBiVnVEZk9qelV1Mkp0MUxwUDhDSTNST2JYcTlDYm1reF8xTDRWaHhxSjR6cWxqUy1IaktiaUdVV1Naem9lOG1sSXAtR2ZjVi1xUVRmbW5lcjZ6ckE?oc=5",
-      "summary": "Neymar é suspenso por dois jogos após violar 'Protocolo Vini Jr' em discussão com Nestor em Santos x Bahia ESPN Brasil",
-      "date": "2026-10-28T15:24:00+00:00",
-      "image": ""
-    },
-    {
       "title": "Verón 'garante' Estudiantes na final da Libertadores contra o Palmeiras - ESPN Brasil",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOWm9vMGFxcUdKdHNRekcyRGVoV2JEd2ExbGF2VDZhZUQwNjNiT0NpTV9oemJQY2NETmkxTUtqdGZQV0ZSVHYzaDVsV2lVZE45SlozMktPLWM1WmFVMHBDNmlJMXljOW1xTFNTMG8yamlkZmQ2TE1DdS00ODItOF9JUXc4WTBwVzhHUXhSUEtxcU11d1pWYU1XTUNMRlhvMllNMFlZTDdSQVJiaHIweF8xanJ0cHh0RVVuS1VreGV0bHVJS2J2dmd2aXk4aTYyblI1RV85YWs3YjFqWGNVN2xUVFFkbjI5WktkMFllcUQyTQ?oc=5",
       "summary": "Verón 'garante' Estudiantes na final da Libertadores contra o Palmeiras ESPN Brasil",
       "date": "2026-10-28T02:50:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Ex-joia de R$ 360 milhões do São Paulo acusa falha médica e cobra quase R$ 5 milhões do clube - ESPN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOakdZN0h4UGtBNFVZTTMtekhwLWc0OTZVYV94eFR2VWJxM2NlTDhGaEZraDZ0NVdxOElsb3Y0QzczYVNIRU9Uc3JnV09BdGdaTlphX3Y3TXdfbEJZRXVMZEhCbDI5Q1hhcUNleDFlRlNFdEI0NE1yQnNqUmFZU2lnbUVVYnVxT05BRGZNNks2aW5PZ0RiQnYycGNTSUE1UUd1UDJZVVBpck1fZVFtRkxiNDhhNXI5Wm1VZW56bVBfNW81empYcGJhQzJLX0dkWUxnU2l3Vi1CMGU4Xzg?oc=5",
-      "summary": "Ex-joia de R$ 360 milhões do São Paulo acusa falha médica e cobra quase R$ 5 milhões do clube ESPN Brasil",
-      "date": "2026-10-28T01:55:00+00:00",
       "image": ""
     },
     {
@@ -293,24 +286,31 @@
       "image": ""
     },
     {
-      "title": "Flamengo pressiona, mas é derrotado de virada pelo River Plate e dá adeus à Messi Cup - ESPN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOV0N5bjZPaEU2QkNQQ0V6NllNUW52SnNxNXptd3FGcTRjOUpDUTI4ZEEydHF6YVpWNWZJMUxjOVFjYUxZVFUzZFJWRFNqSXBkVlVKOFZva3dkRV8yZXRGdW00VGdBek5pYzBvX0VsUURESFhzXzlOR3ZsZXhBRTNNVDc5UExIRG5ucm9ROERlM3lTMEg1Z3BBMWVjdDBTc1hrMnlXeU5RMDlLbkhDc1dFbl8tMXlfMUk?oc=5",
-      "summary": "Flamengo pressiona, mas é derrotado de virada pelo River Plate e dá adeus à Messi Cup ESPN Brasil",
-      "date": "2026-10-28T16:15:00+00:00",
+      "title": "Ex-joia de R$ 360 milhões do São Paulo acusa falha médica e cobra quase R$ 5 milhões do clube - ESPN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOakdZN0h4UGtBNFVZTTMtekhwLWc0OTZVYV94eFR2VWJxM2NlTDhGaEZraDZ0NVdxOElsb3Y0QzczYVNIRU9Uc3JnV09BdGdaTlphX3Y3TXdfbEJZRXVMZEhCbDI5Q1hhcUNleDFlRlNFdEI0NE1yQnNqUmFZU2lnbUVVYnVxT05BRGZNNks2aW5PZ0RiQnYycGNTSUE1UUd1UDJZVVBpck1fZVFtRkxiNDhhNXI5Wm1VZW56bVBfNW81empYcGJhQzJLX0dkWUxnU2l3Vi1CMGU4Xzg?oc=5",
+      "summary": "Ex-joia de R$ 360 milhões do São Paulo acusa falha médica e cobra quase R$ 5 milhões do clube ESPN Brasil",
+      "date": "2026-10-28T01:55:00+00:00",
       "image": ""
     },
     {
-      "title": "Fluminense marca no fim, vira sobre Internacional e ajuda Corinthians e Grêmio contra o rebaixamento no Brasileirão - ESPN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxObU1YZXFRUnlHdm40bEM3dGNJN1dnZTZPRHFmNDJ2N2dzd1ZiZDF4RVotTVlhdVlnS0JZeWs5UzVnaWFiZWpGay15bElHclJlazktbDBpNy1KUTFhT09oNXI3VGZGcUNaa2xyd0xHRTQ1TWxaYVhsVmhvSzlBX2RBaVMwcGZyWGZQbURLeVdFdmJ6VEdHNzRzbHFxcXdCaUw3QnV5aDVadEZEenlGY1ktVHNXVjRXUk5aZm52a1paUDYwSVNXeWJhd0NnM25FVkxjUWQ2ckx1amRmMlpDa2I3aTBrZENrZDNuNXVicDBzSlc2OXV4VHprNkJNUklIZ1JO?oc=5",
-      "summary": "Fluminense marca no fim, vira sobre Internacional e ajuda Corinthians e Grêmio contra o rebaixamento no Brasileirão ESPN Brasil",
-      "date": "2026-10-29T01:38:00+00:00",
+      "title": "Abel destrói gramado da Vila após empate do Palmeiras com Santos: 'Lamentável' - ESPN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNQk5CT19DTU1oZVloLU5mU0RtUVpNWlV3eVViemlpMDA5blVZWUdFR3B2UnVLMXF2ZmxWa19hSUx5eWVxLWdVMlR3YTMxcHJoamhSSmJSUmJXdFVjN3JQT2JMSFp1aVFodGxDMWQ0MlJmTl82d3Q5NFNTYzNfci1DS3NQblBrN3YwMUlScnlBZFBSYk1yM1BnUU5XakxGNUNVNWN3QWZBWS1fbW9LUlhQZHFWd3JfbTJvb2NybVBNZVZ6VkZWb0dTa1o3T2tOd2pEaWJzem9sUUxKb1VOVFRCcA?oc=5",
+      "summary": "Abel destrói gramado da Vila após empate do Palmeiras com Santos: 'Lamentável' ESPN Brasil",
+      "date": "2026-10-29T02:17:00+00:00",
       "image": ""
     },
     {
-      "title": "Palmeiras empata com o Santos e pode ver Flamengo ampliar vantagem na liderança - ESPN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQaVBXbkZNUklULUhqVEF1SkNsXzVIczV6Z2VPei1uaW9JblliRmZ3RktnS1JNa2JSWmxMcF9ndzVfa3VkaHVNeWp4cnVJVGpoYXRuRFlmR004QXdUcDlGemxXbDZkRGEwcUhQQUhUY1dOX3J3QlFYSTZlRlJDRW5BNHhvT2FlaW5wWFpmU3ExQnZvc0x0VmRYRmdIU2E2dTNSdFh2R0JfdEstM2JRUWpYRlN1SE5rV1diM09UYjFYakNUS3RRSWJkQ1F1V2s1dw?oc=5",
-      "summary": "Palmeiras empata com o Santos e pode ver Flamengo ampliar vantagem na liderança ESPN Brasil",
-      "date": "2026-10-29T01:26:00+00:00",
+      "title": "Hugo Souza nega elenco rachado no Corinthians e diz que Memphis é 'solução' - ESPN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQY3liODcxaENNRnZRWC11dXRoTlU2bnhINDMyQ1ZVb2k2UEVramhzQV9yTDN1blVJQWUxY1doWU9QT1lRcEVfMW9LeDBCZnp3SUJhMkNqQUxaakJyVlhmSDlWV2xoc2gtbXVxdDdRajhpWURNVHEyU2h6MDhnalVDYTNMYndjTm50eGdqM1hoTEFLV1RJSkdsdHI2RXBkallpOEhFWjRGT2dLRTRBSHZQWFVONUF2OV9VWkpSdXprRzBhRkItWVVkWHpqMWZZNm1YNGY2MndZWEdlZw?oc=5",
+      "summary": "Hugo Souza nega elenco rachado no Corinthians e diz que Memphis é 'solução' ESPN Brasil",
+      "date": "2026-10-28T23:13:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Neymar é suspenso por dois jogos após violar 'Protocolo Vini Jr' em discussão com Nestor em Santos x Bahia - ESPN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNOEt6eG5XbG9uNzBudGs4V0NsUjZOSGY1U3AyRmNqbkY2ZkdNRGZZVnNIaEJuWXh5YUV4SFM1RHMxQzRIN0drVDNJLUU5OGRHQjdfQ3JrUXlBNUV6a1RueWs3QS12MUJtbzF2UWtLdWtaQzB0Q2V4OUdleEc5NmdRVTE4OTJqYnVCWVpaNktSeVJ4SVpOQTBiVnVEZk9qelV1Mkp0MUxwUDhDSTNST2JYcTlDYm1reF8xTDRWaHhxSjR6cWxqUy1IaktiaUdVV1Naem9lOG1sSXAtR2ZjVi1xUVRmbW5lcjZ6ckE?oc=5",
+      "summary": "Neymar é suspenso por dois jogos após violar 'Protocolo Vini Jr' em discussão com Nestor em Santos x Bahia ESPN Brasil",
+      "date": "2026-10-28T15:24:00+00:00",
       "image": ""
     },
     {
@@ -379,24 +379,10 @@
       "image": ""
     },
     {
-      "title": "Lino: \"O Leonardo Jardim não conseguiu construir uma identidade nesse time\" - ge",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdjNZdE1jYTFyUG9RaU1aTTdXZXUzRWp0dkt4OGVmeDJhMkNrQUVwRlF4MGJCeTB1dERWdzZUcmY2ck9MY0dhbnUwTWRUdXlQU1RtOTdLQWRjZ3locG9WMlVwVVlxSXdRMWV6THJPeEwzTHhSRnZUWTdnbjlVLWx3dFlFUTFZbURPdTk5MXdDNVlMM3V3NjBOTkJONmQ1MWJsdHBQVjkwTl8wUzV4TEE3R21rSDhPVzYwNE5rbXRjSlFlTWZFNEhRVXduVm1ERndBQUNUSGVSNjNpOFVrLWxV0gHuAUFVX3lxTE1YUkdPMGRQc1A1RFdmMEVFTHRVcmpPMzJXRnp4Qmpmd0ktTFY5SFZBYlZ0Ny1wMC0xS1d0ZVZWc0wwX3FrdkEteXJ6WGwzVEdGU3VkTXA3RlNybjhkd1ZuX250aDBTRTNzbzdnMDlxRVJmempvdnRic1I5d09hNmRkZFBZTkpBWF9fSy1ZRUc4YUc2dDd1LXJ2Z3lORjRXUzk3X3lqMGZlNmdsSW5zRURYSmtSbi1XYnY2ckRYWGE0VUR2M0dlS2h3bnUxTWZXaTJyWGZCclZ3QXR3a0p3dGwtcWdSSGVneEFZdmtHeHc?oc=5",
-      "summary": "Lino: \"O Leonardo Jardim não conseguiu construir uma identidade nesse time\" ge",
-      "date": "2026-10-27T19:39:08+00:00",
-      "image": ""
-    },
-    {
       "title": "Redação analisa postura do Atlético-MG em duelo contra Flamengo - ge",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTnZyNHZrMlZNVUR5OEVkS1RUdkcxQm43MjdMdzhMM01QMHI1bmJPLW54MXFpNXhRM2RnaG5Ka1dscndaUWhGeEpqdVM1bE01dnhhblpIUWVWUERDQWlUVUVZRWQzemxVRWhnSEVZbUxHVmNuangxaWl4SW1lb0RYcFkwU3lzWEg3Ymx0MEJUb0phb0o4bkY1M25nWHFGQk54SVRXQWdCOVlDNHpSVjRFdEx1R05mZTNYcm9ycGFkWVVQdnJuS1BBRVVxVWtLZVJieElR0gHiAUFVX3lxTFB1clhMcEl6VXotbWFRa0Yya2o3VU9GemVBQVFJSGhJRy1Zck8temZiM2d3bmlVYzZZMUZGNW1kaVI2MHdVTGNuTjRVOHdVT0NZdTJDdlRPT3M1MTU2NUFKQUlISlB5MDRaYlAxdzBtZU44XzhSWFcwei1IaXR4NHZnTUhXT1BDU29oUXdjMloyN3VfV3QwbC02SUdkdXNsejAtYnJsenh4X3ZRLS1pREh0d1QzeWVFZ0JJbHMtUHhYajVnekQ5T3pyc3ZMYWVyVWc2UU9RWklFRFlqRGFJM2tYcWc?oc=5",
       "summary": "Redação analisa postura do Atlético-MG em duelo contra Flamengo ge",
       "date": "2026-10-27T14:10:45+00:00",
-      "image": ""
-    },
-    {
-      "title": "Gato Mestre: Redação Sportv exibe gráfico da média de finalizações no Brasileirão - ge",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZGhCbmJYRU02Sm50aHdKRWUzekhxdm9xMGItLVB6SVhic1pzSE9iU3pZM0IxMHZLTEFWRkhQWEdoa0MyVnlpNy1GV3VzbWp0cndoeTkxS1J2NThyR0R3UHZFM19HLXgtb2pWVG5UX2ZGcGp4UWJMV1FsV0MxbHdHTEtTM1BWeF9EOGR4cUdJOXJ0NUZUSzFmUFhOQXlxM3NMdXNKejNPQmhLZTM1bGJBM2pGV01ubmNFZnlteUtLQ3dZRGFyVUxuQXlQc1lDOV9fMHdyU0h3UVhza1Z0V0c5M0lXektHbGpwQWfSAfgBQVVfeXFMUE1OMjJRSmxNelQxR3VZa1YteXB0LXFZVklSMEhQaWktNDRydW1xNGNlS0c4R3NiZ041MnZ2bl9uWlBiVFA4c3BBZC1QM2RJbjNjTGJUcUdfWTVEUmRHbnpiMXNuUEsyVUJKaXI4NmZyenVNcm5Mc0xfYS1veWlKb1lULXZzZjdKazhid2tzRThFc08zS2hSWlBVcXp4VWJrZDltT2c5UEpPejVIa3VWSThNUGh0RVRuUTJGeFdWY240REhJUy1QM2E3VFYzLXZPRWRsV1hMZ3k0emRfNDFZRUxBT0JEY3RJaVpHX2VFR2tocUF0SkQ2dDA?oc=5",
-      "summary": "Gato Mestre: Redação Sportv exibe gráfico da média de finalizações no Brasileirão ge",
-      "date": "2026-10-27T14:13:43+00:00",
       "image": ""
     },
     {
@@ -407,10 +393,10 @@
       "image": ""
     },
     {
-      "title": "Mesa analisa expulsão do Neymar no jogo contra o Bahia - ge",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeVJyMjVDN3pscVBEZEZEZWE5S2lncXZxSVU0WndXRjdqbVJtbUl0aU52aHNEcFpjV2lZc0JuXzA2bVBTNWpQRjRsQVF0WHRZZXh4c2puTEU4dzQwUFpnUG40b2hraHRMd3lGMjMtZnVrS3IwRGRIR3NYSGJSMGRYcGxiU0EtTFFydWZUSGowYkFKYlo2ano5U2dqc1NZMmhNT0FSRUpWeFNwcllrcDhoQWhleGZqdVZpZ1NieVB1STB6MjdGZ01v0gHWAUFVX3lxTE9Cd2R1YUdjVG80U24zYmREdmVtOXRHQ2VzdkxpamVTU2F3U0FINlNmS1VwbDFpVmhVbFdJeTV3RC1oS2R6eUlXMDl5N3BCenZjdkx1VzJBcEpMdlhpbnp1NUFwSDJYSDBMYTEwbTU4Tlgtb2FQZXBVeXB4dmo0MlFGTmxkbnBCbHkwTXVmek9DYzhfTVRuTWZMRVNmaDBzSUxKYnUtcHltdUEzaGZxNnBaZEcybnRzaDJJQ2pPcWlUUWxYbmsxX2JXOFdYSjlSSl96Q1gwWWc?oc=5",
-      "summary": "Mesa analisa expulsão do Neymar no jogo contra o Bahia ge",
-      "date": "2026-10-26T19:57:27+00:00",
+      "title": "Gato Mestre: Redação Sportv exibe gráfico da média de finalizações no Brasileirão - ge",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZGhCbmJYRU02Sm50aHdKRWUzekhxdm9xMGItLVB6SVhic1pzSE9iU3pZM0IxMHZLTEFWRkhQWEdoa0MyVnlpNy1GV3VzbWp0cndoeTkxS1J2NThyR0R3UHZFM19HLXgtb2pWVG5UX2ZGcGp4UWJMV1FsV0MxbHdHTEtTM1BWeF9EOGR4cUdJOXJ0NUZUSzFmUFhOQXlxM3NMdXNKejNPQmhLZTM1bGJBM2pGV01ubmNFZnlteUtLQ3dZRGFyVUxuQXlQc1lDOV9fMHdyU0h3UVhza1Z0V0c5M0lXektHbGpwQWfSAfgBQVVfeXFMUE1OMjJRSmxNelQxR3VZa1YteXB0LXFZVklSMEhQaWktNDRydW1xNGNlS0c4R3NiZ041MnZ2bl9uWlBiVFA4c3BBZC1QM2RJbjNjTGJUcUdfWTVEUmRHbnpiMXNuUEsyVUJKaXI4NmZyenVNcm5Mc0xfYS1veWlKb1lULXZzZjdKazhid2tzRThFc08zS2hSWlBVcXp4VWJrZDltT2c5UEpPejVIa3VWSThNUGh0RVRuUTJGeFdWY240REhJUy1QM2E3VFYzLXZPRWRsV1hMZ3k0emRfNDFZRUxBT0JEY3RJaVpHX2VFR2tocUF0SkQ2dDA?oc=5",
+      "summary": "Gato Mestre: Redação Sportv exibe gráfico da média de finalizações no Brasileirão ge",
+      "date": "2026-10-27T14:13:43+00:00",
       "image": ""
     },
     {
@@ -418,6 +404,20 @@
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQV054V1NGbTc0YmRMeEdDUGg0YXpqSldRa2FINno1T01ZLVk3empvZ1NUOV8zYnVBaWpLWXV5LVQ0cGlhdzl2bDg5U2J1UlB2RnI4MzlDM0lQdllrdTFNZ1k1UU1CSGlNUHlHRkI0ZldYQjR0Wml4bDVYclBUdUk5Wm5NWnNKTkZDLWtiRFMxcWJNbWdfT0hvNHdRbjRDLTl1U1EyaU1qaV9ETDdnbUJNRW1zbUxkWncwVWZwX0VFWFZtNHdpdGdOWWl4WENZd3dtZDlhOG5mYld5MUk0RGfSAewBQVVfeXFMUG5EWndLVnpOZFBwQ2JRbmVtSWw0QzBPSVZaRGQ2d0IzbGJGUm40QjB5YW1yWE1kLXl6bkZhLUJJN1dLYVlfMmoxZ2dmNUJBSERIZ2dpekpBNi1rbWRPQlE3Y0M5d255MmE5SUlIc21EcFNmWmZ2RGRsYUtHbkw4MWltejlJQ2xNYVJ4MEFObEVuRXZpNHJUeWxDMGVLZzl5cDkzZjh4VnM1UnF3ZFc2OTR5ZXRGaFhSRnB2b2tyM3BZMXBLS20xeFFXX0NVdThaU2NPQWwtQk8zYkJBdVphYzVTcFo0LU9nR1RMMUY?oc=5",
       "summary": "Luciano Mello: \"Coritiba, Botafogo e Vitória parecem querer ser rebaixados\" ge",
       "date": "2026-10-26T19:50:13+00:00",
+      "image": ""
+    },
+    {
+      "title": "Marcelo Barreto: \"Quem joga mal e carrega o peso do mundo? Corinthians e Grêmio\" - ge",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOT0ZiLTB4c0ZSZXk0c3RpMW1rd0xna3JyTXJrSVFEUkloQkZ3RDR1NDJLdS00NUhaTzdDNFZ1WThrXzhNd0otdEVqdG8xdTlKY0Jnc3NqdFNacTZBNGZacmQ0bjF0c1pfWTZqNEhEQlEtSzdlaXpOcGhwMjQxbGp2UGNXM3FvQUJ5cjVnSXpmLWJBOUdTWmZma3dkQVl0YjNVM0NBMTZWZU90dGxRQnlxQzJ0TFAtbWRaOG5NUC05dmk1M24zbXYxWFQwQTRUY1FSYkMtZkMzY2xqU0ItZDM0bDk5QlTSAfMBQVVfeXFMTVZ5TkoweHFyQU5WcFNmVWFrQ3JiX0tDeDhueG9xdmxFR2xxWjkzeWFsSmxtMzNpZUZUWGV6MlpILW55UndXSG1TZTI1ZWsweWhmanB1anRiQlc0Qnk2eG5rb3VvWjZPZG5iZHFJZUNadk1EY2tKZ1ZkLWJNdThLR0hXdUJRbEtiQnJ3UnFnSC02dDdfeHBZdHEtNk1HdVREdXRrOTdwWjNWYVVjR1FCaXlnNkN1RUtjVWJaTlAtdURJRWJ0cXdsUmg0OWcxa1p2RDFxOTF2MGNKeUp3VXZxaXRsWUxpdHJmNVhYXzNiblNxZUF3?oc=5",
+      "summary": "Marcelo Barreto: \"Quem joga mal e carrega o peso do mundo? Corinthians e Grêmio\" ge",
+      "date": "2026-10-26T19:55:14+00:00",
+      "image": ""
+    },
+    {
+      "title": "Rizek sobre mentalidade de jogo: \"Estamos atrasados em relação ao futebol europeu\" - ge",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZHZkWVJ5Mm9LUnlxOVdUMGhyajVjOGh5UEhDOFBkS2x5U250Xy1JcXIyQlJvYXpXVkdHY1J1R0xIY0tyUUZBaUNxa3FwZEFYaWM1c0VCZDZLbWFlWFVVWVEzLVBfNFN2eFpGY0xhZExHN0lmbE9UaDdFWmZzM3FvaEZnVDNpbFlKeDNHaXlwUXZqbmJELWMtVnhmLVRaTDFoZmplRzYyY2c3MUdrblcxSHFLR3dLZ2dOS1hYRkFsZzJZclprVUw2bDluMXBWV0xlWm9vaUloYnNuN3JBU2dhQ18zenQ1Y19Z0gH3AUFVX3lxTE1wX1NDMjFxVGQ4NVdMdE5OYnFJRjd3dURrdkVjUE5qbVNpUk90U1BkUnlBLU1Sc3JWenU1MEUyeENFd2FWV1lOa0ExcE1KMXphNnpIYm9aUWpKNHZxeVB6bmVsV3lBMTd3TjBrTjNlLTYybGl1RDZkVHpNeHItV0VkMF9XVXAzOGE4b19LX1hrb3F3QXluMXBfSDlhTmRTQVphcmszRjN2TEJYY0pXMUZGVmlHS2VnalF0MTQ2cFQ2QlBpeW12Y2dwSm5CY19leHZQY1Fmal8zaXhtd0F2R2dEY1JIM2JLUXN3QVBJNk5CN09pRVMtM3c?oc=5",
+      "summary": "Rizek sobre mentalidade de jogo: \"Estamos atrasados em relação ao futebol europeu\" ge",
+      "date": "2026-10-26T19:37:39+00:00",
       "image": ""
     },
     {
@@ -430,10 +430,17 @@
   ],
   "palmeiras": [
     {
-      "title": "Abel avalia clássico equilibrado do Palmeiras e detona gramado da Vila: \"É lamentável. Inacreditável\" - ge",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQWG5wSmhUWU01TThRUjBtLUgyYndhYnZjYkV5UGNieDFJem5seGZ2WnNlRjFSY19sUnphdFM4dVA0cV81NmZhLUFSVHFwT25Wa1RGenFpZ2daRlpLelNSTXRBbVY2aUd4S1IzX19TTkRZT0Jyem90cW9ZSDAzTmhpRmtwRVFhOGliOGdpaUZBOFlCM3FYRDlkbllQcVFDOG1oaDljUk5rRHRqdDdvemROVjEzeDNDN2hDU0VJRGhhWUpwUTUycV9PZDZHNWx4S0E4WlpGODdUeTE2Q3lCQ0dDeVFTSFhCNWV6TFVQMjM4OGtVSERIRnFwTGkzZ9IBigJBVV95cUxQNUctdmhGUDJJLUpfSVIzU3hpOTRCcXJMbjZuYWM2dnJUYV9FMUh3TzdjdjV1NHR6M1FqcmpFWUhuUnkwelI2eldqRXRGU1Fxa2l1LUNVS3ltZXhYZHcycWh6VWZfUGFjbkpWbU5kQjBoTExTcUF1czVjY292eUxhQ0pIVURybzNoVWlZdUNSd01vbXFfU3lwSUdsVWcxTVFjZk5MWXp4NVFVb2hYUVo1X1BnRE9XaFBLZkVIYzVORlFCRTNGMDRaQ3lfa2JEc1hLNjM3Y2w0UTl0dHBEMnhoUXlYdk5wQmM5MWZVZzgxYjVUWnAxTFpadE9hT2NDUlB3aU55NmFPcVJRUQ?oc=5",
-      "summary": "Abel avalia clássico equilibrado do Palmeiras e detona gramado da Vila: \"É lamentável. Inacreditável\" ge",
-      "date": "2026-10-29T01:17:45+00:00",
+      "title": "Análise: Palmeiras abusa da falta de eficácia, e empate amargo pode complicar luta por título brasileiro - ge",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQZjl3cDZNWWpOd3lBX19jZWFxenEwSy1rdFZOWTI0cThXUy1GS0Y4Z2V1VmdXREU5SHk1cUdieUlxcENfNndHYXRjeHlEM3VPRElIRHE2WmttS3ZrMFpYWWJiSDduSENJbl92Ml9oYmZzcTdGb2NpaHpUUE90bl9mTDJOWlVZNXU1bVlBOWtwaEhBU0VyUVJKUXlyRzdQb0p2TC1tb2RBaGhMNjNWbWRKVXN0bU1lQ2h1VDB3QUNGanJCamkzNG1nY290OGhLa2VNTVNXeVV1YkFib19mSkNrc3dTTDBFcG1SZXRwVllHNmNJajdQUG9EQWNFUHlvWXprVkHSAZACQVVfeXFMTXM2ck1lckl0RXJQeDFpQlI3M2JncjVhSDFjWXctcVI1Vk80QlpmcmhZVG5VX0FZalBvZjl1X3JkZEpkNTBPMTVZa0UtRmpHWXZsRUlWMXpNNFY3aFF1WjVLcGdDSzlWMUVhUFlBTjJKWWxsel82TWstMTFSbmZzRG1Zc1VEMGdIWGJDNmZKSU5mWFVwTDZ0WGcyN0Fad1A4bnE4WG1zUlVWSGJBajhRY3JZb0hZaG04dFNweTdvV0NyaWFVMUZCaDFUMFBwTnhLVmVwQXhfS0tfR0pJTnJ2QkYyWGU5eEtPdm5lMTZlVkpXTVNWdnVneTVkZHlQWVpjLXp5cTNQQnRMMVFmNWE3aXI?oc=5",
+      "summary": "Análise: Palmeiras abusa da falta de eficácia, e empate amargo pode complicar luta por título brasileiro ge",
+      "date": "2026-10-29T07:00:01+00:00",
+      "image": ""
+    },
+    {
+      "title": "Palmeiras x Estudiantes: veja valores e como comprar ingressos para a final da Libertadores - ge",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQUXNzQy1fTzROQzlOLWpybEtJQUd4cm5TZXpWcEtXYm1fcl9jVEZPdzlWM0owTDZxOWpuQlFTSS1EVkRLTEF6WF9BYk1pVHRfdEg3VHpwOFpsczNkaEdmc3BCbzFjUHlGMF9VUXlfd2VOREkwMmE3TzhONFdNdzBkMk4wdkNvUXNIbXBqendiLWhFVkdJRjZ2YUVfWGxfMmtRc1lPT3FOdUZvb1NKbUZuekRiQUpvalFYNDd2NGZCSjhldmxOQ2VNdFBsRmQyY0hzT1NwR2V2ZWVpTmFacHI3MGlZdFRONm1hcVBTb3pRNlJhUdIBgAJBVV95cUxOUnBpYXNVWVV0eFpYZnFvdURDWmdaeWRuVUIxVGR0QjdXZk4wdDM3QlFTMTNoczBoZ2E3QTVJUXcxblRQVnFVRm1iUnNQam5QN1VhMDNZRk5PR0VEbDU1bXFlbDk4THJ3RnIyOURWdFdQejRKOUIzcDZIVmtHNkRZTkpGTWFGakRoODZlSXJyNXdOcW9mQWZZb210Mm9iYzVMRW1GalJrdXZBLTRwSVE2TUJBSmRyaTMwVGpMQlUyWURrZk5Fd0xTc1VjUWdIQThqelY5TWFNelhlR05wU2g4WndaalRTSDNZNDE3eERIMTBtWS1EQm9Nb01Ed0g4TjBI?oc=5",
+      "summary": "Palmeiras x Estudiantes: veja valores e como comprar ingressos para a final da Libertadores ge",
+      "date": "2026-10-28T23:14:39+00:00",
       "image": ""
     },
     {
@@ -444,17 +451,17 @@
       "image": ""
     },
     {
+      "title": "Abel avalia clássico equilibrado do Palmeiras e detona gramado da Vila: \"É lamentável. Inacreditável\" - ge",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQWG5wSmhUWU01TThRUjBtLUgyYndhYnZjYkV5UGNieDFJem5seGZ2WnNlRjFSY19sUnphdFM4dVA0cV81NmZhLUFSVHFwT25Wa1RGenFpZ2daRlpLelNSTXRBbVY2aUd4S1IzX19TTkRZT0Jyem90cW9ZSDAzTmhpRmtwRVFhOGliOGdpaUZBOFlCM3FYRDlkbllQcVFDOG1oaDljUk5rRHRqdDdvemROVjEzeDNDN2hDU0VJRGhhWUpwUTUycV9PZDZHNWx4S0E4WlpGODdUeTE2Q3lCQ0dDeVFTSFhCNWV6TFVQMjM4OGtVSERIRnFwTGkzZ9IBigJBVV95cUxQNUctdmhGUDJJLUpfSVIzU3hpOTRCcXJMbjZuYWM2dnJUYV9FMUh3TzdjdjV1NHR6M1FqcmpFWUhuUnkwelI2eldqRXRGU1Fxa2l1LUNVS3ltZXhYZHcycWh6VWZfUGFjbkpWbU5kQjBoTExTcUF1czVjY292eUxhQ0pIVURybzNoVWlZdUNSd01vbXFfU3lwSUdsVWcxTVFjZk5MWXp4NVFVb2hYUVo1X1BnRE9XaFBLZkVIYzVORlFCRTNGMDRaQ3lfa2JEc1hLNjM3Y2w0UTl0dHBEMnhoUXlYdk5wQmM5MWZVZzgxYjVUWnAxTFpadE9hT2NDUlB3aU55NmFPcVJRUQ?oc=5",
+      "summary": "Abel avalia clássico equilibrado do Palmeiras e detona gramado da Vila: \"É lamentável. Inacreditável\" ge",
+      "date": "2026-10-29T01:17:45+00:00",
+      "image": ""
+    },
+    {
       "title": "Presidente da Conmebol revela a bola da final da Libertadores entre Palmeiras x Estudiantes - ge",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRUY5YjRScTlxcktMMUI4R2NJUnpETE1zZWhiWF9jaWhPcHJiSENsdExEajV4Y1IyU3lTaTRrMEJqZnZlUE1OSlVWS3N2ZHZETWpGb3hZbDYtYmVSQ2hWcDFETklTLUMzeVJyWVM1NXh2OENTdVQySC02aUNkOGpablRBTkdvOWdSck9GeXRRX2VhbFhicVNJNV9KSXlNSGliT1J5dEpCTi1NZWYxdGlaa2JnT2d5N3hqbHJfRGFqdU1Hcjl3WEthcHpEVHFRS1VjT1dqODRINHdxUk00SW1MQmtYaGpzQ21jazJfZEwwOVlaNlXSAYICQVVfeXFMTnNEQ1FDR3o4M0pfMUNBUGMtSk1tMHhhTkkxcFd1OV9PcTY0a2hhQTJYcG1ibWNKbkE0Y29wbWJiQ0lZSllKNjU0Mmo5S2lCZzBVWkpPYXpxNEk1VlRILWxFT05zd2FjS0tmcDF2NldLajAybEwzVlRDbnd3NEROUUl2S3NDZHZDOWRGNVV4ZU1ES0YxRk1pNkZWTFBaWjYzODF1dGpQWEpvQ0dQREIxU1R5aEd5ZGtHUnc0c3g1THlPbWVGMXRoOWFRRDBnVFVKdGZrQWx6WmpoTDlSOHZremVFaFJNcmN3R1pnVnFUQXNMN3RVbER5VUprOVhCVmVLOEdB?oc=5",
       "summary": "Presidente da Conmebol revela a bola da final da Libertadores entre Palmeiras x Estudiantes ge",
       "date": "2026-10-28T22:14:31+00:00",
-      "image": ""
-    },
-    {
-      "title": "Atuações do Palmeiras: Carlos Miguel salva, e Evangelista vai bem no clássico; dê suas notas - ge",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPalFSMFZVeUk1MGVEbDBDVWxRVEpHOEwwTlJCVklxeFNVMGoydE5KbWpYQjhqR1B5clF5TV9pdGI4a0VrQW5May01eFIyWXBPcWhCRFRHcy03VjNxZUFFRjJtcmpVenFBT1ZqWWtHQzJHSy1RSXZEMmhqOW96a242MEJFdHJxR0g2dS1ydEI1VVR2ZTZScDVKOFkzM2xLcUhUUHU4VFV4SWJMSjV6UG91dU9ZSDdjaUtkXy1WNkVoaWdGREZzYm5QTDhYMkZ0M0hJYzFfcHgwYk9ndXIzNG5yWkVZTXY3WlZEUDBtcTA4eTDSAf8BQVVfeXFMTVQtMW82REpyMFZlQzlHUUZLWFM2dW9ZamFMUHJfczVwZGp5SWJkQ0hrT0t3SG1mME5OQXBMdGJ1T1dFdkZVRTg4MEZ6dURBU2N5RERqeFVPdXd3WE9jLWFEUHo0YUVNU082c0VjYzFKZmZiRzdOU0FiV2hBemRNajNaSl9LM1BaZ28tTmpQZXJTODM1LVQwdlN5NjdRQTd3ZklQczI4dUtYTG1ZOXZoLVQ1VW1hZ1RqNzA1YXBocW1IY1NjOVBFOTE5cVVFR0hCNW04TmNvNHpmNW9WN3BOUHlSYTlMQW5oZXFlUGJ5R1V0b2piYU5pM0tkU0Q3OVBZ?oc=5",
-      "summary": "Atuações do Palmeiras: Carlos Miguel salva, e Evangelista vai bem no clássico; dê suas notas ge",
-      "date": "2026-10-29T00:28:39+00:00",
       "image": ""
     },
     {
@@ -479,6 +486,13 @@
       "image": ""
     },
     {
+      "title": "Atuações do Palmeiras: Carlos Miguel salva, e Evangelista vai bem no clássico; dê suas notas - ge",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPalFSMFZVeUk1MGVEbDBDVWxRVEpHOEwwTlJCVklxeFNVMGoydE5KbWpYQjhqR1B5clF5TV9pdGI4a0VrQW5May01eFIyWXBPcWhCRFRHcy03VjNxZUFFRjJtcmpVenFBT1ZqWWtHQzJHSy1RSXZEMmhqOW96a242MEJFdHJxR0g2dS1ydEI1VVR2ZTZScDVKOFkzM2xLcUhUUHU4VFV4SWJMSjV6UG91dU9ZSDdjaUtkXy1WNkVoaWdGREZzYm5QTDhYMkZ0M0hJYzFfcHgwYk9ndXIzNG5yWkVZTXY3WlZEUDBtcTA4eTDSAf8BQVVfeXFMTVQtMW82REpyMFZlQzlHUUZLWFM2dW9ZamFMUHJfczVwZGp5SWJkQ0hrT0t3SG1mME5OQXBMdGJ1T1dFdkZVRTg4MEZ6dURBU2N5RERqeFVPdXd3WE9jLWFEUHo0YUVNU082c0VjYzFKZmZiRzdOU0FiV2hBemRNajNaSl9LM1BaZ28tTmpQZXJTODM1LVQwdlN5NjdRQTd3ZklQczI4dUtYTG1ZOXZoLVQ1VW1hZ1RqNzA1YXBocW1IY1NjOVBFOTE5cVVFR0hCNW04TmNvNHpmNW9WN3BOUHlSYTlMQW5oZXFlUGJ5R1V0b2piYU5pM0tkU0Q3OVBZ?oc=5",
+      "summary": "Atuações do Palmeiras: Carlos Miguel salva, e Evangelista vai bem no clássico; dê suas notas ge",
+      "date": "2026-10-29T00:28:39+00:00",
+      "image": ""
+    },
+    {
       "title": "Conmebol se reúne com Palmeiras e Estudiantes e apresenta projeto de venda de ingressos - ESPN Brasil",
       "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQQ3FCSF8zUGNfOVE3X1dKTkhxZnRybHFJakJrOHlZZXNMcERpLWo1d3hWQV9MdE00ZjR4dWpRU1hjTnM1NGZqVmdGZGd3aEhNOUZ4YW00bmVDSGc0UGREcmVFNjl1SmhialVPZEFkRm1SRTBJZmdkMGRieFhkZ01fX0FXQ1p5OGxhMll5cXRfa1kwVWlMU1UzM1R2cDdFeDgtTUtXaDRTMnhHbXJfcUVkUmRIOGZjc2pKMmg1bmh0QV9uQVlXdTM3SWxwYUFYLS0tN1BCZ3lSWWhDMXU3Rm05YlNMR2x4MGZIRmJ3M2YyMEFxTWkzMERvS1UwaE8wem1nTm9JSjF5MUdJcE54azl0MEdHdUZXUEdnLVZLdGc0N2dLSGtPb1E?oc=5",
       "summary": "Conmebol se reúne com Palmeiras e Estudiantes e apresenta projeto de venda de ingressos ESPN Brasil",
@@ -500,10 +514,10 @@
       "image": ""
     },
     {
-      "title": "Palmeiras defende temporada sem derrotas em clássicos na \"despedida\" contra o Santos - ge",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQVUpJenhJWXJfZUN1SUNjUWlpcFNXOW5HNUQ4QnpvNUp6ckdCWWNDRjJ3SWJCeG9lWF82X3hreXpJWmlCUWd5am51cFB2YjJJRlJhSmZWR3RNVl9tMDRQUENiYUtDOGFHUzk5UVZRenlHQ0xHczc2TWY4QUVtMTJhUS1JNDE2NkZUaEhTYzhfZ3BfbHBJM2RjQUhsbTZpMDEtREs4TXdvNnA4NVk2Yy1zczFVNHBRRnJaNk8tZkFpRU13X1RJY05OYzJhVllxZDRicjJWSkhLYU5aY1VzUjJteXF1ZHpBUDTSAfYBQVVfeXFMUGZhb09PcVo0QUVJUkZORkhuMzlwQ1NabUpONWx3QVpvbTRLb284bWJVY0RGRURWanpWajBRVmo5UEx0N281cFY3c0I4aHUxOVBYODRnRWNiYXRZRTBEcmhla0FBZ2NvZmx6am9MRzlJQnE1RnIzRjlGWkNtb0NDMFdhMkIyMkVhZGtkd1ZjVE9PQ0pQUjRQOVBpTEFCeGpNM0JZV0FfMU9aT3NuVnMxcUtveV9YMjljMHpfT0hhRDlyZ09TcEJCNzFzdndLSXpYOWFDZXJBX0x5c1o1UWhMMlJPVXJ5SG12NVJOYldJSzFkQ0tWUzFn?oc=5",
-      "summary": "Palmeiras defende temporada sem derrotas em clássicos na \"despedida\" contra o Santos ge",
-      "date": "2026-10-28T11:00:00+00:00",
+      "title": "Palmeiras terá um novo Estêvão ou Endrick? JP Sampaio vê sensação explodindo - ESPN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQM0tNN210OWhtcWoxbEdwYVVWXy1sYTRmQ2pGN1RyWWp3ZHdZNUhORXlzdDdFdUR2NzVFdzlNZkpOWEVOamFVbzNDSWNUc1ZUT3BaR2p3ekQ2N2dhMlV4WXRxMWQzd1JRN1FZTEtGeUJWOXJqUWN0ay1TZmtSWTJxM0x6M1lVVTVPT2QtdHdFVE04aHpwNHpjdjVZcmJ2eU43UWVOeXpXZ3FuNk53ZHJKUEFSTVVSY3hIT2JSTk9oaDZLWVJGTUx2SDJCWGRjUzlC?oc=5",
+      "summary": "Palmeiras terá um novo Estêvão ou Endrick? JP Sampaio vê sensação explodindo ESPN Brasil",
+      "date": "2026-10-28T07:00:00+00:00",
       "image": ""
     },
     {
@@ -514,24 +528,10 @@
       "image": ""
     },
     {
-      "title": "Palmeiras terá um novo Estêvão ou Endrick? JP Sampaio vê sensação explodindo - ESPN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQM0tNN210OWhtcWoxbEdwYVVWXy1sYTRmQ2pGN1RyWWp3ZHdZNUhORXlzdDdFdUR2NzVFdzlNZkpOWEVOamFVbzNDSWNUc1ZUT3BaR2p3ekQ2N2dhMlV4WXRxMWQzd1JRN1FZTEtGeUJWOXJqUWN0ay1TZmtSWTJxM0x6M1lVVTVPT2QtdHdFVE04aHpwNHpjdjVZcmJ2eU43UWVOeXpXZ3FuNk53ZHJKUEFSTVVSY3hIT2JSTk9oaDZLWVJGTUx2SDJCWGRjUzlC?oc=5",
-      "summary": "Palmeiras terá um novo Estêvão ou Endrick? JP Sampaio vê sensação explodindo ESPN Brasil",
-      "date": "2026-10-28T07:00:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Santos x Palmeiras: onde assistir ao vivo, horário e escalações - ge",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPQkVmVVBpRXc1S001Z1ZVX2VMT3doZWVkOTZFTDBDZjZNLVBheS13V1JsQXNTZ2NqZ3NzYkF3bTY0NDlrVGZGbXppQ1VTWHVtWGU5aElxT3RlWkhmM1dQSXBTS3pyX1lLZG5yZnJCRThhakdoNklTVms2MWV5RDRNbEhCWE5OTENNaGFkbFN4V0R5WEV6U0VLdkpIclVXWnRHZnlHOWN4VnlfWmU5MXZvVTd0MmstenFMbEo0d3BUZWJuTUVOdHl2cmRmT0xETkUzM2NpVFFPcEdMbFhsd2taSnptc0NLZzB3bVHSAfgBQVVfeXFMUE9KTnZUaVBtdGItN29nOGoxX3BVU3hVUXgwY2phSGZIZkUyQzFaRjBOUzdYNkZCaEstVXlkb091NWxKcUdKZ3dBcVhNT0hfSkpwYm8tN21TbEVlRHk3STFkTzJHcHR6MVFsZnpkYWhMS2JlRGdDNGFxMFpoWnN2ZXY2a3F1M282SDFHa1otOXlIeU9TTkozTzFmaUJvdW05ZGltRFJHenBmRms2RUQ1bElNeW91aktlc3ZJc1F2ZEJTcFdlUFpsX3Z5OWtmMWJLeGItQlNCZkoxemxIVldreUVtcjB3WURyWTdKSWhOSVpqNzFkM3huX2I?oc=5",
-      "summary": "Santos x Palmeiras: onde assistir ao vivo, horário e escalações ge",
-      "date": "2026-10-28T07:00:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Palmeiras registra R$ 230 milhões com vendas em setembro e fecha mês com superávit alto - ge",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPYVJLUjZwVGlheDlBeC1sUXg3OEc5YnpsVFp1ajZmeWtHRXJDTEZRRzE0NGJaY3pIdlN6YUUtSVk2OUZXY1IzTmliT1lCWnZsbGZCVWxZUXUtSHM3QlpwNXpxd3Y5dmtKWndyb004WW1iSzlfLTU0TnVNVmlsdk1ZSkxWTGtOX0VQTUp2S0E5Z3o0ZndvVVBpN1FYMGFCMzBZVE1lNEtzWlVNMDN6SFFRX0pJTjZCUmprNVhraW9GcXd2MWFiak1ZdXVSOEY3eldfZWFOajBhVTlfLWZZZXpkY0tQdGtraFVTelI3Y9IB-wFBVV95cUxOWUxfcjlSMEFweUt0QklLZTRXVXl2RUFzSExrQUFwSzdLdEUxYzFOc01PZHRhZHdIenY0Q2lOYnJzNlJlY1I0M3JSSEZpN2QxN2pqZHE3b00tckx0NUFMUkZPbUw0aEJoS2NmbFVTV215RU44WnMzNExEOWZLZGVRWXhtYjBhejdYNVpJbzBkdWducGV6bHMyLW1YT0hNbmNYN1JsS3N2aVN5eUsxYlBZZXBpOXA4LS1wcFB2cWNiS3pzazAxSEdBM21xQkxZNVZlSkg3OExsdzFvbGZ6U0J0NmUxdC1iRFlUQ1hVcVdLZmJGb1hSZTNMNktVMA?oc=5",
-      "summary": "Palmeiras registra R$ 230 milhões com vendas em setembro e fecha mês com superávit alto ge",
-      "date": "2026-10-28T00:09:57+00:00",
+      "title": "Palmeiras defende temporada sem derrotas em clássicos na \"despedida\" contra o Santos - ge",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQVUpJenhJWXJfZUN1SUNjUWlpcFNXOW5HNUQ4QnpvNUp6ckdCWWNDRjJ3SWJCeG9lWF82X3hreXpJWmlCUWd5am51cFB2YjJJRlJhSmZWR3RNVl9tMDRQUENiYUtDOGFHUzk5UVZRenlHQ0xHczc2TWY4QUVtMTJhUS1JNDE2NkZUaEhTYzhfZ3BfbHBJM2RjQUhsbTZpMDEtREs4TXdvNnA4NVk2Yy1zczFVNHBRRnJaNk8tZkFpRU13X1RJY05OYzJhVllxZDRicjJWSkhLYU5aY1VzUjJteXF1ZHpBUDTSAfYBQVVfeXFMUGZhb09PcVo0QUVJUkZORkhuMzlwQ1NabUpONWx3QVpvbTRLb284bWJVY0RGRURWanpWajBRVmo5UEx0N281cFY3c0I4aHUxOVBYODRnRWNiYXRZRTBEcmhla0FBZ2NvZmx6am9MRzlJQnE1RnIzRjlGWkNtb0NDMFdhMkIyMkVhZGtkd1ZjVE9PQ0pQUjRQOVBpTEFCeGpNM0JZV0FfMU9aT3NuVnMxcUtveV9YMjljMHpfT0hhRDlyZ09TcEJCNzFzdndLSXpYOWFDZXJBX0x5c1o1UWhMMlJPVXJ5SG12NVJOYldJSzFkQ0tWUzFn?oc=5",
+      "summary": "Palmeiras defende temporada sem derrotas em clássicos na \"despedida\" contra o Santos ge",
+      "date": "2026-10-28T11:00:00+00:00",
       "image": ""
     }
   ],
