@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-30T20:16:51.554628+00:00",
+  "updated": "2026-10-31T01:16:58.747163+00:00",
   "thenews": [
+    {
+      "title": "NIGHT #340",
+      "url": "https://thenewscc.beehiiv.com/p/night-340",
+      "summary": "30/10/2026",
+      "date": "2026-10-30T21:15:20+00:00",
+      "image": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/fb95bac5-04a9-46e6-8d64-ce4aa2368afd/image__18___1_.png"
+    },
     {
       "title": "30/10/2026",
       "url": "https://thenewscc.beehiiv.com/p/30-10-2026",
@@ -98,13 +105,6 @@
       "summary": "tudo que você precisa saber pra começar seu dia bem e informado",
       "date": "2026-10-23T09:02:00+00:00",
       "image": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/5fdc43d5-bc3f-450d-ad6b-d4f23eb8f501/image.png"
-    },
-    {
-      "title": "NIGHT #334",
-      "url": "https://thenewscc.beehiiv.com/p/night-334",
-      "summary": "22/10/2026",
-      "date": "2026-10-22T21:45:16+00:00",
-      "image": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/75996053-b92a-46da-96a2-6ea25441d2cf/image.png"
     }
   ],
   "andreazza": [
@@ -147,7 +147,7 @@
       "title": "Flávio Bolsonaro caiu na armadilha de Lula? | Estadão Analisa - Estadão",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSGFjdHpDWUo0SE02REJJdi1DcTJhTkhpZ1hQMkxRYlVKZDZIVDVzOWNCLWNjQUc3QXhEcEdLLVloM0h3cFBZZXVlUGtvSEY5cklHU1FDQTFfTFV0TUpFcm1kYmJHWTlSd2hsVVVxeENlUlROUDFWMUNaLWlKdC1pb0dUTVZ6OF9sS3A4Szk5eXpMRDE1TzB6OGhzdGZXbUdrTk8zcEs3SXEwUWQxQngzSFZB0gG3AUFVX3lxTE1NSTFWRjdRaTJoV29SS1ZZR1VJeE54UzBGOHl2Q216eWxSTFEyVHhKTkdJV2xHa2ZJMXlsQTF3WXlZZHg2VGFKYmZnazZwal9fbW01bXFROG5YaEYya2J0ZzBwLXl4eGJCM2dVVTJpMS1MQXVmVmpOaU1WbGNwR25tcWVUaW1BZzNsZ0E4NXJnc0hHSy1xQmVsMzhZTG9HOXhzX29WTkVhbnRBdmcyMnFrX0pEUXMycw?oc=5",
       "summary": "Flávio Bolsonaro caiu na armadilha de Lula? | Estadão Analisa Estadão",
-      "date": "2026-10-22T09:28:19+00:00",
+      "date": "2026-10-22T07:00:00+00:00",
       "image": ""
     },
     {
@@ -207,19 +207,33 @@
       "image": ""
     },
     {
-      "title": "Eleição dos rejeitados: Lula pressiona por erro de Flávio Bolsonaro | Estadão Analisa - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOVlDQTFUY2toYW5aclQ2WHh2NWpKeF9HX2dVcFRKYU83cUhQRDdaYklSQVktUmpubkJTOG56MVNrcUlONGpGWUNXVERCLWNfTjBXSE5yR0ZpeUlHODRKQzBhbXRETmJmZ3F3TGtDS2hXMGh1ZjZlYlVXVVBSRElaZTJkN0F4ckd6OFBUVmxxaFZrOEExWTR4R05KWWUybmthd3g0UE5EX2lVVUhNM0ZtMVdNZXpxUEhTdU5zX2tVZF9NcWI0MXhEZF83UkpLbEtQ0gHWAUFVX3lxTE15Qmc1bkxSbEptc0VIZzAxOV9nbjRKTFUxQXBWWFhRSmNzWXZzSWh0WmZZbTRRUVNUR1A1YzNSVDRhXzhRWWF5UlFHLWZJTzN5b0xHTXJiS0R1NnkxRGUwbm9KSUNkWTl0MWxpSjhrNFY2WVVJSlhUcGc4V3dqMW9tVUthek5ETncwbkFVTnZJY1pKb1ZFbjVOOGNXZ3pUanhMN2d4QldZSFFiWF9FNFNUbGtYc2lyWDNDVHRZN3UzczEtVWFPQ2VlYmhFUXJwb0JfRl8wY3c?oc=5",
-      "summary": "Eleição dos rejeitados: Lula pressiona por erro de Flávio Bolsonaro | Estadão Analisa Estadão",
-      "date": "2026-10-21T07:00:00+00:00",
+      "title": "Lula x Flávio Bolsonaro: Debate rasteiro à altura da atividade política no Brasil | Estadão Analisa - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZ1hyZnhfYS1EWVpEaW9EQ2k4dmg0NG5JMnQ2OVA0SjktdDRNVjZFWHM4emVvNlphV05pWW1hRXJBVm5oOUZZd1VjX0QxUnZkSkRnNU56Mllfd0pqNUE1NG5xUnRnUFJvZ05xaUxOQ3V2MFJfZmdWbXJicWtKTzZZNDFoWmZRSThCcl9BYnBLM0Z4bHBBbDdNTklCZVU3bGlWTlltOWVJc3MteUVqUURfSXNSaGxFb2dBUDJjS2VrbkNhTlk1cDMwZGZHSG5ZUmVKWmlpemtpd0Y3SFl5TEtuRkRHRdIB6AFBVV95cUxOcEJkUXZPNkVyN2VwbmR6a3BzWUNuTEZ6LTQyZUI5Y1Rwc2djU09LbXh4bmVDcDlURXF5b3VuV3Fsd2FseWtDWWhDdU9Bbl9Od2dyb3o2ZGhWQ0JmSllleDN6YnhVSURHZEJ2X0hGdVhXSmVYOWZHOWljMkF2NjUzcEVhWFdHYmFEOGZkbDJoUXp5a2JYdUNlOFo5ZEJEVDNSMXlianJKaG5mYmlzLWllNURpek1DbjF5el9xSVpLMjAxTkxFWWZ4OElUNFdRLWhTYVhFQmVsa3dabmJYQVNScHV3b1JBbUhI?oc=5",
+      "summary": "Lula x Flávio Bolsonaro: Debate rasteiro à altura da atividade política no Brasil | Estadão Analisa Estadão",
+      "date": "2026-10-19T07:00:00+00:00",
       "image": ""
     }
   ],
   "espn": [
     {
+      "title": "Corinthians x Mirassol: onde assistir ao vivo e escalações do jogo do Brasileirão - ESPN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUDh1eEpCWmwtdEI3aUJwOEFLSTZ6b1oxd3dMZTJfRElBN2xPQ3BESDN6Tm5MczNNUWhmUmtKQ05vMGNnV2dKejk1bUE1NENkdUVBbXF4YjRaamRfRjNaZWVpejVpZUI0cGlnZkhSU3FwRktGa3kwUF9Yb2tuLVVraGktU2FXR2R0eDZBcXBMNjRncVBvRDFTSlU3dzZGVk9vM09PdTk3Qk92aFVPTlRTUXBldHEwbHRmaXBaRnhZX3dvNHhUVzhLVW41SjBrd3Bi?oc=5",
+      "summary": "Corinthians x Mirassol: onde assistir ao vivo e escalações do jogo do Brasileirão ESPN Brasil",
+      "date": "2026-10-30T23:01:36+00:00",
+      "image": ""
+    },
+    {
+      "title": "Estêvão será emprestado pelo Chelsea? Xabi Alonso é direto sobre situação - ESPN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVTJzak1vajkyMlg3cS1zRWN5MUh6dXdWOTNsMGk2N0ZJZjRUZThZYTVCYWdWU1lreXRVdHl2TDg1bmJEMmNaS2xJSFRMUVplU0N2dGJrTDhxVV9TdFZSX3dFX1pkWG55REk2bVZ5SlNqMnFaSVlRS0xzU2YzYnpDU2R4OVI3NGFNd0Z3NjBwQWFYTmZwLUl6VW10aUtnc0laYUVzbjZLTUJmcUxkZUM3bWRSSk5wY0xiSU0yLVpVazRMZV81Y2tJRTRoSQ?oc=5",
+      "summary": "Estêvão será emprestado pelo Chelsea? Xabi Alonso é direto sobre situação ESPN Brasil",
+      "date": "2026-10-31T00:02:36+00:00",
+      "image": ""
+    },
+    {
       "title": "Flamengo vai à CAS para tentar suspender venda de ingressos para Palmeiras x Estudiantes na final da Libertadores - ESPN Brasil",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNUHVmZlhONFE1bnlEdHA3T3dsRXBYMVRobE9ua0VDSWlPY0U2V1ljdzdfMWxVa0p4UW1md3pfMVViaGF4N3pKOHpZUjYtZjdyUUM5bERBZTNjQzFicEZ3bzc0dS0temFNU0wtR3FuZk51cjhpWXp3dE9ocGtuN2ZxUEx6UnBBa2oyWDZiNThhd25fb3BKRFJHak1zLXUycWxDSEtWd19jbUJXQ0s2ZzR0bWZRM3NWaVBGLXJwbmtzbi1IWmkzVzBheFVhMFZkWFpPNTJ6MnRHaUdqRGFnRk1DRTZIOTQyU1VpLXc?oc=5",
       "summary": "Flamengo vai à CAS para tentar suspender venda de ingressos para Palmeiras x Estudiantes na final da Libertadores ESPN Brasil",
-      "date": "2026-10-30T19:09:37+00:00",
+      "date": "2026-10-30T19:43:00+00:00",
       "image": ""
     },
     {
@@ -230,10 +244,10 @@
       "image": ""
     },
     {
-      "title": "Murillo diz que Seedorf 'chegou para mudar tudo' no Corinthians e garante: 'Não cai' - ESPN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOGd6OFBMX1hJRjZfbW55VzBaVnVtcGo5RzBSaGlBeHBSLVlrSDRUYllFVXFBY0JXQlNGT2dON0NneHY4aXJzMlBOWGNUeEV3UzAyc0l6aEZqaVVtSk1zOUx2ZnJ3TTVNVVFRMTA4UjNMdkY3dUlBX25rOEQzUG9hZkIwdm5xVGlObWt1ODkzTktFMjhtQ3lOd3VaanVLdUpIcGRTQ1RjVEFMWEdxVzhwNVBFWDVIRXZzZm9EU20zVl9qMk9CNFBQRzh6QzNwc1lo?oc=5",
-      "summary": "Murillo diz que Seedorf 'chegou para mudar tudo' no Corinthians e garante: 'Não cai' ESPN Brasil",
-      "date": "2026-10-30T07:00:00+00:00",
+      "title": "Convocação sem nomes de Flamengo e Palmeiras gerou frustração na Seleção - ESPN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPV3VtYXJ1UGxBX0tpTHpNd2MydUFKdWxsc3N4bmxQcUs0Y0d1bW5EMWlrMHpfRFhJcjN2dHV4R2VjeVVUREQ0MWxBZGQ2QUVjVXVrYjVtTWlJdldxd2xfNUdncUQ0dW9TT0l5VHNSMy1EVlpQel9USWdONVZzNXBOUVBDN2d3TVl0UFBGa04tb1MtNTVGVF9Pc0RPMVpfTkRmNHBXdFJIakxXaGQ0TXRsVTZRQUt6S2lVbmVnejdUNDNaakxFMzk2bmRlVGZrQ1MwMFRiRFpvR1hlN0dGUHZSTXBRbGlPbWJhU2pKNE5fODdSMTBneXAwTEIyUTZUdE1oZzF5U0Jn?oc=5",
+      "summary": "Convocação sem nomes de Flamengo e Palmeiras gerou frustração na Seleção ESPN Brasil",
+      "date": "2026-10-30T17:14:00+00:00",
       "image": ""
     },
     {
@@ -244,24 +258,17 @@
       "image": ""
     },
     {
-      "title": "Brasileiro que trocou Chelsea pelo Manchester United conta que descobriu negociação quando levava filhos ao médico: 'Parei o carro e...' - ESPN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPeUNPVnZWUHpnb1I0aGx1SFo5VGM0a1VCTEdLWUR5NWdLMU9fU08zVjBmekpNLUVPanV4NDJuRG5lNnBDRGx0Y1dqbmZRREFmQ3FnODN4cmlzZDVHS05CbENIOUw0SVljVWlQUnlIWlg0UXFYRFNBRnkzaEFQU3h6eGM1TjNoY1NMUDUxZnBWMnZMRmd6MWtuSWk3d0lEN3lJNUFXMmVUZlNaUEVILUNhUWZWSTAzOUhlUmRJa1Q4QVFycUVaSXV3SElralBmY2NsZDM3WkNNSTRIZUlqOE04NGpVVzVLVERwQWdsU2JkcUk0SWs3Vlh0ZkRVODJyZ0JCVWFkX3hsR1BHVmpCeENaamtqSGZpRndqLTVlUk1OU1VUSi1y?oc=5",
-      "summary": "Brasileiro que trocou Chelsea pelo Manchester United conta que descobriu negociação quando levava filhos ao médico: 'Parei o carro e...' ESPN Brasil",
-      "date": "2026-10-30T08:00:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "ESPN flagra torcedor do Corinthians jogando sal grosso no CT horas antes de 'decisão' contra o Mirassol; veja cena - ESPN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNT1BqaG5sNXFibGJ2RG1nendHV1FrZHpaNVpsQ0FsbjJwTUVqM19ES0J1X19yV0NGSy1SaXFKWTNFWGVCdl9qYUk3TGY5M01PVzloMVZ6cmRySzFLZ2tmb2xxakdyb3F6OGRRTHEtQ0RiWlBIZUJ0Ty1hdm9oNjNyNjhXZVBibmZxT0d2UExGa1huZHF6Rlh1c1BXQ1hmYzczcldSNEI0VnFYZEVpbUVmWmViNVhqXzIxamlYdXgyOEE5YUR6Qmw4ZG81NUJvT3lrWWgyRDV1MUI4NVBHeTZYM0c1UWlHV0RBMkV0enZjLTQ1R2QyR1E?oc=5",
-      "summary": "ESPN flagra torcedor do Corinthians jogando sal grosso no CT horas antes de 'decisão' contra o Mirassol; veja cena ESPN Brasil",
-      "date": "2026-10-30T16:03:00+00:00",
-      "image": ""
-    },
-    {
       "title": "Palmeiras mantém foco nas três competições, mas tem quatro atletas em 'alerta' - ESPN Brasil",
       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPdG5jWkNlcTZtcjdZLUZQS0xaU1R3SVlHZ1VYUnJxNVM4b1lBWnByWTdxNjM5ZlpFUi1YOGY1WmRMQ3RMM05QZUFxQjNnQmFBTFNGZGFFYVJMUXFna3UzX09GWHJ4N0Znd2dRNS1lcHV4V1U1dHVWRVlLYlAxSDFuelZMQmR2WG80QWxvWndwbmgwQVI1RWFjRUNIQ3Z2c3BKdDR5dzRXejdhdzNqa2JIWk5fMWVwS1JRRHZIdFFqdTRYYlhSazBhRktoZGpYcGFYV1ltb3lfR25ZRWN2aG1yRi1VMWlMSzNVaDF5ak9KWks0R0NLUVU1Vi1aYjNFazFsWHRRdHJ3?oc=5",
       "summary": "Palmeiras mantém foco nas três competições, mas tem quatro atletas em 'alerta' ESPN Brasil",
       "date": "2026-10-30T17:56:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Murillo diz que Seedorf 'chegou para mudar tudo' no Corinthians e garante: 'Não cai' - ESPN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOGd6OFBMX1hJRjZfbW55VzBaVnVtcGo5RzBSaGlBeHBSLVlrSDRUYllFVXFBY0JXQlNGT2dON0NneHY4aXJzMlBOWGNUeEV3UzAyc0l6aEZqaVVtSk1zOUx2ZnJ3TTVNVVFRMTA4UjNMdkY3dUlBX25rOEQzUG9hZkIwdm5xVGlObWt1ODkzTktFMjhtQ3lOd3VaanVLdUpIcGRTQ1RjVEFMWEdxVzhwNVBFWDVIRXZzZm9EU20zVl9qMk9CNFBQRzh6QzNwc1lo?oc=5",
+      "summary": "Murillo diz que Seedorf 'chegou para mudar tudo' no Corinthians e garante: 'Não cai' ESPN Brasil",
+      "date": "2026-10-30T07:00:00+00:00",
       "image": ""
     },
     {
@@ -279,20 +286,6 @@
       "image": ""
     },
     {
-      "title": "Convocação da Seleção Brasileira: lista de Ancelotti sem Flamengo e Palmeiras tem mais novidades - ESPN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxONTM0NXFCU3pzYWZKYl9fQURSXzc1Z0ZCa01Ublo4WWJhb3lFZ2RFSl93WG5FS0w4Zm9URHFwMjZGVUZ6QkxNbWhmXzE1TUoyN2RycFAwNUJ6N2w0Sko3RkVKNThlSHlPaDVLeUllY2FHMTU2bTMtLWMwc1BqNjEyZG1wX3Q4eUduVTRoU2djVUxJbXItSGtGWFBlV3k2SWJmMUZhWnhYTEdheUZsNU4yTjZoOGNrNDFzMHZBZmJCaldVTXJIc0l5RFhDaEgzcUItY2FIUS1NVUp0LS1DODlDTFJjNWQ?oc=5",
-      "summary": "Convocação da Seleção Brasileira: lista de Ancelotti sem Flamengo e Palmeiras tem mais novidades ESPN Brasil",
-      "date": "2026-10-29T19:11:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Convocação sem nomes de Flamengo e Palmeiras gerou frustração na Seleção - ESPN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPV3VtYXJ1UGxBX0tpTHpNd2MydUFKdWxsc3N4bmxQcUs0Y0d1bW5EMWlrMHpfRFhJcjN2dHV4R2VjeVVUREQ0MWxBZGQ2QUVjVXVrYjVtTWlJdldxd2xfNUdncUQ0dW9TT0l5VHNSMy1EVlpQel9USWdONVZzNXBOUVBDN2d3TVl0UFBGa04tb1MtNTVGVF9Pc0RPMVpfTkRmNHBXdFJIakxXaGQ0TXRsVTZRQUt6S2lVbmVnejdUNDNaakxFMzk2bmRlVGZrQ1MwMFRiRFpvR1hlN0dGUHZSTXBRbGlPbWJhU2pKNE5fODdSMTBneXAwTEIyUTZUdE1oZzF5U0Jn?oc=5",
-      "summary": "Convocação sem nomes de Flamengo e Palmeiras gerou frustração na Seleção ESPN Brasil",
-      "date": "2026-10-30T17:14:00+00:00",
-      "image": ""
-    },
-    {
       "title": "Ronaldo Fenômeno faz alerta ao Corinthians sem SAF: 'Não vão conseguir, e a situação só vai piorar' - ESPN Brasil",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPZnRsbXc4am1FVTYzSkdJQ2JGQi0zLVYxc29EWVdkYU11WnZZdnVvRVdiNGpHV3FOSzk3TEhYWGF0UHk0eC1qNUpoX0VnemZNdmpTckJkMk5Eamt5Vzg3ZGpyUDZQM2JFUENYR19xNk90OFgySVRBN1pNcE9VaEFiZzdsNkJaUlZ6YnFJVEktYVlMZmFCRGNIVDI4U29pVWRzNVRIdTN1WEJVQmlvbG5OLUZiYWJXTmkxSDJJaDRKN2REUlI0ZEhudWRIRjFUOEYyY2JJbG5NSEJ3eC1sX29adXd3cWlfWkplblNpN3oxNjhHUQ?oc=5",
       "summary": "Ronaldo Fenômeno faz alerta ao Corinthians sem SAF: 'Não vão conseguir, e a situação só vai piorar' ESPN Brasil",
@@ -300,10 +293,10 @@
       "image": ""
     },
     {
-      "title": "Vasco faz proposta para contratar volante destaque da Série B - ESPN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPU05UWW5tWU1kaW1KOUpZdjVQTjl6QWdFbDhMVmJ4RjlqNWhCUDRsRVFTZy0wN1RxM1NhT3hCNDBBc2NkVFNkYl94X2VndjZtN0pZSmRUZWJtZldFc2prZ1FqeHNIN0MzN3NSZk1XdmUxQkVPbU1iYmVBeDhRX1JSeVhoMFViNTNlVTF3Zm1LdGhKR0oyejFMbjdleThOMzVwdWJjaDZ3NVBLTjk1Ymt1VDAtSjNiUVdYM3k3cQ?oc=5",
-      "summary": "Vasco faz proposta para contratar volante destaque da Série B ESPN Brasil",
-      "date": "2026-10-29T16:13:00+00:00",
+      "title": "Brasileiro que trocou Chelsea pelo Manchester United conta que descobriu negociação quando levava filhos ao médico: 'Parei o carro e...' - ESPN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPeUNPVnZWUHpnb1I0aGx1SFo5VGM0a1VCTEdLWUR5NWdLMU9fU08zVjBmekpNLUVPanV4NDJuRG5lNnBDRGx0Y1dqbmZRREFmQ3FnODN4cmlzZDVHS05CbENIOUw0SVljVWlQUnlIWlg0UXFYRFNBRnkzaEFQU3h6eGM1TjNoY1NMUDUxZnBWMnZMRmd6MWtuSWk3d0lEN3lJNUFXMmVUZlNaUEVILUNhUWZWSTAzOUhlUmRJa1Q4QVFycUVaSXV3SElralBmY2NsZDM3WkNNSTRIZUlqOE04NGpVVzVLVERwQWdsU2JkcUk0SWs3Vlh0ZkRVODJyZ0JCVWFkX3hsR1BHVmpCeENaamtqSGZpRndqLTVlUk1OU1VUSi1y?oc=5",
+      "summary": "Brasileiro que trocou Chelsea pelo Manchester United conta que descobriu negociação quando levava filhos ao médico: 'Parei o carro e...' ESPN Brasil",
+      "date": "2026-10-30T08:00:00+00:00",
       "image": ""
     },
     {
@@ -314,10 +307,17 @@
       "image": ""
     },
     {
-      "title": "Ancelotti elogia Gabigol e revela por que atacante do Santos foi ausência na Seleção: 'Não podia ser convocado' - ESPN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQcWVkYlNxV2JBMWJSMlh3ZFlIUWJxNWkwTG9VbkdIQmxaWDY1WnMyUlh6OGFfRzBNOXNHbS12M0FMRmZYbWctVDVOUFF6bk5la0wyRG03SUwwUUszMFo3dlNpR3FCNlpCNFAtbld4MWw0UndjVWtmdUUxaWNQaDZ1Q25YeGhaUEtJRnZoekwwVjh1RTlwaFdRS3hOb0ZRYjdqWUtOSHJrU2JUdHdocC13cWJUVktrMXJyT0FZZGJnN1RuN2swSjJBbld2VGNxcGdWblBwQ0FoNFNRYTNaeTFSRHprQThOWE5zR00yR01ZZWtVUQ?oc=5",
-      "summary": "Ancelotti elogia Gabigol e revela por que atacante do Santos foi ausência na Seleção: 'Não podia ser convocado' ESPN Brasil",
-      "date": "2026-10-29T19:57:00+00:00",
+      "title": "Favoritaço? Flamengo dispara após tropeço do Palmeiras e chance de título beira 85% - ESPN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQZHRKbzdiOUNLa2Y4VkpwalQ3eGxVMmYtSW9qMk9MejR5Xy1DTEdfUmN6ay1aSGpRME9KTTczbkstNV9Gbk5HblRLbEwwTlR5WWtHbXRSczFXWXJGOGFtVmxkdFUybm5QaFMyTGU1X2hQcFI2clNDdVpEaTdjcjF5UXFLclpmSmppRHpWcHlUeXp2aVlXZmpMX1JCOWFIY2RtaGY0Umc3YThaOXRjWFlaRENydEZfQmpQN3dJUXJZX1Brakp3MjZ3ZG1acHFVdGlTUHJpcUN2cVFMbFV5UEpUNk4xN2tiY0Vr?oc=5",
+      "summary": "Favoritaço? Flamengo dispara após tropeço do Palmeiras e chance de título beira 85% ESPN Brasil",
+      "date": "2026-10-30T12:41:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "ESPN flagra torcedor do Corinthians jogando sal grosso no CT horas antes de 'decisão' contra o Mirassol; veja cena - ESPN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNT1BqaG5sNXFibGJ2RG1nendHV1FrZHpaNVpsQ0FsbjJwTUVqM19ES0J1X19yV0NGSy1SaXFKWTNFWGVCdl9qYUk3TGY5M01PVzloMVZ6cmRySzFLZ2tmb2xxakdyb3F6OGRRTHEtQ0RiWlBIZUJ0Ty1hdm9oNjNyNjhXZVBibmZxT0d2UExGa1huZHF6Rlh1c1BXQ1hmYzczcldSNEI0VnFYZEVpbUVmWmViNVhqXzIxamlYdXgyOEE5YUR6Qmw4ZG81NUJvT3lrWWgyRDV1MUI4NVBHeTZYM0c1UWlHV0RBMkV0enZjLTQ1R2QyR1E?oc=5",
+      "summary": "ESPN flagra torcedor do Corinthians jogando sal grosso no CT horas antes de 'decisão' contra o Mirassol; veja cena ESPN Brasil",
+      "date": "2026-10-30T16:03:00+00:00",
       "image": ""
     }
   ],
@@ -365,6 +365,13 @@
       "image": ""
     },
     {
+      "title": "Edição de 27/10/2026 - ge",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOR2pTbG1VVDQyLUdkbVU2NnBZNWdEUXlXMFVLRnZEek1XVkZhaUM1MlQ3NjFVUVRhR0dELTRVQTVubXNFSnV3M2ppR0ZrQUVxSTk0a3lrWjZwV3dJUFZ1VFZFRUFTSHI3dXhfZ1QxQWM5aTFoeFM5TUk4UHlHcVlrWUI5dE9rSEFHdWF3M3FvOFl3aW5LY0N1MtIBpwFBVV95cUxPdTBybkpFc1RQZnVDS1N4UTZjeGJpUGE5LUtWM0NGaDdFRl9sdGxILUZLUktpU1FJelN0UERwaVFxMVdkbUxZbmg2cUF0a3JRWm9YNW44dXNoalBIcjRiaDU0MVlUWV8tZkNYcVE4RW1KNzVmd1R6YnktWDI0cjdBOG1XRjFqSVlrZWhjZ1BRQ0JrVThVcVVnY0VWUHJlMDUtYlkzTGgxQQ?oc=5",
+      "summary": "Edição de 27/10/2026 ge",
+      "date": "2026-10-28T02:42:48+00:00",
+      "image": ""
+    },
+    {
       "title": "Rizek sobre pedido do Flamengo para jogar final da Liberta: \"Não creio que terá sucesso\" - ge",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNTHZWZW1oU1diQ1dBTEtfNDgxUTJPWHVQNnFfdGNheldtOUpRZ3FtaE1xQWFfNGRPUUxScmdVcE9SZFY3dWE1TDFwUE96bVM5Y0Q3Q2lCeEZyNEpsLTNZX0FCV1FLVEJ1WFN2ZV9nWUhSc195OGtkdE80N0twOHdqU3JSZFMxYkpZbGtMdTczM3RUTTFBTlotV3dKR2ppTEFMTFVYMktQdkhkeS1VOEFZbnREUE9QeXMwTGEtNG82T0ZPdW9yNGNRbEFPbzJqRGM1T2VqSjJSTXBJUVE1QnU5U2g1XzRTZzVFbDJGOUtqMlTSAf8BQVVfeXFMTl83ejBXVF9JUFIxU2R0TWMtUktvb0pndkp0OUMxTlFwSFRuUnlQWGhNWEF0N0htRENzclVsbkN6NnM1ZkFCcG5oU3dDWUxuaWh2b3FZZkFRQkpqLXBRc0JrMkJhbXlLZGFRSldZRzVjU01BSzVpTW82bEpla1V0LXRjZWFfOWlyZjEwUk55TG9ZRVJaaUNxVkNZMVZQamRyWE5PT3hxZ2hXXzVCWlBYWVdnVHU4bmFlaGJPZE1UQ3FuMEU2dVZyR3pScnlBbk90VWlRcjgwcVl1Q2RRUUZOM0xNaVR5ZlFqbUZURElzaml0Z3dVSEJLeHBJLVlqNkN3?oc=5",
       "summary": "Rizek sobre pedido do Flamengo para jogar final da Liberta: \"Não creio que terá sucesso\" ge",
@@ -372,17 +379,10 @@
       "image": ""
     },
     {
-      "title": "Eduardo Domínguez analisa atuação do Atlético-MG e diz: \"Uma lástima a última jogada\" - ge",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPYzhOR2pIOTBXV3d6RGJiYzcwQUtVa3lQQ0M1Nk96WFpfNnNjUHBYQ1VRWkYxTVh3ZFFJOVZ3YmlQYUpidU93MFVsSzBITTNpSWRyNDNGWjQ3Y1pUSHo4WUNLdjFrYlR5emZRank3NGhQVlV2Y05ERzZzN1o3Ylh4Z0RvMWJ1V3N1SGUtRUdId1ZOUHZHc1pDRktkdGljblF3X010RWQ0akl6eXQtc1NKNzhvYVFfTTlCQ3BsNlYyUHJpNkZSdTFfaTh5NS1SajJUbHJ4Q3V0ZXFQOTlLQlU5Ylppa1Q2dFp4eXlCWXJn0gH8AUFVX3lxTE1WazZzU1NMbW0yMXhyWlpsdHY2eG56Mk13c21YOGtnUHZ1N2ZDNUplbFVSMmlhRFZRNXY5cERLUk53a0Q1eEtqUFd1NDhSQllxNlVCUHNmYlF5OFFxWXNUX3hHVGJKX0QxaVJ6cGdJT280dmM4NGpBQkxPeFJUdWdhLVVpRkxsVjZwNVZJM0hMNWtycHV2R1hORUpvck9VWmdZNkt1cEFFR2xkX09NREJRRWNjb1psR3V1RU9ZTG1wMXFqWE85c05Nc2lKY1Nab0c5djBOLWlvMzFPNVhVNnhwaGc5YXZfSjdBenRWS0xtOUdSME9GY0hNSm5WRw?oc=5",
-      "summary": "Eduardo Domínguez analisa atuação do Atlético-MG e diz: \"Uma lástima a última jogada\" ge",
-      "date": "2026-10-27T02:29:43+00:00",
-      "image": ""
-    },
-    {
-      "title": "Lino: \"Palmeiras e Flamengo vão sofrer na Data Fifa\" - ge",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSlZYbVlsTVJyVGxnVUp4Y0FNZGdKQTlpeUxiVGxaVmhYMUpqY0I3MGtWeFNNWkY5eE9ESWotU1JCckdvcTE5Sld3a0lxUDJQcngzaTFfME5MdTNaSWo1a09aWXJlcVNIYVVoRUMwVkVteGlKS3hINm1mVWhhWGZaUUktNThUdzJ0OU9zalZhMW5YRzFUR0Z5UlhXdE1uOE9oejRTaGpLSEd3ZmE5eTJZUTVJaTl6YVBUVFYxM2JfUEfSAc8BQVVfeXFMUEdBOXRsNHRUWWxpVkphU2VTNk16SDdLQlEzcXNUaVROUTc3YUdEa3pyRWpPcmFKVVFyMVZYWExKc08zdDJybWE5aFVpclo4R2tMQzFrMHotN3RDZ2IxZ3Jlekw4YTctOTQwbTZhNU9BYXBBOWZraEprSTQ0cXI5cXdaUDNfRGQ2OUI0XzlydTJzdnlNeWVJRXh4U3R5YVZvRGlJRlZPUzdjRmJHZUNJajB1VGtnbUQ3R1ZnVXpyS0Q4VXFlVUlDRktJVG5BYTlV?oc=5",
-      "summary": "Lino: \"Palmeiras e Flamengo vão sofrer na Data Fifa\" ge",
-      "date": "2026-10-30T15:35:43+00:00",
+      "title": "Mesa analisa retrospecto no clássico Vasco e Flamengo - ge",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPLW9rOENjWVpPNm1QXzdMd2NqbEREQ2JUdXRuUWR2RGd4REVXQkZ3TTVaQ094dkhZOExmZDBQYmNLclctRWdDTTl2cExVLWVKZUp2UVBXRW9QWlhwZ2VfWXdjaGRlM3JycGtpWVRpRmhkVVFWX2lZQllvSmdKWWRRbzU3WncwQWJXLXZkOUViRnVrbHZoc19sSXd0S1VNUENIaEE2MXdtejc3VjBoN2FMd2ZrSlE3LTdzMGstcnZYQjh5U1MzZ2fSAdQBQVVfeXFMTTZlNXJlbE1Tbk91bmhXNXNHLVdiTmpBZ0J6VUFoUXVIUDJTQjE1Qmp0TlRuV1NSRHp5ZU92M29wZXlIU0w0VDFsbUtkZFRNa3phN05yamZCZTdPbzkzbjVuS01ib0ZpbFVHY0JyRmRsOUVieHE0UmNoZ3RWMGJpbzlHamVhWDJ3UHVPWFRCVjVTbWNGdDZQRDBjMUs2Y0FKUTdmckh6M215RngyYnNUbWlQQllReHc4LWtjaEN2eEpGWWxQaVlFODV4dEMtNUZGNGJqNGU?oc=5",
+      "summary": "Mesa analisa retrospecto no clássico Vasco e Flamengo ge",
+      "date": "2026-10-30T15:37:52+00:00",
       "image": ""
     },
     {
@@ -393,6 +393,13 @@
       "image": ""
     },
     {
+      "title": "Eduardo Domínguez analisa atuação do Atlético-MG e diz: \"Uma lástima a última jogada\" - ge",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPYzhOR2pIOTBXV3d6RGJiYzcwQUtVa3lQQ0M1Nk96WFpfNnNjUHBYQ1VRWkYxTVh3ZFFJOVZ3YmlQYUpidU93MFVsSzBITTNpSWRyNDNGWjQ3Y1pUSHo4WUNLdjFrYlR5emZRank3NGhQVlV2Y05ERzZzN1o3Ylh4Z0RvMWJ1V3N1SGUtRUdId1ZOUHZHc1pDRktkdGljblF3X010RWQ0akl6eXQtc1NKNzhvYVFfTTlCQ3BsNlYyUHJpNkZSdTFfaTh5NS1SajJUbHJ4Q3V0ZXFQOTlLQlU5Ylppa1Q2dFp4eXlCWXJn0gH8AUFVX3lxTE1WazZzU1NMbW0yMXhyWlpsdHY2eG56Mk13c21YOGtnUHZ1N2ZDNUplbFVSMmlhRFZRNXY5cERLUk53a0Q1eEtqUFd1NDhSQllxNlVCUHNmYlF5OFFxWXNUX3hHVGJKX0QxaVJ6cGdJT280dmM4NGpBQkxPeFJUdWdhLVVpRkxsVjZwNVZJM0hMNWtycHV2R1hORUpvck9VWmdZNkt1cEFFR2xkX09NREJRRWNjb1psR3V1RU9ZTG1wMXFqWE85c05Nc2lKY1Nab0c5djBOLWlvMzFPNVhVNnhwaGc5YXZfSjdBenRWS0xtOUdSME9GY0hNSm5WRw?oc=5",
+      "summary": "Eduardo Domínguez analisa atuação do Atlético-MG e diz: \"Uma lástima a última jogada\" ge",
+      "date": "2026-10-27T02:29:43+00:00",
+      "image": ""
+    },
+    {
       "title": "Loffredo diz que erros de Ancelotti aumentaram críticas: \"Pressão que ele trouxe pra ele\" - ge",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNVzRzNWRCcjhvV1Z0UzhhUG56QV9EOTQzVy02eHVTX0xLc1VPRE9RaDQzOUZ6VTU1dE1IbkgyLWR1WUUzeDRhbWtJaHNQQnZCdUplNTJPV2c1clNfX3V2Z1ltZ0xZdElteEo5czhqLTdpb05uaHVjZWdnNUlGMUFTQ0lzVlhmYzFjTWg3ZEgzV2lDM2NHOExBSnRGZGtqOTJud1pyamwyYWFBMXl4VmRYa2RWaHkwRWRaR29PcTlCOWZxOEtNbEsya1VNQWZmV25tbVFudDk4bVNEYi1WcVcyNUdmMGpQdjNEWjZBM3pB0gH8AUFVX3lxTE02S3R1bWs0VWZuY2o3SDNrdDRMNEZHTkVPcTZYNVFjbkd0ejllLTFnUDhiTDNjZEllZTR5MXFCZ2xDRjhiSE5MR0dQdXlteTJEMXFPaE52MU5VZDRCNk1TdmxSUEZkZHJVUDVpT1NvZGwxakVDVFM2d3BGdm94Uk5oT1pnUGg3RWpHZkxaZVFMa1l5d2xwcVVFaHRNOG9fVjRSN0tUYkV0SjRIWVRjOEtackZCLTgwcVk5dXBsVERyb1ZDLVdfZ1dqekRDX3ZSa1dlQTRXZDE3SXVSZGtRZzJMZEJfOXUyYU9TZkNuZTVFVktPdEZIdjFDUzR5VQ?oc=5",
       "summary": "Loffredo diz que erros de Ancelotti aumentaram críticas: \"Pressão que ele trouxe pra ele\" ge",
@@ -400,10 +407,10 @@
       "image": ""
     },
     {
-      "title": "Rizek critica Neymar: \"Histórico em menosprezar rivais\" - ge",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUVNKSmRFM0o1ZVpXQ3dtUzJkVzNvOHk3eU1fQ1FmQ2JSWjZTdldvR2hva0tlMmh3MnBiUjZXZmVHWnQ3YVd1UGxkNktPTWpjYnVRRnhnLWxOX0JoTjJZVWhOVW1ERXYtbjdZbmE4ZlNxVHlIbEJwY0RsbVhwQnhrcnQ4WGRLYkNxYVRETUlxT0M1a1RNN2tYYmdYMXJNMmtGVjlTeVpoNmVrYXVuT055dlAwZFdfZVlXRExDTXY3Mk9Ha0tZ0gHTAUFVX3lxTE5Jd1RPcEh6WXRfek1SUEV3N0RQeEVNZWxVNlZYVGRvcXBOWVBnZUZXQlZtdWRVMTZYT1NldVByUU1zcGtkM3hnUW50RERjMjhSN096X2Y0VWtSS0R6MEFqc19Ba3lRd3hSck1ld3F0dmVmeTFNRmwtdnJLUjNPTlc4eW9pZl9PUkZ0WW56RXk3ekVsaExqZF9yNUpreC1TTFRpZTJTRVVkSUk5NXVtN0tWcGpqZktqQWY3SmhSMnBlT2wtcXlmNFg4OVBHMXZySHEzWE0?oc=5",
-      "summary": "Rizek critica Neymar: \"Histórico em menosprezar rivais\" ge",
-      "date": "2026-10-26T19:36:34+00:00",
+      "title": "Felipe Melo: \"Quem imaginou que o Estudiantes iria eliminar o Flamengo?\" - ge",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVWlqMUp3bnJ5cDlTNmV2dkYwZFZVTS02Yl9MaW5zZkdRSlJ5LURtdnpfUjlNWjNfUGZ6RlJEQXFBbU15eldSaHlVcUZwZ0E5SG9HQWV3YjlXQzFST0RFUzMtYkcxNDdrQ09SLS1NbUZjeGszZWRaVE1LM0R6MGtHM3JTUXl2VGQzeUl4V0plYmNLbHVNcTB4RWRRLW15SlRLTjdlNms0ZzJ3bENpbVNUUm8yVUNxVUVzU0hSdnBTZG5HRHJlT0I5d2ZsaFlXckNIZkxyd2NXc3BGZ9IB6AFBVV95cUxNWGlSWVBNM2VZc1dpclpRQWlYNkw3aHNWN2RVV21BN1ZvWTNIVDJlajdvUVVEUWtMaXU1d3d0UXdua1NTWmp1ajVSd1BDWnQtV3lYOEV1RkNzTVlFMTZFdkZMU1hLOHIwYzNGQVpmZ0lEME9SRnZpaUZPdzd1YVlZdXVXa25uSUNJVXBneW16aXpoYnJjSG1Sem41LXphaDJwTmlFaHFqLW95dFRfTVByLWl0eE1IUDc2T2VJTENxRDFMNmlnY2QwaFdfLWhsbWhIT1EwS3ZlS1JaLWY2SV9Da3JRTnpaWWNV?oc=5",
+      "summary": "Felipe Melo: \"Quem imaginou que o Estudiantes iria eliminar o Flamengo?\" ge",
+      "date": "2026-10-28T21:07:31+00:00",
       "image": ""
     },
     {
@@ -414,17 +421,10 @@
       "image": ""
     },
     {
-      "title": "Palmeiras x Flamengo será a \"final\" do Brasileirão? - ge",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVERUcmZodERrbkdSbVU1YUZFdjF3QkRNSVlvdjJnNlJXRndqcVB3dW9EODkycDIzQWZ1N3NuMENNZWZsRnF4clVNaXR1Sk5nTEZFODBERm1JaktnWEhBazVqQkRDMHkyZkYzMXp5bENCLUEzT0VWVFdtN1gyZm5vSW05WWVHOGZ4NUlRTjA0Xy1VNmd1U3A2dmlYZVpheUdqN0JnaGNPbGhXTndXUkFMNUlIZE5xamh1MUhwWXdSVdIBzgFBVV95cUxQZGdUc1lRVEtvNFhBUWhDZlJUSnRtQlhDNUQ4NjJpX2tvN0psYVU2azJiOXN3dXNpODdSR0xWZTJLemlEc3lZNDFSNzRXcXNTNU1uVUtxa19HamhPbTRJNV9kQWRIWDJ6d3JVRWRkem1DT29NQ1pHaVk1VXhnR3VBeHNCVDNXbTRQZTJjSXNYQmk2d0tvUlZFSGo1UzJwU1RpNXVIMUhnVVR5MHFFYWMzUDB1UUJSN3R2MWVaVUxYbmMxVG5VMTZiTW96WXpUUQ?oc=5",
-      "summary": "Palmeiras x Flamengo será a \"final\" do Brasileirão? ge",
-      "date": "2026-10-28T13:31:07+00:00",
-      "image": ""
-    },
-    {
-      "title": "Lino: \"O Leonardo Jardim não conseguiu construir uma identidade nesse time\" - ge",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdjNZdE1jYTFyUG9RaU1aTTdXZXUzRWp0dkt4OGVmeDJhMkNrQUVwRlF4MGJCeTB1dERWdzZUcmY2ck9MY0dhbnUwTWRUdXlQU1RtOTdLQWRjZ3locG9WMlVwVVlxSXdRMWV6THJPeEwzTHhSRnZUWTdnbjlVLWx3dFlFUTFZbURPdTk5MXdDNVlMM3V3NjBOTkJONmQ1MWJsdHBQVjkwTl8wUzV4TEE3R21rSDhPVzYwNE5rbXRjSlFlTWZFNEhRVXduVm1ERndBQUNUSGVSNjNpOFVrLWxV0gHuAUFVX3lxTE1YUkdPMGRQc1A1RFdmMEVFTHRVcmpPMzJXRnp4Qmpmd0ktTFY5SFZBYlZ0Ny1wMC0xS1d0ZVZWc0wwX3FrdkEteXJ6WGwzVEdGU3VkTXA3RlNybjhkd1ZuX250aDBTRTNzbzdnMDlxRVJmempvdnRic1I5d09hNmRkZFBZTkpBWF9fSy1ZRUc4YUc2dDd1LXJ2Z3lORjRXUzk3X3lqMGZlNmdsSW5zRURYSmtSbi1XYnY2ckRYWGE0VUR2M0dlS2h3bnUxTWZXaTJyWGZCclZ3QXR3a0p3dGwtcWdSSGVneEFZdmtHeHc?oc=5",
-      "summary": "Lino: \"O Leonardo Jardim não conseguiu construir uma identidade nesse time\" ge",
-      "date": "2026-10-27T19:39:08+00:00",
+      "title": "Felipe Melo: \"É o Inter que briga pra não cair, o favorito é o Fluminense\" - ge",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRFctUl9aNnhkdGZNekpfck1oclJTbHlqSVhfMVNaUGQtbFhPS2R5WDdjNFc5b3hsbFBrY3VDWXJkcHVjQ2h2TlUtNzEtMlBseUFfNW9KbnZlYzRFdkNHUFI1X1dZZ1B5dlRQQTFDa1lnc0k4NGE0SEp6cUZEenFPZWJ1bU9sWkRfdjRDNFlVa0JQNk9OekY0Mkt3ZVdFRUYwZnJCX0dJUlV0V2RyREVxTEp0NTBtNS03d2dIQ0trVmlsOWNpSXRKcDBiTEViOWc3RGFUU2xQVzU3dEUt0gHrAUFVX3lxTE1qbDh6ZVZwdWdkdVRMTXFaV0J4bzhjTG1MbWt0S244b2FaMm40SG5fMjI5bHM1Tl9CQVMwNFd5NnY2b2c4cHdqMmpyR096cUJERnljQnoyb1BkTG9nRlZ3dGJZR3R4STIyLVRBZ3F4Z1pzaWV3aE15Z0xFT3VDUzBURzZaaDJfbHhPdkN5Qm1xdmNyS3ZfOExncVJIc0RoNkM4c0lsTndLWFZobHNILVR5TTlZNThuRU1OWHB3SzhqSnFDVVc1NHpZdVA2cUxYN0tseGFyY3J6NFd1bDdLemhLMXVHby1MbmRjRG8?oc=5",
+      "summary": "Felipe Melo: \"É o Inter que briga pra não cair, o favorito é o Fluminense\" ge",
+      "date": "2026-10-28T21:06:54+00:00",
       "image": ""
     }
   ],
@@ -433,14 +433,14 @@
       "title": "Flamengo vai à CAS para tentar suspender venda de ingressos para Palmeiras x Estudiantes na final da Libertadores - ESPN Brasil",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNUHVmZlhONFE1bnlEdHA3T3dsRXBYMVRobE9ua0VDSWlPY0U2V1ljdzdfMWxVa0p4UW1md3pfMVViaGF4N3pKOHpZUjYtZjdyUUM5bERBZTNjQzFicEZ3bzc0dS0temFNU0wtR3FuZk51cjhpWXp3dE9ocGtuN2ZxUEx6UnBBa2oyWDZiNThhd25fb3BKRFJHak1zLXUycWxDSEtWd19jbUJXQ0s2ZzR0bWZRM3NWaVBGLXJwbmtzbi1IWmkzVzBheFVhMFZkWFpPNTJ6MnRHaUdqRGFnRk1DRTZIOTQyU1VpLXc?oc=5",
       "summary": "Flamengo vai à CAS para tentar suspender venda de ingressos para Palmeiras x Estudiantes na final da Libertadores ESPN Brasil",
-      "date": "2026-10-30T19:09:37+00:00",
+      "date": "2026-10-30T19:43:00+00:00",
       "image": ""
     },
     {
-      "title": "Abel agradece pelos seis anos de Palmeiras: \"Não há nenhum outro lugar onde eu preferia estar\" - ge",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxON3YzRXhYUGFtRnNOMl9INzhqbU5fb3N5VDBudWhvcFZnbUUxemRYdFhkUWV6cmU4dlJhT1ppT2Mzc2hWajdBd2JsVnZnVWJlVWU2SnN5Ri1ZOEladGFNcU5Ldmk4R2xKUHdnbnBlcm1fREdaS0dzRjIyYXhMZXQyQ0VZUllERXF3bFpjYWJ3WHRaZS1yUEJUblFscmxMdXV0S0RUU1pQT1l5R3psUjFhUzBYa0VNeDVkelNOcmV3aGtocmZicXNISGRqRm84ZFNDaUFNZUJaQjIyY0lUNXEwQ1AyT3N6dkdHTTRqd3hIVmVHTE3SAYICQVVfeXFMTThtblF3M2gyaWtjQ01UcGQ5X0UwMTZlZWhfWnRlZTctcHBvRFVCRW45anNwaU1qYTJRUDdDc3NqdTY4a0NXVTlLZWNoYkZMNnQ2MXV4WllIc0JNNkI5UFRTd2dhWnRfSHoxTzJsWF9iczNPQjRzejk5WDVCOUtNdTVjN29EMVQzbWhvRUZ6bUdGSURBM3VEcXV5bV9aMm1yZ19kMzVHdHFwQ3RmaFRrYlZuc25XVU5xNVNWaVV3ejJ1VmN0ZXNwUmgtYTVkbTA0RzVoVks3SmthMXVOcTJQUURFWldvd09fVWs5aXJYdEtCSTYzY3dyRlg5TlJkTThxYmdn?oc=5",
-      "summary": "Abel agradece pelos seis anos de Palmeiras: \"Não há nenhum outro lugar onde eu preferia estar\" ge",
-      "date": "2026-10-30T15:42:45+00:00",
+      "title": "Richard Ríos, ex-Palmeiras, deixa campo após ser \"atropelado\" por rival e deixa estádio de muletas - ge",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQSVEtMXV6ajdXcGo5bkR1Nm50MU52WVVlRkZva2xnUnhiUDBxVjZGTnQ4SEVCRHdqQ0JmWEV2cDNzcWQ4RlpwOW52V3gxd1lmYjAyUjFEb092aEQtUnYwNVdHZlM1cHVMRUNaTVAxYkdKWWlBd0pDeEg3MmUyZG9zYWRVb1JzYlNLSHFZcjNKejFQbkFpWHU2SV9iSXRqSDlOMllxRGJ0ZE4taTRGMjUyTXVSMUEzbkJNWnBmOFdjYmxSblhPZ3V3ODYtTU9EaTlVNmRDaDFWVXJCRlY4UnhJTmRsRHJwXzZpMWpWZVluT1FJY1QyVVN6S3JMWDJLS2vSAY4CQVVfeXFMUGFXYzM2VjNjT1VDN01iTnNmemp4RmpuenhZclN3Yk54Y2JveGtmYTBDeU5pRkRvSzlKZUlFb01pY2JzNUs4ek5iMGsxR0ZncE51My1oUzRJOW9wRkEybGJabm1OdnFKdm9rT3laVl9OYldEd2RDQ1BlNV93RG9DUE1qZ0U3TDQxbWlaQWJfN3RGZHRxQ2g1LVFFSlloRXQ1NDQ1TEloeFdwVXdxMEViX3BzTENWR0FBdnJVeUUzYk92NnFsbXlIdmVMYlVPelBkZGFnWHU0bjFwM29ZUk1JUkpOMGljS0x4eFBGV0o0UHdVZTZBbDBSdzdvT21EWFRXeWxxUTVBWmFZTVppSVVR?oc=5",
+      "summary": "Richard Ríos, ex-Palmeiras, deixa campo após ser \"atropelado\" por rival e deixa estádio de muletas ge",
+      "date": "2026-10-30T18:58:53+00:00",
       "image": ""
     },
     {
@@ -451,10 +451,38 @@
       "image": ""
     },
     {
+      "title": "Palmeiras x Flamengo: compare os jogos e quem tem o caminho mais difícil na disputa pelo Brasileiro - ge",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPN2lPOUdqY0ZTZWdJdTY3dlVhUy01Mm1Rai15RExHMnEzRU82S3N0bFhGOWUxMlg0R2p5X210UWhVd0stRkFfWXZDc2kzRVJuVk9EcWNsVUtHVGxQTlRUTlRKQ0kzTHRGWDhzdWFMa0ZKVnMyV1VLbmFZODNFU1hkOWtYME81X3c3M1htN201ZElqR0F6UkRWaEt0NVJBR0x0S3pVNnVYUDRZUU5aU0kxSm91UDZiQ2JqMmtxUjJtenVVUVl2cnBPUEU5LUhQTGlsaGhBMEsta3Q1QkJXMFhLN2pTTEJKSXZsdjdwUHNWbTVXRWJkbkNMTENzTWzSAYsCQVVfeXFMTXFnQkZBMms5UEtuekdUWmtpRGpQWWxWcEpmZHZEeElOMDRpNXlSYUw5b2FRMHRWMm1zbzhYVG90VUNQbjFaYnRBX2I1TkRLTFpELTlBbzc4ellCV1NGSDBnckVocGpBbl9obnpPWi1weDM1SEdOcVdTQndTdkJsVDY1cFZJMEh3VUNjeDBmY3NtZFZOekF1anVUWUFqRFM3YkRzZjlWSEpBZTFrcXM2TUFRR3NlQmpTTmF5LUwzTjdzQmlVTDl4MGtCVnV2OXd1Q09DWXVFTi1fOVBycEhCU2hicWxPb0UtNkU5Szdxemh5aW9Bd01hcEwxb210ZjltN1VPVEVxNHo5NkNr?oc=5",
+      "summary": "Palmeiras x Flamengo: compare os jogos e quem tem o caminho mais difícil na disputa pelo Brasileiro ge",
+      "date": "2026-10-30T18:22:42+00:00",
+      "image": ""
+    },
+    {
+      "title": "Vasco se surpreende com Consórcio Fla-Flu, mas pretende manter jogo contra Palmeiras em São Januário - ge",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPVXVMTGhETFJ5Tl9EcnZYOUpWNTVzZ2RJbkVJNlZkRzc4THVQS3hMNjJ6TU4xUDc4NVQ4cXowWUFFampLYmJNbkZqXzdpeEtldkJSQUFFMnBIZk5DZ0hrdEd2bkpNTERzeFNRMUc5R1UtM3pfejVhdjZNZHNaUUpmczJWeWgzcGU3ZzhqUG51aGl5XzJCRkUyV1hGQzRQSjJhWnpIeXYzbURkeEQ4c3lUQzlKRUZBdU5nNDQ0aHF1UDNUUHFfV3F5TThLT2lsOEZQbjgwT0tXM3BydzMyNllHMmRJWHNUeFNKV1o2MlRldzlOUWg5RE8wONIBhwJBVV95cUxQc0M3SDJpYS1LUVNsdTFBbG5tQ0RSWmo3amJxTmZPX0dZOUpFQjV1aEk4cEw4ekZ1SGR1WmlvUlBpV1dKS2tWZEQ1LUFFN09JV3RsWkVwTDhqYzJSNjRac0FOSnk5eXB2VzJGV1VXdHRqcFQ3bWk1Q0hqSWE0Y2Mtd0NxbDhNZ0NVYXlRbXo4NGlwM3V4YzhTYkl0ODdTc241Y25mN2VVdkJTWnZnanQydlBXYmM3VU1sNnNVUjFxTEg5MEp2T05YaFNHd0JkSFVRMlR2T01Hdl9RazRiWXpJT3ZpdGlGLUUxM054M19MSi1MUnIzT2RVbXVCNGcyMEZ0bVRSSVgxSQ?oc=5",
+      "summary": "Vasco se surpreende com Consórcio Fla-Flu, mas pretende manter jogo contra Palmeiras em São Januário ge",
+      "date": "2026-10-30T19:20:52+00:00",
+      "image": ""
+    },
+    {
+      "title": "Abel agradece pelos seis anos de Palmeiras: \"Não há nenhum outro lugar onde eu preferia estar\" - ge",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxON3YzRXhYUGFtRnNOMl9INzhqbU5fb3N5VDBudWhvcFZnbUUxemRYdFhkUWV6cmU4dlJhT1ppT2Mzc2hWajdBd2JsVnZnVWJlVWU2SnN5Ri1ZOEladGFNcU5Ldmk4R2xKUHdnbnBlcm1fREdaS0dzRjIyYXhMZXQyQ0VZUllERXF3bFpjYWJ3WHRaZS1yUEJUblFscmxMdXV0S0RUU1pQT1l5R3psUjFhUzBYa0VNeDVkelNOcmV3aGtocmZicXNISGRqRm84ZFNDaUFNZUJaQjIyY0lUNXEwQ1AyT3N6dkdHTTRqd3hIVmVHTE3SAYICQVVfeXFMTThtblF3M2gyaWtjQ01UcGQ5X0UwMTZlZWhfWnRlZTctcHBvRFVCRW45anNwaU1qYTJRUDdDc3NqdTY4a0NXVTlLZWNoYkZMNnQ2MXV4WllIc0JNNkI5UFRTd2dhWnRfSHoxTzJsWF9iczNPQjRzejk5WDVCOUtNdTVjN29EMVQzbWhvRUZ6bUdGSURBM3VEcXV5bV9aMm1yZ19kMzVHdHFwQ3RmaFRrYlZuc25XVU5xNVNWaVV3ejJ1VmN0ZXNwUmgtYTVkbTA0RzVoVks3SmthMXVOcTJQUURFWldvd09fVWs5aXJYdEtCSTYzY3dyRlg5TlJkTThxYmdn?oc=5",
+      "summary": "Abel agradece pelos seis anos de Palmeiras: \"Não há nenhum outro lugar onde eu preferia estar\" ge",
+      "date": "2026-10-30T15:42:45+00:00",
+      "image": ""
+    },
+    {
       "title": "CBF define data de Palmeiras x Flamengo em 'final' do Brasileirão; veja dia e horário de jogo no Nubank Parque - ESPN Brasil",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPVUJsRE5VS01wd25mdFNsSmszM2dKQXlNUlpjTDJtanJtUWtGT1FNRGdWR0IwMHJSY290V2JncVJMSF9lc09pQ3pUdDcwdkE2LWE4YkdMSm94Ykswd245TEZyWDZVeVEyM1kwa2Ixa0xHTDl3TXRFaHhRZ2RxTFRXYVpwMEg0SjFXSzN2ekVoQzQzN25MTFBVZDdMV1d5eVA1LVVHTkZ3bE91clBCUXZBYUU2Wm9RUnk1LUtWUC14MkRPSzVHYmZmNk52a052bi1VRUFJeGliRjV4WDhGUHZlVFIwVFQ3S2NiTzFv?oc=5",
       "summary": "CBF define data de Palmeiras x Flamengo em 'final' do Brasileirão; veja dia e horário de jogo no Nubank Parque ESPN Brasil",
       "date": "2026-10-30T16:29:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Palmeiras mantém foco nas três competições, mas tem quatro atletas em 'alerta' - ESPN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPdG5jWkNlcTZtcjdZLUZQS0xaU1R3SVlHZ1VYUnJxNVM4b1lBWnByWTdxNjM5ZlpFUi1YOGY1WmRMQ3RMM05QZUFxQjNnQmFBTFNGZGFFYVJMUXFna3UzX09GWHJ4N0Znd2dRNS1lcHV4V1U1dHVWRVlLYlAxSDFuelZMQmR2WG80QWxvWndwbmgwQVI1RWFjRUNIQ3Z2c3BKdDR5dzRXejdhdzNqa2JIWk5fMWVwS1JRRHZIdFFqdTRYYlhSazBhRktoZGpYcGFYV1ltb3lfR25ZRWN2aG1yRi1VMWlMSzNVaDF5ak9KWks0R0NLUVU1Vi1aYjNFazFsWHRRdHJ3?oc=5",
+      "summary": "Palmeiras mantém foco nas três competições, mas tem quatro atletas em 'alerta' ESPN Brasil",
+      "date": "2026-10-30T17:56:00+00:00",
       "image": ""
     },
     {
@@ -472,10 +500,10 @@
       "image": ""
     },
     {
-      "title": "Palmeiras mantém foco nas três competições, mas tem quatro atletas em 'alerta' - ESPN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPdG5jWkNlcTZtcjdZLUZQS0xaU1R3SVlHZ1VYUnJxNVM4b1lBWnByWTdxNjM5ZlpFUi1YOGY1WmRMQ3RMM05QZUFxQjNnQmFBTFNGZGFFYVJMUXFna3UzX09GWHJ4N0Znd2dRNS1lcHV4V1U1dHVWRVlLYlAxSDFuelZMQmR2WG80QWxvWndwbmgwQVI1RWFjRUNIQ3Z2c3BKdDR5dzRXejdhdzNqa2JIWk5fMWVwS1JRRHZIdFFqdTRYYlhSazBhRktoZGpYcGFYV1ltb3lfR25ZRWN2aG1yRi1VMWlMSzNVaDF5ak9KWks0R0NLUVU1Vi1aYjNFazFsWHRRdHJ3?oc=5",
-      "summary": "Palmeiras mantém foco nas três competições, mas tem quatro atletas em 'alerta' ESPN Brasil",
-      "date": "2026-10-30T17:56:00+00:00",
+      "title": "Flamengo abre vantagem e faz as contas por título brasileiro; compare os jogos e simule a tabela - ge",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNMS1qWXU3aUF3NzNMOXhsTmk4N1dJYUxzMlRNVlR6eVRadWtldEdlVi1NQ3M2N3hrYTE3SkNnNTVNSDRnMFB5Z3p5bjRuVVF3ekM1cjI2VWdwUldNd01ZOU1LQ2tXWi0ybDlQb0dINllPMFdtbUZMUkVOQTU3b1BlRHNVaHdvMWstaEQyWm1TUDZsZXBKbWhKQWRGNUh3eDM0Zkc3TDktaU1hSlE2VlVJVGE1dEU5NWs1Z1F3Y2JBalhES19xRHY4MTF1aFV3WmtIMUhkR0F6M2pEbHZFOXZhaVRyaGtMRS0tamRVTmt3SnVWVmNRd1VZ0gGGAkFVX3lxTFBJeHIwMi14Tkoxci1DSnhqaGdjTHZrOThHUWdFd2h5c2R1RDAzTlZHVDVLR0o3ZVdEZlotenB6SFk1RHU4eTNFblloVjNrcXlobGlWVmtKd2F6V0tVd3RnTnk2SnFSWGlocjdaSVZ0eXJ6S2dfN2lKbWcxSjdTUUpsYWh1UW9TbFlpWXNQTXpnMHhJdERlWXdwYjRSakVQb3gyOVpIdFVhSUlnUnB4MlJNQWhmeVBRUURaWm0ycGR5X0gxSXh1VEtVRzY0V0dHNjY4TjVXODBwdXhDbFlSSDg1aFg0OV9saEkwR21aVDZYUWlhV29GN2J4M0lBWVhCUDZuaUdqbmc?oc=5",
+      "summary": "Flamengo abre vantagem e faz as contas por título brasileiro; compare os jogos e simule a tabela ge",
+      "date": "2026-10-30T11:00:00+00:00",
       "image": ""
     },
     {
@@ -486,31 +514,10 @@
       "image": ""
     },
     {
-      "title": "Jardim valoriza vantagem, mas prega cautela por título do Flamengo: \"Ainda falta muito campeonato\" - ge",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOcmNzNTBzSnBmQkRoaS1sT1FlaGtJbFBoMVhTdjJrdVBjV1dpN0JfWHNySGk1Ym9OWXp0bzQ0bmhFLTROZnpOV0JHS2JCRnMwYmkzTFJWc1VPV2duYlhpbnloSGlUZ2hZcVBTN0lfc2RiZ2JZMV9VUDlmS0FUOTIxR0RUQmVtekYxTTdvQlRqelFURVZlZUE3SHBVN19WNTJLYnRrTXVuQi00b2ttT21lRlA0Nk9CaG1ha0ZiUkNjcXRIT1R6VjJxbEtlUEhRWmxyamVZZlpmQjFZY2NJSjJaSkJvZTVhcVFJUnFKV0J3TFRQemluNWl2dEkxU1FUOUF2T1RlVtIBkwJBVV95cUxONUNnVFk2NnU5MVdNZTd3RUo4N2Vzdi1CWjg2WDY1eXFLQ3hvcGJ1cXpCaDhrNVJLWmhYZXdyNHhwc0xTRXlYZTl3emlFQ051VjhERTBxSktrZ2JfVzUwc1BqUnlwTzlmcUdiUURFZk5UbnZtNG1Qb1BVdDhvdkdfb3VpT0YweXU1cVpCb2tpSExYVjBrdTNyOUdaNVZfUk96cEthY2l6MF9YdFlGcngyUURJN0d6VmY1SEdPdXNGZVpNVFFqUzVVWWlyank5dXdWQ3VJbl9NX1pkRm5NSmd0clZla0NRQVJEbkJOampqYXA3c1dVX19jOGI4d3R0RENqc3dRRVBLNXppd2NSUm5oR1V4aw?oc=5",
-      "summary": "Jardim valoriza vantagem, mas prega cautela por título do Flamengo: \"Ainda falta muito campeonato\" ge",
-      "date": "2026-10-30T01:49:19+00:00",
-      "image": ""
-    },
-    {
       "title": "Pedro Emanuel justifica uso de time misto do Vasco contra Flamengo: \"Faria de novo\" - ge",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUkJPUmFYZEpucHRKdmdsOGhrQkhCbFpTRXRlU1VGZXVpSTVhOUFWVDdLRnNkWloyS1BXNXVuZXpPNEEtNkNNWXo4UF84d25PbC0wU2p0NUlKMzBOTTJrMjI5ZGdIZ3pPVjItSHNFU055bVNtcHVPYnNna2Z4N2l4blRLekE2S2NNR25taDFjUV9wSGI4YWNkNkpBUUl3WS1LcnBxX05XQk9tOEQ2Vks5UnZQbF9uLWowelJvX0hRTE1hWFpSNm1uMV9keGzSAdsBQVVfeXFMUHFfQWJCbHp2d1ZuZnVwWVE0NER6LUxqRFhzcFNITFRSdDZQSXZEM3BHTllwM290bVRYWHc4dVFnc0RBVm1jYmlQcUZNSTBiQ1h3WjVjV2U1ejJ5TURqanNtd19DcEpoM296clZCZFVwYWRBb2pjbjJIRWxvTlJEZ3BudWRZSUZBSzhVVWVkU3pBNHRibXE0V0UxSm5XU2gxcGJqcnoySktWenEyTWZqX1YzanVDelVTVkVadFlfc29CRnJEVlJ4VjJnanpXWWN4c3h6NDRLR3N0aUN3?oc=5",
       "summary": "Pedro Emanuel justifica uso de time misto do Vasco contra Flamengo: \"Faria de novo\" ge",
       "date": "2026-10-30T01:38:51+00:00",
-      "image": ""
-    },
-    {
-      "title": "Convocação da Seleção Brasileira: lista de Ancelotti sem Flamengo e Palmeiras tem mais novidades - ESPN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxONTM0NXFCU3pzYWZKYl9fQURSXzc1Z0ZCa01Ublo4WWJhb3lFZ2RFSl93WG5FS0w4Zm9URHFwMjZGVUZ6QkxNbWhmXzE1TUoyN2RycFAwNUJ6N2w0Sko3RkVKNThlSHlPaDVLeUllY2FHMTU2bTMtLWMwc1BqNjEyZG1wX3Q4eUduVTRoU2djVUxJbXItSGtGWFBlV3k2SWJmMUZhWnhYTEdheUZsNU4yTjZoOGNrNDFzMHZBZmJCaldVTXJIc0l5RFhDaEgzcUItY2FIUS1NVUp0LS1DODlDTFJjNWQ?oc=5",
-      "summary": "Convocação da Seleção Brasileira: lista de Ancelotti sem Flamengo e Palmeiras tem mais novidades ESPN Brasil",
-      "date": "2026-10-29T19:11:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Flamengo e Palmeiras não têm jogadores convocados por Ancelotti; entenda - ge",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZUF1UmJ2MkM2U3lOX3pvSG4xZ0ZHQmcyQ1d4STV2RzItSDloSnRURFF6Wjd2bWtjNHBpRHZHRDBCb1oxSzJ3RHBBa2FSR25meV8tX0NWWHhTeUl5N244R2dkRGhNV0tMeHE5SGtpa3o5dGllT3ZwMFRhdlV1eGlMb1RPUEU0X3VlQzk3cVJ0Q2xjM2I1a0lvUDFvb0x2cENWbVRQQmVYem91TUsyaS1XWGNHcDktOHhleW1aOUFuTTJBenNpRUpUbDFkTUxPY1lwTlUzcXk0T0vSAecBQVVfeXFMTnNPaTZvNWtzWjByS1JYSjE5RlFMaUwtTlA3a3FJS1BGazJwN0V0V2ZwQjR4VEdqcjA0bHdDTkRIbkJhQURsTDJlRXlKMURnU3BianRyZmpIS2MyWktEam5ZNnlneG5sUVlJcTRSLXdFQmtVODZGZnFyQlk0dzZYN1JWYjVOUmRGanBEZlNkY3k2bEJ2bWhpZ2hFdWF6a2lBTWR0bTBhSHRpcjVTWEVUdmoyTmloZ0RqLXpkYjQwaGFhMU1lVURjcDdLYS1mOHpRcnFHdUw2dGNXWFl6bFhhSE42RzNCQzRz?oc=5",
-      "summary": "Flamengo e Palmeiras não têm jogadores convocados por Ancelotti; entenda ge",
-      "date": "2026-10-29T17:19:48+00:00",
       "image": ""
     },
     {
@@ -521,17 +528,10 @@
       "image": ""
     },
     {
-      "title": "Allan, do City, celebra primeira convocação para a Seleção: \"Um dia isso foi muito distante\" - ge",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUEV6bGZ3d0VMZEhwejl0M2F1VzV6UUdzRHVvek1uOUFsY2paZ3FWakRJelFicWJSMlZqY25SbzQzQnFweHc3Q1NlRVItNUlPeTF1bXpWOEZjQlp5bl9Zc3JTX1ZvdE5EMU1YZHUzOEJNV042SVNiZ0JNaGRPZFJJRmRxYnRaM1JURjVNa1BSMmVsX0M5SDczY3JUVGtJQXFvb0xDaTd4bVpIdmlVczFONzJfMWo4RjJDZVBiLXBoWVp0YXlrSUxWNi1yblJvc2x1SGZnVmY2ekQxUdIB6AFBVV95cUxOalUtb2txd0JVblZGNDc3eWF6M3VHZnhHbnZSS3NCS1UtNkFmTXp2ekZDcUxNNy1RN0U0Q3VMNnFROWNnN2xPZWFFcjBOcERUYV81ak12LWw2MjZPOVB2S3BLbmxmMkZrems1b2RqWDlFUXl1dmxaUXdyOTQwTGMtV0tzRjROcU9wWlViQmwzRkZ2QmNVTE13dm1hV2NlZGZGTU9fY0YwX0dwQjd2TUs1VUZEbzBmT29TcGNsZENXRUtOZW1MREZmWXBYTkRhZ0g4STlnVnNWQXhPMS1IOENGeElEaW41ZlE0?oc=5",
-      "summary": "Allan, do City, celebra primeira convocação para a Seleção: \"Um dia isso foi muito distante\" ge",
-      "date": "2026-10-29T18:48:39+00:00",
-      "image": ""
-    },
-    {
-      "title": "\"Não é barato\": América indica saída de Raphael Veiga, e meia pode voltar ao Palmeiras em 2027 - ge",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQaWhyUEptenRZWFEtNDZuZl9lMGlKaWM2cVdqcmtRdElvbDFyM2RXTkRjTlRzYU4zSnByZmRHUTJhTk11UzZxeG9pZXU4MC10Vk0yV2h1TWRjV2NQUk9wT3hoMWlCUWttd3dfdzk0TWVXVWlrUVMwOVV3VzBDQjBKclA0TDdzc2YzbDBzb2pJMzJWTDdnQjZFNDZybzZYR01VSk1JUmJiQmxBODlJSUIxeUVpX2lYVzhSWnRlUWtCMFdidmdQNGJMUkpkSVhwM1dBa0VTSWpESVRyREZGOUZCY1VScTNDbWFkdFpEcU5BZWR2QdIBgAJBVV95cUxNcmptWHU4eHpQaFM5Q0JGUmxHQS1rWXFQS25TNkZGemN6MUJwRS02WkpuM1M2OXhHRUlhZUJNcTZJU2I1T3cxNjU5ajE5aTVOV1hZZ1JudHh1ZmZnMUV2a1lxVTJwTzNtby1NTS12LUZIRlV1QUM0M3J2cEh0MVlGRVpjWFVhUnk0MHVHaEJGd0JneV9zbTY4RjdNbjZQQTRXVnhVdmljckVPZUd5MS1IcHQwYjVnWTBnYW1fUmtzWWdjOGhJaXFMR3loV3BfNmdmdmNhbk5kd3FON0xhWW0tQWU5VVZ0U2Q0RXdpWmxyZF9SaXpKUUxWanlYN0ZMZEJ1?oc=5",
-      "summary": "\"Não é barato\": América indica saída de Raphael Veiga, e meia pode voltar ao Palmeiras em 2027 ge",
-      "date": "2026-10-29T14:00:00+00:00",
+      "title": "Convocação sem nomes de Flamengo e Palmeiras gerou frustração na Seleção - ESPN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPV3VtYXJ1UGxBX0tpTHpNd2MydUFKdWxsc3N4bmxQcUs0Y0d1bW5EMWlrMHpfRFhJcjN2dHV4R2VjeVVUREQ0MWxBZGQ2QUVjVXVrYjVtTWlJdldxd2xfNUdncUQ0dW9TT0l5VHNSMy1EVlpQel9USWdONVZzNXBOUVBDN2d3TVl0UFBGa04tb1MtNTVGVF9Pc0RPMVpfTkRmNHBXdFJIakxXaGQ0TXRsVTZRQUt6S2lVbmVnejdUNDNaakxFMzk2bmRlVGZrQ1MwMFRiRFpvR1hlN0dGUHZSTXBRbGlPbWJhU2pKNE5fODdSMTBneXAwTEIyUTZUdE1oZzF5U0Jn?oc=5",
+      "summary": "Convocação sem nomes de Flamengo e Palmeiras gerou frustração na Seleção ESPN Brasil",
+      "date": "2026-10-30T17:14:00+00:00",
       "image": ""
     }
   ],
