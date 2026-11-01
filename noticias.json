@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-01T10:55:42.310385+00:00",
+  "updated": "2026-11-01T17:26:28.558629+00:00",
   "thenews": [
+    {
+      "title": "SUNDAY'S EDITION (01/11)",
+      "url": "https://thenewscc.beehiiv.com/p/sundays-edition-01-11",
+      "summary": "tudo que você precisa saber pra começar seu dia bem e informado",
+      "date": "2026-11-01T12:03:38+00:00",
+      "image": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/e3c8f5b5-acfa-4f9b-8723-881a5abea84e/image.png"
+    },
     {
       "title": "31/10/2026",
       "url": "https://thenewscc.beehiiv.com/p/31-10-2026",
@@ -98,13 +105,6 @@
       "summary": "tudo que você precisa saber pra começar seu dia bem e informado",
       "date": "2026-10-24T09:02:00+00:00",
       "image": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/ed54efa5-75f6-45ef-9ff4-a0ed849e6b68/Warhound.webp"
-    },
-    {
-      "title": "NIGHT #335",
-      "url": "https://thenewscc.beehiiv.com/p/night-335",
-      "summary": "23/10/2026",
-      "date": "2026-10-23T21:45:14+00:00",
-      "image": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/fd0b0922-74f9-4979-a2a7-55ada64fa4f2/TCZECHDZ6NB57PUNFMYI2JM3JE.avif"
     }
   ],
   "andreazza": [
@@ -216,13 +216,6 @@
   ],
   "espn": [
     {
-      "title": "Palmeiras vira de forma incrível sobre o Ajax e vai à final da Messi Cup - ESPN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONWtNeTZZZEdDWlhndVlXUk1fLW1fUWNzY1IwWEo2a3lKSmVJYlJSZjdJcE9lWDdXSTZ4MldSRDBab3B1Y1VFRDBzVDZHTy15anNvYXFDOXNTQ3l2emc4dDBVSDFVMjBuQnpGYXJ6eHdEcTY0RF9JRzlYS29taVFZR0VIQ25Pa2UybVJqZWI0WG4tRVQ2M3pndFNGcFpWaTRxdXhlOEJDcHB4UDNlVHloRg?oc=5",
-      "summary": "Palmeiras vira de forma incrível sobre o Ajax e vai à final da Messi Cup ESPN Brasil",
-      "date": "2026-10-31T23:43:00+00:00",
-      "image": ""
-    },
-    {
       "title": "Cruzeiro vence Corinthians nos pênaltis e é campeão inédito da Libertadores Feminina - ESPN Brasil",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSEFVcjhaSThqbG9Jc2N3Yk1heF9jVWtObzI5cXhibkkxc2w4X0hhYWMyVmJKc3pXUmJiWW9aUEpxVzRoeWNtTTBKOHRxWUR3WFcxZ1pOTFRGVnZSNWl4YkhSYnNoRDRWSlMyV0VYWkhuQi1Qb2lQUkppQzNRT3JHNldJd3l1dGw1UWRINkdBSU42dDJhcExmcURFWlg1SGlkZ1pmXzZYNjktN0pBQmNLbWpiSVJkX0pLeDVqdnE3RWIySzNfWTZzeDhuWm5NOHFwazVlNmRn?oc=5",
       "summary": "Cruzeiro vence Corinthians nos pênaltis e é campeão inédito da Libertadores Feminina ESPN Brasil",
@@ -230,17 +223,17 @@
       "image": ""
     },
     {
-      "title": "Milan vence Inter de Milão em jogaço e embola briga pela liderança do Italiano - ESPN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUVlQNWVyWDZsTHUxMHppMHBUMW5hWFpQM19vSk9BRC1MeHFXVXBuOGZ4WFAxa0puczlTemItbWxaZkUyQ2gySFhyZWl0dmFYWVREUzYtbFNRcTBqMlVRb3c2ZWZDWlU4b2hSYWpKMDVXeVI3VkE3bXhtYzRuWXVwUnZ4clFLcVQyUkc4SW5XZlhJd3FJNHM5OHUzLTl2ZjBtQUNRbDI0dExZWHNoODdScEdHSzVXbFF2?oc=5",
-      "summary": "Milan vence Inter de Milão em jogaço e embola briga pela liderança do Italiano ESPN Brasil",
-      "date": "2026-10-31T22:43:00+00:00",
+      "title": "João Paulo Sampaio diz como Abel é peça fundamental em projeto bilionário do Palmeiras: 'Apaixonado pela formação' - ESPN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUFN5N0s4S1F2UVRhMTFXVDRja19xRkwzZlg5S0Jod3pid3BNcmdLSWpmT1pORWlSZDhnelVZd3VubEJELXdPck9BV3hTU1RKOFFORTRaRnBvazU5MjlzcUlPMjhxMzRReXhkaFlxYmtEUUoyQmJ0enIzdnpXSjdIN21zSUpqT2JDRXV6ekZGZk1EMGVsWk9ET3B1Z215NkJOSHktcFhfRXhrRDkwbkJmTkJOejF3RXFMRGlwZVpHVVRmRjBjSjhIRUFxRmNlVWNISU5zcHl2QVVNRGtlSDZ2Nmpn?oc=5",
+      "summary": "João Paulo Sampaio diz como Abel é peça fundamental em projeto bilionário do Palmeiras: 'Apaixonado pela formação' ESPN Brasil",
+      "date": "2026-11-01T12:22:00+00:00",
       "image": ""
     },
     {
-      "title": "Conmebol confirma horário da final da Libertadores entre Palmeiras e Estudiantes - ESPN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSVdrZU1LTWNWTV9aNE9NakJ4b3hnaFQzcGpCMnFpX1BndkQ1dWdzdWtDeEhyUmpILVc4c1hRRUFnRmVSN0dUVVQwb1puZmZ4cUhleFFZWnRiTFBkc25nVllRdEpTT3BuUFRxU0Q1Y2gyaE9ZeEtQcGo2Q2J5OVVoU1g2eHdmbzRuQzUyTkZtdDUxM2toSl9ZcGNHSWtIelRnMUZWTlhrS1Q4a2ZKMGlqMjB1N204RzNFT0NLY0NucG54NDN3SkxoOEtBczdnSnlETVBqMg?oc=5",
-      "summary": "Conmebol confirma horário da final da Libertadores entre Palmeiras e Estudiantes ESPN Brasil",
-      "date": "2026-10-31T15:26:00+00:00",
+      "title": "Palmeiras vira de forma incrível sobre o Ajax e vai à final da Messi Cup - ESPN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONWtNeTZZZEdDWlhndVlXUk1fLW1fUWNzY1IwWEo2a3lKSmVJYlJSZjdJcE9lWDdXSTZ4MldSRDBab3B1Y1VFRDBzVDZHTy15anNvYXFDOXNTQ3l2emc4dDBVSDFVMjBuQnpGYXJ6eHdEcTY0RF9JRzlYS29taVFZR0VIQ25Pa2UybVJqZWI0WG4tRVQ2M3pndFNGcFpWaTRxdXhlOEJDcHB4UDNlVHloRg?oc=5",
+      "summary": "Palmeiras vira de forma incrível sobre o Ajax e vai à final da Messi Cup ESPN Brasil",
+      "date": "2026-10-31T23:43:00+00:00",
       "image": ""
     },
     {
@@ -251,24 +244,31 @@
       "image": ""
     },
     {
-      "title": "Estêvão tem dois gols anulados, Chelsea vence United e aumenta crise do adversário na Premier League - ESPN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxONTFZaVNiZ3RQb2x6dDkxbTlQM0M2dm9rSC16dkkzWVVTSm9ReHBBaTB2UjBPSVdyNnFJc0JiaU5HYW9aUHdFR0kwSjBVSmxyaHVYREFWOXAtX01CemhuV3dOem1qUXJPYW9qVXlmZDNSbXE3eUVKMFBDZzROemdCWjhSOWJ3eElZNFZ3aUY1UHJOUlhzYUY5dkIxVjJQd092LWhMWVluSlJQS0lCanNFa1hVcW91V3RLbWd0MHV6LTBhWUtXWXZ4dU85ZkxUTmhHRGhENHV2NWxmSjB0bnNHN1BLNFNaTTB3SV8w?oc=5",
-      "summary": "Estêvão tem dois gols anulados, Chelsea vence United e aumenta crise do adversário na Premier League ESPN Brasil",
-      "date": "2026-10-31T15:30:00+00:00",
+      "title": "Conmebol confirma horário da final da Libertadores entre Palmeiras e Estudiantes - ESPN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSVdrZU1LTWNWTV9aNE9NakJ4b3hnaFQzcGpCMnFpX1BndkQ1dWdzdWtDeEhyUmpILVc4c1hRRUFnRmVSN0dUVVQwb1puZmZ4cUhleFFZWnRiTFBkc25nVllRdEpTT3BuUFRxU0Q1Y2gyaE9ZeEtQcGo2Q2J5OVVoU1g2eHdmbzRuQzUyTkZtdDUxM2toSl9ZcGNHSWtIelRnMUZWTlhrS1Q4a2ZKMGlqMjB1N204RzNFT0NLY0NucG54NDN3SkxoOEtBczdnSnlETVBqMg?oc=5",
+      "summary": "Conmebol confirma horário da final da Libertadores entre Palmeiras e Estudiantes ESPN Brasil",
+      "date": "2026-10-31T15:26:00+00:00",
       "image": ""
     },
     {
-      "title": "Classificação do Brasileirão: como ficou a tabela após fim da rodada - ESPN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOc2VtVDRVVmZxX2RldnlJOVl0Xy0tQU81QUJTU2hIeE4wSGNFWklvLWtfbF9kQWFnTFVxYmNSUGozSTVvNFlyRE1vLU1vQ3FmVzZhVG9NajFNRG42U25MSTRaeV9VbTZ6b3JHdFNibmF5Z0Z0M3N4d29WRTdvZEV5NFFNRXRhNm5mQ2V2a2hGWlVfMmlIb3FFWVpnc0ZvU1p6M0Rrcjh6WHZjS000WDFGTjF5VlpCd1AtYVhIVjR2eVIwQQ?oc=5",
-      "summary": "Classificação do Brasileirão: como ficou a tabela após fim da rodada ESPN Brasil",
-      "date": "2026-10-31T02:01:00+00:00",
+      "title": "Bruno Guimarães diz que precisa melhorar em pênalti e admite humildade para mudar batida: 'Já vi que não dá certo' - ESPN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQTWRyaXNUbzd6d1ViSzBGcTI0ZzE0UGNDb21WX2Y3VFVOb2ZCRnZIN1ZZNG16MkhFR3JKNGFYOXRiS2FkNUM0MTUwMmlkRW5nSUhRVUNjVk96bXZSanY0b3RybDloV2MzaF9qaUdaTGRSaHJvdWRIT25nQlV3SHhCQTl1ZUllaHhpNGY0ZWJETTBPRG00QVc4US00RnZhUk5VeHhKSHhjQ3NPa1k0SVhDYzN4TUVKWmg2QW9PZGgxYW9WbEVjb1NUMnlGRTJtTVdOekJfc0Jlb2doZkNGTUVTWG44Rk1FU3Q5RXJBTC1ZaUJJZGM?oc=5",
+      "summary": "Bruno Guimarães diz que precisa melhorar em pênalti e admite humildade para mudar batida: 'Já vi que não dá certo' ESPN Brasil",
+      "date": "2026-11-01T12:22:00+00:00",
       "image": ""
     },
     {
-      "title": "Cruzeiro x Barcelona no Mundial Feminino: veja data, local e chaveamento - ESPN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaVdnR1RWcm1VZXg4bDh4emh3QklvNl94NWVBZzVCNEtFQVhGMWhlcW9hbEk5MzVIMlB3aWlrUkotZDdxNms5b2paQVJnYm9UTHRGZGxmNFVEdlJVYmJCTnJuNHZWdEg1cmdnU2RObnZBUDgteEwxZU44T0UyMV84SEZicEtiVXZyVkoxdFV4TmZROXBHZkdvVVRwWDhhSjNLdWwwLUxubHB5dm1MNlJKdnNRdURvaTVJUE1HU2FBMA?oc=5",
-      "summary": "Cruzeiro x Barcelona no Mundial Feminino: veja data, local e chaveamento ESPN Brasil",
-      "date": "2026-11-01T03:35:00+00:00",
+      "title": "De 'Seedorf apaga incêndio' a 'fio de esperança': imprensa internacional repercute vitória do Corinthians - ESPN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQeXZWTndiOVplck5aVm1kUXFaRDg5ZmNxWnRlWE1TZ1JmTmhwdS16UmZSdnRFN1c2UklMRnlYN0tDY1NTMFdOdHlTUzBmVEtBcE53dWc3T3ZQZ25RNTdGY3FZNWxoaHRYb19yNnNfQlBMTWVqbEk2dEZrMkpFdjlwRUxObzZabFpKc1FTb0FkUUxzblhiRHpqZDVaOUVEcTlKVEFya2gtMGJsWjhjVmtNaEVHVmxLOVctVkozUkl6NEVPWWJIOUVPbDFGUFA1Qjd0Q25Xazl1OENWQ2FRa2lPa1RRYzBYLUhvWFcyQ1laUQ?oc=5",
+      "summary": "De 'Seedorf apaga incêndio' a 'fio de esperança': imprensa internacional repercute vitória do Corinthians ESPN Brasil",
+      "date": "2026-10-31T16:45:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Milan vence Inter de Milão em jogaço e embola briga pela liderança do Italiano - ESPN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUVlQNWVyWDZsTHUxMHppMHBUMW5hWFpQM19vSk9BRC1MeHFXVXBuOGZ4WFAxa0puczlTemItbWxaZkUyQ2gySFhyZWl0dmFYWVREUzYtbFNRcTBqMlVRb3c2ZWZDWlU4b2hSYWpKMDVXeVI3VkE3bXhtYzRuWXVwUnZ4clFLcVQyUkc4SW5XZlhJd3FJNHM5OHUzLTl2ZjBtQUNRbDI0dExZWHNoODdScEdHSzVXbFF2?oc=5",
+      "summary": "Milan vence Inter de Milão em jogaço e embola briga pela liderança do Italiano ESPN Brasil",
+      "date": "2026-10-31T22:43:00+00:00",
       "image": ""
     },
     {
@@ -293,17 +293,17 @@
       "image": ""
     },
     {
-      "title": "Xabi Alonso aprova estreia de Estêvão como titular no Chelsea: 'Já sabíamos e ficou muito claro' - ESPN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORmhTc3J4V2NHRTlsTjJPMm0yRmJ5YlVNWWdxMlNLVkdsa0daTDFKLVVqVXBJQ0hGTTlzRjl4RFJjU3FUN3gxLXlwLW9xV3d1Z3hhbE03NWl2OE9zb1poRnhHRmVHbDIzQ3FMZGVVR1QyRUM2VDhPc1NCZUUzbFhGVGJxWlRYM1ZvYS1NSE5HX0VidE16bHdKS3FLemhmaGU1OW5OVUhGYTA1Ym5wOENkN1ZGcnh2OTUzSTVNWk5pWUJfV3lXSFpuN1pRcTlLUl9xRFF1aUlaLUs?oc=5",
-      "summary": "Xabi Alonso aprova estreia de Estêvão como titular no Chelsea: 'Já sabíamos e ficou muito claro' ESPN Brasil",
-      "date": "2026-10-31T17:36:00+00:00",
+      "title": "Cruzeiro x Barcelona no Mundial Feminino: veja data, local e chaveamento - ESPN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaVdnR1RWcm1VZXg4bDh4emh3QklvNl94NWVBZzVCNEtFQVhGMWhlcW9hbEk5MzVIMlB3aWlrUkotZDdxNms5b2paQVJnYm9UTHRGZGxmNFVEdlJVYmJCTnJuNHZWdEg1cmdnU2RObnZBUDgteEwxZU44T0UyMV84SEZicEtiVXZyVkoxdFV4TmZROXBHZkdvVVRwWDhhSjNLdWwwLUxubHB5dm1MNlJKdnNRdURvaTVJUE1HU2FBMA?oc=5",
+      "summary": "Cruzeiro x Barcelona no Mundial Feminino: veja data, local e chaveamento ESPN Brasil",
+      "date": "2026-11-01T03:35:00+00:00",
       "image": ""
     },
     {
-      "title": "Luta contra rebaixamento no Brasileirão: veja a reta final de jogos para fugir do Z-4 - ESPN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSE5BYlBvSDlNTzFlNWd1b1NFMFotRWdYU1hQdHQ1RU9CV2gyRURGOHZkbjFwMWxmV3cxUXRNM3hPSTZYTUVjVGFSQ21QZmZZdm9NcHFOQkxBT3NPNnRWb1dieEdqNTdHY3FaTVYwQmFRdUpmY1pjZ2d0MlRsNXBEZ25HNS1xdDdqeEtIZFRfNHQxaXlrbnlLUXNrNVJ2dHZTeHA5NVVWMTJMeWZuZkNJSDBLYmIyQ0Rp?oc=5",
-      "summary": "Luta contra rebaixamento no Brasileirão: veja a reta final de jogos para fugir do Z-4 ESPN Brasil",
-      "date": "2026-10-31T21:59:00+00:00",
+      "title": "Andrey Santos relembra quando acertou com Palmeiras, mas recuou por volta ao Vasco - ESPN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPMzRiNGh5ekVSZUdpZDBnNGNKNlUxbkJITlBLZjhJRGZSR0FGZWlaTFdUeDhUcWdINnJLMmxONkoyVGEtdEsxVm9qZjAtNldHejJZb3JXdVpQamVhT0k3VmIwc29MNnd2WFJMYkJreWhJcUpmbnFmREd3WHAwZ2owSmVxN0hTaUd6cDBCaVpYajE5Z1JtNjNUbzl3NEFPYkZCRXgyUGh3alNlQkVMeHdCWS01NHNfOWd1YXA2SWVIV2U4VnkydWhZakRzRHlVclZqMTZrS2cyYzhxUjN1YUhnMUdRMDdPdDgtTUNzZElzQnpYbGhZbHFiTDFkSXhscmM1eGF3?oc=5",
+      "summary": "Andrey Santos relembra quando acertou com Palmeiras, mas recuou por volta ao Vasco ESPN Brasil",
+      "date": "2026-11-01T12:22:00+00:00",
       "image": ""
     },
     {
@@ -314,10 +314,10 @@
       "image": ""
     },
     {
-      "title": "Coritiba bate Vitória, se afasta do risco de rebaixamento e tumultua briga no Brasileirão - ESPN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNYV9kVzUzNlBmTU1LMXlEZS1EUmEyZXZiQUF5YVhsZTFxM240ckZ5TXAxYUVaX2RDZ3VLbUJ5RE90eWF2UFhPdk5UZWdvd3lIcDBzSGNZN0tKejZ3c01LblRVOEc2cXZSdW1CXzZjb28zYTRmWHVyMU1ta2s3ZVZzSjl1QVcxM2ZwVkhaWnlJaXBwOEhpSDZ6ZU1YdHowNmwybUp0eWNHOXUtbUpTX3lkcXlzTUFkcWNhbk8wTm9ndVh4d2Jfbk8tUEpJSzJ1ZUUyQlZ0d1R3?oc=5",
-      "summary": "Coritiba bate Vitória, se afasta do risco de rebaixamento e tumultua briga no Brasileirão ESPN Brasil",
-      "date": "2026-10-31T21:58:00+00:00",
+      "title": "Estêvão tem dois gols anulados, Chelsea vence United e aumenta crise do adversário na Premier League - ESPN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxONTFZaVNiZ3RQb2x6dDkxbTlQM0M2dm9rSC16dkkzWVVTSm9ReHBBaTB2UjBPSVdyNnFJc0JiaU5HYW9aUHdFR0kwSjBVSmxyaHVYREFWOXAtX01CemhuV3dOem1qUXJPYW9qVXlmZDNSbXE3eUVKMFBDZzROemdCWjhSOWJ3eElZNFZ3aUY1UHJOUlhzYUY5dkIxVjJQd092LWhMWVluSlJQS0lCanNFa1hVcW91V3RLbWd0MHV6LTBhWUtXWXZ4dU85ZkxUTmhHRGhENHV2NWxmSjB0bnNHN1BLNFNaTTB3SV8w?oc=5",
+      "summary": "Estêvão tem dois gols anulados, Chelsea vence United e aumenta crise do adversário na Premier League ESPN Brasil",
+      "date": "2026-10-31T15:30:00+00:00",
       "image": ""
     }
   ],
@@ -334,13 +334,6 @@
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZlZyTExzcWZnNDBscjNWT09Uc19CODA2SWJmSTVVSnQzRHdxZ1NWZUJ2b3pJS05jTFFzaTJZUjBxQ3pHd0xSWkFkajNZdjRFd3RFWHE4MTJhRnljSFI4QUl4dEVTcGhhZUloWU9lSHA2UEJtOXFKbDFkck94d3k3ZEp5VnBDNmFxWl90N1o3TFdKX1pla3k4ZW1ENlc5ZzBDVWJNRG5lNlhHeGJxVURGRnpUMlA2OHNVWVRnaDAtWVllelNDbGNKNkx0WHZNQTVZSC040gHiAUFVX3lxTFBlM0NGU3VDTTZaWWZ5T1A5RXRKek9rUWxkMUhvY3VmSEV6MVQtcjlxRmxtNkpGVndHZnNZSnV5WmJqRTl2R3poNk9SWDZPZmhjcXBUN1FkT2tvSWVVNkxnTjRhbmw3UDE0ZG5odlkyS0NwSENzX0c5VVlERERuSmZEV3hLQXJZZG54TjFNNEZxV1RPN3ZlVXpIaE9WQk1iWGthNGVBQ1MxN1NURmhtdy1FZEpqcWppejBONG0wRk04WVlpNnZxS1A3cGxKYWlldU44aTA4WVJqd2dmdF9EZVYza3c?oc=5",
       "summary": "Caio Ribeiro opina sobre Samuel Lino no Flamengo: “Impressionante” ge",
       "date": "2026-10-30T16:53:58+00:00",
-      "image": ""
-    },
-    {
-      "title": "A lista de convocados da Seleção Brasileira de Ancelotti - ge",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOX3UwWUR5UzVUb3BVdGNjcmRaSFRVUnkzTm1MSkZyRU8wQUxJZWhlR3FQRjZzU1hfTi00ZU5JRUhIclJydS1JTjExaF9mdlpDVW1hYTRKampKZHJqYUV5WEx4X3NVQmk0RURJUnB6eXAwc3Z6bk5Zc2xSQVZKUmNuM2hCa2R6bExYWXR3eEZlUlF4bDRSREZ5ZzhWTzRBYnh2aUhndVdobVU4NWl6RVFTNmphS3E1QzY0QmxZOE5UNG12SUtUQjBrX3d30gHYAUFVX3lxTE1fQ3ZIZEZXQ1VyQllWZmlTbTJMYmJ2dkFoSVV2cnlJelQ5Sno4TldZVjVCbEwxd1g5LWc3ZzhianpGdXAzbUhkYThhSWE5eDhfbG82Y1pRZEZ3elF2NWdJcGFvOVAxclpoazdGVUV2VEN5TTQ1eDBWVlZ1Sm5tZEk5NUlKMlNBTlRZRTFJb0VTUkVjb0FKd3VoUFBwSDZBU2k0UGpTNDRIam80bWhiUDRmOG5VTG5ESGVPbUhRaEVGLTZobTJ1RlB1SE85dGtjcjVFeVpHRWZ5MQ?oc=5",
-      "summary": "A lista de convocados da Seleção Brasileira de Ancelotti ge",
-      "date": "2026-10-29T18:14:03+00:00",
       "image": ""
     },
     {
@@ -369,6 +362,13 @@
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxORk8tQmFZdWc4UHpUODEwWjE0andYbWg0cUZxbjhCa2g5TlJ0MWRiWGNqODhYYm1FYkdlRm1xOUZLNTdJeV9QMDZqNFg5cjRDX20zYVNNMm1DUldNb25mVF9pNEVyb2NFTFp6SGNjMm9Rdzd2ZDRlaHF1SlZFWlF6X3lpWEFzcFJZNDJGYi1qdzk0aExlRWN0ZEVZWFVpTzZycU03aTBYOFE1dDZkVjJuQm9EenVuWnA3TThoMm1JMkZ1Ykc4dzBaV3NlWTVKckYxMHF1SVJFUEt3anQ5RVNBZUFYbTd4LXdSTW5OLXhUV0PSAf8BQVVfeXFMTjRKR1RzbGFWVUo4X29YNWJQcnRGUkdULVItOFpKSW5KT2lMOXhWVzdpUnFuOTFCdnVzT1VNRFlpQ3F4Z3hMVm9XdVdfeW9fMVdXLXc1RWFxdlBKbDBnTUpYcTNFdGkwUjJicXdLbG5IV2d6bExSSXNCY2VZNEw1LWpudzJUMUFoNnJaT0FqMHZGRk1Kc3RERmlCTUl3OWd2OWplUWpFRVY4SkQycHg4TDg4RmtjMXM2N25oMldZNTgyVHpoUEt4QTcyQnpNSG50SGQ0bFJuVnI3T1NqWTQ4R19mR19QVm1PeEp5aHphdFNrSkxqUWo5Rmg0S1ozbkhj?oc=5",
       "summary": "\"Teve mérito no poder de finalização\", analisa Fernando Prass sobre goleada do Flamengo ge",
       "date": "2026-10-30T03:49:45+00:00",
+      "image": ""
+    },
+    {
+      "title": "A lista de convocados da Seleção Brasileira de Ancelotti - ge",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOX3UwWUR5UzVUb3BVdGNjcmRaSFRVUnkzTm1MSkZyRU8wQUxJZWhlR3FQRjZzU1hfTi00ZU5JRUhIclJydS1JTjExaF9mdlpDVW1hYTRKampKZHJqYUV5WEx4X3NVQmk0RURJUnB6eXAwc3Z6bk5Zc2xSQVZKUmNuM2hCa2R6bExYWXR3eEZlUlF4bDRSREZ5ZzhWTzRBYnh2aUhndVdobVU4NWl6RVFTNmphS3E1QzY0QmxZOE5UNG12SUtUQjBrX3d30gHYAUFVX3lxTE1fQ3ZIZEZXQ1VyQllWZmlTbTJMYmJ2dkFoSVV2cnlJelQ5Sno4TldZVjVCbEwxd1g5LWc3ZzhianpGdXAzbUhkYThhSWE5eDhfbG82Y1pRZEZ3elF2NWdJcGFvOVAxclpoazdGVUV2VEN5TTQ1eDBWVlZ1Sm5tZEk5NUlKMlNBTlRZRTFJb0VTUkVjb0FKd3VoUFBwSDZBU2k0UGpTNDRIam80bWhiUDRmOG5VTG5ESGVPbUhRaEVGLTZobTJ1RlB1SE85dGtjcjVFeVpHRWZ5MQ?oc=5",
+      "summary": "A lista de convocados da Seleção Brasileira de Ancelotti ge",
+      "date": "2026-10-29T18:14:03+00:00",
       "image": ""
     },
     {
@@ -430,17 +430,45 @@
   ],
   "palmeiras": [
     {
-      "title": "Veja como está a investigação que apura um possível conflito de interesses entre Vasco e Palmeiras - ge",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPZFBTQm1DMXB6NEsxYVpjdGx6blc4N2pSM3pUS0hQTVkteWRHRDFkY2JvcUdZNEtHTm9NNVhneUg4c1lqTWliamFvMEdwSHhHcGdma19jTHoyTHh1Q25EbnFDU0NMMm1zblBQUVYwX3RoOWtVaTBjYjBXeEZpb2REZkZQWi1mMUdaeGRkN3hJb3J2OTluU1dVZ1Rya2hrQkROWnhIU0x6OUh3TUVJQ0U5dHF5aFpIRWlTdjQ2eTVMM3QzLS1OaUxWMVllY3l3YzhhNmxNS19vSHNHcF9DUHZTUEtSWi1zWU5LWUYydklEX1dWVG9hdjlV?oc=5",
-      "summary": "Veja como está a investigação que apura um possível conflito de interesses entre Vasco e Palmeiras ge",
-      "date": "2026-11-01T07:00:00+00:00",
+      "title": "Cartola 2026: Kaio Jorge é o Craque de Outubro, Palmeiras e Flamengo dominam; veja seleção - ge",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZV8wQlZYV0w2Y2QxWXB1V2R1Z2dubjZ0b1poUTVFZzZ5Nk1uSEk3cGp0UUdXZTZScWdjOUs5YXhmNDdKYXRKdDVoM1B4SGdPOTNwdUhWeEJHVXhROV9OQTRwUkg0ZG9BRElhcFMtUVQxSHp6ZTlkRUNfMTlhMklDQXZDWDcxZFB4bWMxeGZBcjk4VkxUZ1YxdXQ3T3Z0WkRTT3RoR0J5NlU4SEhNTDJnTGZjNXlKNTdLenN5YVdYZ3VvVjVCN204NGFIa1pHa1hMYmVZSXppQ1LSAecBQVVfeXFMTjFhdVB3QTVPZjlEcXZJOGtqeHF4N3pKTEY2YUFkOGhjdVB1RVAxRkFrUl9JaS03UnBPYlQySWNtQUd2OUFLRS1HVEdxMVhVMWgtSkljMmtWaWVnZ1haM1U5MUI5eERlSnE0TFBPTWFodlZqMFBoa2F4LThoMWJVSURyM0d6YmZfZGVVYjRQQWxWcEhSOXJ4cXZMeXZCYUpqbEFzWFBQQ1VSN0o1LVUwT0pFUTM2djNaYWhBS29TUTNXNFJiRDNOaEUwUExkSEtiY3pVNTUtY1RKUjY4NzJyWUNoWHppYnJn?oc=5",
+      "summary": "Cartola 2026: Kaio Jorge é o Craque de Outubro, Palmeiras e Flamengo dominam; veja seleção ge",
+      "date": "2026-11-01T12:00:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Pedrinho superou depressão no Palmeiras após lesões e reencontra clube em decisão pelo Vasco - ge",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNbmFEcnA1YVdQUHlPRC15eUdFMS1NbTdjelNCT1NkbjFJazBzUFAyTnQyYVBSTllNVEJWZFRQcWNzcmZsTUxOQ3JHQ1c0YWhDb3BrMUZRMmVROXJPNGFET2c1VmRUT080ajR2VGk5SHpUNXVTcGprTHJ4YjgwWFpmbG9XSzhvYTJ2Q2hWcmhVSzdkMTRfVzM1TWUtSENjUGdicERWMXo0clQ4RnN1N0FIR29QOVB3WW94cmdyRU0zNTF1YnFOQldFZGpHQXRvUVhVZV9IaGNnM3ZRQkN3UjJZLTNKZVFSelBkQ1Ztc0twONIB_gFBVV95cUxNSmZBX2V4SnI1LUo2MjNFRWI4OHFvYi1EMDFCMDltREVjNUZSS1ZHLUEzQXhsZWtxRmpGOXVfUk1IUHJtaTBVMDZQTHZncThRYkJNdDFnUWRkamVwZEc2cXNzdVdJb2VLeGI2MFcwako2Ti1NbjRyTm9QM2N5V0RoSTFBZ0d2UzRqRmJwUDlBVUt4bERZcnB4RFB1eG5rZm92SmNjc3FXNk45ZUkyMTRQeVl2VkpScy1sLWZDWXhDTlUyeE9PYUNjUUVkM25GdXU0NW1Uelhoem9GNVBLNXM4b0l5cWpkc0RIeno0d3g3bFpCS3oxX2ZMNV9wbWMzdw?oc=5",
+      "summary": "Pedrinho superou depressão no Palmeiras após lesões e reencontra clube em decisão pelo Vasco ge",
+      "date": "2026-11-01T09:00:01+00:00",
+      "image": ""
+    },
+    {
+      "title": "João Paulo Sampaio diz como Abel é peça fundamental em projeto bilionário do Palmeiras: 'Apaixonado pela formação' - ESPN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUFN5N0s4S1F2UVRhMTFXVDRja19xRkwzZlg5S0Jod3pid3BNcmdLSWpmT1pORWlSZDhnelVZd3VubEJELXdPck9BV3hTU1RKOFFORTRaRnBvazU5MjlzcUlPMjhxMzRReXhkaFlxYmtEUUoyQmJ0enIzdnpXSjdIN21zSUpqT2JDRXV6ekZGZk1EMGVsWk9ET3B1Z215NkJOSHktcFhfRXhrRDkwbkJmTkJOejF3RXFMRGlwZVpHVVRmRjBjSjhIRUFxRmNlVWNISU5zcHl2QVVNRGtlSDZ2Nmpn?oc=5",
+      "summary": "João Paulo Sampaio diz como Abel é peça fundamental em projeto bilionário do Palmeiras: 'Apaixonado pela formação' ESPN Brasil",
+      "date": "2026-11-01T12:22:00+00:00",
       "image": ""
     },
     {
       "title": "Palmeiras x Vasco: onde assistir ao vivo, horário e escalações - ge",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSUExQ1l4NzJwNHZSUi13SlhuRUFUbEVsZkVIUDQzMVdXTzIxOUJNTVlmcjZ1SjB2RGJ2dFRGeGZ4Yk92WVBsT2JveENjbDY4cDZxQVlDdWo0LWZvUUxBc3ZlV05VNmxlT2p6bmx5YUJWZkJPRGktelhhTlY0Tzd1MFJiLXBHdzlpZW11aXdoZGE4SGNxMnB1Tm9NN2lHZExRUlpiYk80anBWS0s3Ty1ieGpabUJYbUhJQXBucGh2M0N3MU1ld3pNQlhMRG4?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSUExQ1l4NzJwNHZSUi13SlhuRUFUbEVsZkVIUDQzMVdXTzIxOUJNTVlmcjZ1SjB2RGJ2dFRGeGZ4Yk92WVBsT2JveENjbDY4cDZxQVlDdWo0LWZvUUxBc3ZlV05VNmxlT2p6bmx5YUJWZkJPRGktelhhTlY0Tzd1MFJiLXBHdzlpZW11aXdoZGE4SGNxMnB1Tm9NN2lHZExRUlpiYk80anBWS0s3Ty1ieGpabUJYbUhJQXBucGh2M0N3MU1ld3pNQlhMRG7SAdsBQVVfeXFMT09tUjhNekEzbzdIaXR4ZXlCOUpOdXNaYWdjbGlsSGJjUjRmS0hZTzdTQWExcVc3QUF0cXVjYU5pd2JpcHZNTHN6OU1sN3ZBclZ2ZW9nTjBJSzk1RFBfbkVQeTlGNi1oTm1vLUFWSGtVWVpySmZ2MkthQURwc0dZM2VGV1BfajQ0ZTZiVTFidFRnWVJLZjAtbEdTcTZQdks2amlRdlJ4UW8wLWdiYWNHWHl0R1c0aWNyb3RFVzdVOGQ2YmN2M1pBLTFqTFFpTWJfTFV2Nm5ncy0xc0s0?oc=5",
       "summary": "Palmeiras x Vasco: onde assistir ao vivo, horário e escalações ge",
       "date": "2026-11-01T06:00:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Veja como está a investigação que apura um possível conflito de interesses entre Vasco e Palmeiras | Ge - ge",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPZFBTQm1DMXB6NEsxYVpjdGx6blc4N2pSM3pUS0hQTVkteWRHRDFkY2JvcUdZNEtHTm9NNVhneUg4c1lqTWliamFvMEdwSHhHcGdma19jTHoyTHh1Q25EbnFDU0NMMm1zblBQUVYwX3RoOWtVaTBjYjBXeEZpb2REZkZQWi1mMUdaeGRkN3hJb3J2OTluU1dVZ1Rya2hrQkROWnhIU0x6OUh3TUVJQ0U5dHF5aFpIRWlTdjQ2eTVMM3QzLS1OaUxWMVllY3l3YzhhNmxNS19vSHNHcF9DUHZTUEtSWi1zWU5LWUYydklEX1dWVG9hdjlV?oc=5",
+      "summary": "Veja como está a investigação que apura um possível conflito de interesses entre Vasco e Palmeiras | Ge ge",
+      "date": "2026-11-01T07:00:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Classificação do segundo turno: Flamengo lidera, Grêmio passa o Inter, e Corinthians é lanterna - ge",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNOGNxVjBNZ0tEU1pGa01rZGtIZXJtZUQ0MW1BRTZnVDA1dVR1X1M1allycGpHX1lyM0VVMlNXeVozYUdKN21EOGxfZ0FkTTRWRTJlWWdDY0NNbEo5SndzeDBWTVpaMFVqZTBXTVVwcWFBNDctLWI4QUd5QTAzR00xd0FYRkRDUHVONGNfbC1JNk0wQ3ZySmNDNUNaNnZ3SktOblF1NTFNMHN4Q0hMVW9PMjBZX0NBWlVmbksyRlNNeTc0NjlrU3djN3I4aWc5VGt2ZVdRR0NvZU94ME1oTDlLRGU2cjTSAfMBQVVfeXFMT0oxRHBIV09TbDJKV1VqYnBmRW9Wc0RSNndueWVaZDh4WEVDaldFS3JnQktpSC1aeE5WcHhHTkphVXlkeDZwUTV2d3dBREQ0VzBTOC1nVkJMd2UxTWFzRkR2WVBnOG5ZQ2l3OTduNFQyX0dqcS1MQzBJUEx2UlNIMFJJSC1yaDh0Rm9yb0dOemxNZUJIX0c5Y1dTQ3dIdm10OXlrd19qYXY0REsxbUkwdGprQnZVNTRZcHRmUFRyZTV0ZURLMk4yOElUVTE5ZHF6VHYzYXpGMlA5aEZPUEg4ZXY2clpobEk0eHlKN0Z1WmV2QWF3?oc=5",
+      "summary": "Classificação do segundo turno: Flamengo lidera, Grêmio passa o Inter, e Corinthians é lanterna ge",
+      "date": "2026-11-01T11:00:00+00:00",
       "image": ""
     },
     {
@@ -486,10 +514,10 @@
       "image": ""
     },
     {
-      "title": "Nubank Parque recebe mais de 2 milhões de pessoas em 2026 às vésperas de semifinal - ge",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNWThjVjc1bVoyUG9ObDRuV3g1LTZkejU5ZFR5NjczTVJLYVE2VFF2cmlMY05NZHk3MDFmMHNURmQ5MXpYQ01UVUFiNFA4UVZyUXdlTmNyNFlrbGtiRzgwTTFrNzBSUldrS1hQdHFUbjdRYUFVRTJJVjZzT3JraTB2WmhFakczbHhiTkxLRWNDSEFjNkt3ZG5fbFR5OFdYU1V0VzQxN3RjWDJaMnhlSy01c2Jsb2RWck8zZ0k5RHhfdk5OUnBLZ1ljNS1pdEpZNWZqQk9UNnBYeGpocXZzUnE4WXZLb3ZwME3SAfYBQVVfeXFMT2p6c180ZjRSdEo2N2JWOEFBU1EtMkxCZlZlTThZS1BOajdFZGd3UmYxem0yRjI0SDFpSkRhb3hJUklkbTc3bG1Ed0o0cTZMV3BYbUZTOFRFdjBlTHh2OUN3ZjBJX1N6S1daUnFGMGlDLUxodHFqcnBkNXkxUkZNMHNBQ1FRcXBsZklkeEJURkYxYVJfeDlxdkc2SjRGY2tXQnZWU0gyVDJSenVLNW1lWEhFeWN6U0hLQVZLQ3hqZ19aMktjLXJ5eVBxSUFEb1R4THBmYzI5MFpCUEE1cmpJS3BXQXBfMHlmNzE1MG4xTTg5VkJqN0J3?oc=5",
-      "summary": "Nubank Parque recebe mais de 2 milhões de pessoas em 2026 às vésperas de semifinal ge",
-      "date": "2026-10-31T22:11:01+00:00",
+      "title": "Andrey Santos relembra quando acertou com Palmeiras, mas recuou por volta ao Vasco - ESPN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPMzRiNGh5ekVSZUdpZDBnNGNKNlUxbkJITlBLZjhJRGZSR0FGZWlaTFdUeDhUcWdINnJLMmxONkoyVGEtdEsxVm9qZjAtNldHejJZb3JXdVpQamVhT0k3VmIwc29MNnd2WFJMYkJreWhJcUpmbnFmREd3WHAwZ2owSmVxN0hTaUd6cDBCaVpYajE5Z1JtNjNUbzl3NEFPYkZCRXgyUGh3alNlQkVMeHdCWS01NHNfOWd1YXA2SWVIV2U4VnkydWhZakRzRHlVclZqMTZrS2cyYzhxUjN1YUhnMUdRMDdPdDgtTUNzZElzQnpYbGhZbHFiTDFkSXhscmM1eGF3?oc=5",
+      "summary": "Andrey Santos relembra quando acertou com Palmeiras, mas recuou por volta ao Vasco ESPN Brasil",
+      "date": "2026-11-01T12:22:00+00:00",
       "image": ""
     },
     {
@@ -504,34 +532,6 @@
       "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNUmE1NnVhRHFMY0JRUE44ck5McFV2RFl5V0R4NG9LRkdsRzdaaEFmaXdjeEVKcU9EYXlqc3JsQ09RUUxsbnNmMW5JRHlRdXZrMUJTZUcxNXNuUkVaRnR5blRsTnA4NXppaGxXa3l2aHM1V1ZLYTF6MjZuVHk4bDU5RjFBY2hHZjBCRGtqYTA4bHBIaWN5aS03Tk5nZzMyLVB4bms4UmRkMlQ3SUJVeUk0LUdmWUxDRGlJU0lmWDJzaUVtdXRHT3JhV0h4VE9xM05LY0hIZDdfbVBpYXp6bkp0Rm5ESmh4NW5adE96TExhUTdkdTVLLWswWENzUXV5TngwX3fSAZACQVVfeXFMTTNwSDEyVVRPdzdJVTNSRjlZa3VMdGh5YzN3cmE3Z2w5d1dTenE1cXB4SEdWdUJSYnMyZkRIcllQcmI3WG92eW8wUnJCUmhadFd6VEc4bmZIZGFzY3JXaUpJNE1mVFB2YnliQVlsNEQ3RE9WSmdRNmVZblZsRlYtT1kzWHY0VHJheWxzRGpVR2dUUXhtTU1ZQ2R0dnBwV3FiRk51blM5akNXM0p4RF82ZFVRbWd1WUtjS1FFb1htVTRQVkVWckFPbVpkd1F2LURvdkJ6NVF2eTZEYVpmaGlkY1FiNGh3dF9rcEtsbFJrSUdBTFk5cm9WM3VPVUtibDVuQ1FLeGFkR1M4cHlybXVpNms?oc=5",
       "summary": "Você sabia? Em ascensão no Vasco, Marino já trabalhou com Abel Ferreira e fez dupla com Endrick no Palmeiras ge",
       "date": "2026-10-31T14:00:01+00:00",
-      "image": ""
-    },
-    {
-      "title": "Vasco fecha com nova patrocinadora pontual para a semifinal da Copa do Brasil - ge",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUmctVm1wVkZpcVRTd1h5WkY3czd3MUlhQzhGU3dMUWpyNUtUYkR5VWJNR1RTWW1mS0NPT1U0bVRzellaNzR3WlN1WVllemVQX093ckpEb0o4RV9zZjF5UVBjTWZSNVU4aGRPM2pla3FUNURqOXdnZXBaQ0x6ZThCMjNsQWNLSkxWSkl0RzZpSFRmUlBWVmNkcVhNQUhlVjIxRDQ5Njg3ZHpZTzMtLXp4bW9PWFBGMXBJb1U1WndFMFFkZDFmN3VrZ0xmZmZxVmU5MUdDQ0xtMTQ5VmfSAeoBQVVfeXFMTlVJd2JWdXVGOXI4SjZaMll0OHRZVTU2bW04VUpZRWhtNkd5YU94b0kxNDhwX2QxRFhxU0g1MlhGV2ZFUTlHQ1N0bEhyNWpiZ3NEZ2wwSVpRZFZrWmhhR01qTkRLcnJoekhHakRmc19uUjlYZGRnTFJHNTRpUGVMZFpTeE5zUDkxY2pvX3pPci1hZUlFQnVCUloxSjJwNUxRVEhrRFpGRmVoVnA2Z3FCdFU5STgyWjR2Xy0tSzg1ZGhnVFN2QzItLWVjdDhsbmhEYm12Q2hGQ19MTHh1V1FTNWJSLUY3V3Vfblp3?oc=5",
-      "summary": "Vasco fecha com nova patrocinadora pontual para a semifinal da Copa do Brasil ge",
-      "date": "2026-10-31T14:27:02+00:00",
-      "image": ""
-    },
-    {
-      "title": "Escalação do Palmeiras: Abel pode fazer mudança contra o Vasco na Copa do Brasil - ge",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNUGVZMm56TWtwOXhaNGtGcFREanVJTm9MajFnYzBYLTRNOGNFZEFocENYZUJIVUtPYWE3R21wS1NXNzdWYXdLUDRobERhZksyOVRfRzNIRlFZQ3VlbGFQS1VwR0Y3TU9RdGxzSU1xYUY2SlFxVUZXZEZIcklHRV9ucmZidXdPZ1JWNlBLU053UDdLcGRuaHRxTE9EeDVmeWhqODBQWi1HRWtnYmJrM0lWNl9pcGg0VkhXZTVldjhhMk12emxTUVlZSXBRTVdQQVlGd3VZRERtbU83Z3NuMzNYYXdlcE5FSklUOW10bjg2WVVuZW4yNThF0gGGAkFVX3lxTE5aSWwxUml2MzM5eWhzMm1COW5rY2dLcm1LczdRZmFIeEx1Y1ZXNjEwOW1ubmdhLTB2MTZpMFJ2Tng5aFo5M3JYbUdXVlhhSnZGR2FmRVRCald2cHBweWFvRFJ4MkRLVXNsdTZjQW4tNE5XN1M0VFZ3SFlBWWFLUDY1YmE4X0YwWmdBRzBQQk9oM2JxWTVTa1luR0x0eXY5bnkyNXdGd1A3OGFSdWphZDBWbHpKaGhGWTRQcVBqUWNpRk1lR3l0U0tmMjVieFFTcjdUZ0U0bGFobDM4SGdIMzBrRzFaQ1FoRmR3RkNobUF1QXNiNlZiMHhZZGtSSmJYNFB6Y3UzX2c?oc=5",
-      "summary": "Escalação do Palmeiras: Abel pode fazer mudança contra o Vasco na Copa do Brasil ge",
-      "date": "2026-10-30T22:57:26+00:00",
-      "image": ""
-    },
-    {
-      "title": "Bastidores: como venda da SAF do Vasco esquenta política do Palmeiras às vésperas da semifinal - ge",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQYlhKRlhyaW1nc2lFYTMwRFZ3Rlc0bnotTGoxNUJqbVN4T0kydlNvSEJ4LUkwLXA5Q1U4bWYtckR6cHllMFdCZHZyRFowRmFIWVFPZHFYWS1XbUQtMkpKOVJwdGlCTElrZU5aZ2dCZjllQnNEXzFhZG11dXQ0UzQwUllxQzlFbGdCaHpkQzlLN3I4bkQ3Rkg0SnZfeEJWdHVvakdKWG11S05Qc0xTR3VITHFDYUlBMXZFLVU4VG5xOV9pRlFTdW5OSDlLb1NtdWZITFEtaVBSOFcwRlFEUDlKSVNCVGZSREJrNURxSVZVNEFFMnRBb2fSAYQCQVVfeXFMUFhMdUdOTzlqeGM2ZE5mcXdDSUlZRDZhSEFQbkVhRU1GSWhvbFBVVElfSngwcXlQSk1YVjRmTDQ5ZU1fZElybGVIYk8ta3ZmYlNqWE91a2lNa1lJaEJmSjhjc2dJWUs1eTFiWXZFM3otOWpHcGRJZ1VBTENCbFJoeHZuWGJNMDJadUJwaXFGNHp4N1FNcDBfdWJfOEFvTE8xaEF2b2Y0QzRkRm1ITF9jWi1wWm5vUFplclBCa1BjRHRzODl6UG51OTJGYUctdDBGV29odGlpU1F2cXdramlzbEJELWtTZ1EzOW1KUWdBNkNMRWxrdnptVzVlWTRhcUIwcFJGT3k?oc=5",
-      "summary": "Bastidores: como venda da SAF do Vasco esquenta política do Palmeiras às vésperas da semifinal ge",
-      "date": "2026-10-31T07:00:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Flamengo vai à CAS para tentar suspender venda de ingressos para Palmeiras x Estudiantes na final da Libertadores - ESPN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNUHVmZlhONFE1bnlEdHA3T3dsRXBYMVRobE9ua0VDSWlPY0U2V1ljdzdfMWxVa0p4UW1md3pfMVViaGF4N3pKOHpZUjYtZjdyUUM5bERBZTNjQzFicEZ3bzc0dS0temFNU0wtR3FuZk51cjhpWXp3dE9ocGtuN2ZxUEx6UnBBa2oyWDZiNThhd25fb3BKRFJHak1zLXUycWxDSEtWd19jbUJXQ0s2ZzR0bWZRM3NWaVBGLXJwbmtzbi1IWmkzVzBheFVhMFZkWFpPNTJ6MnRHaUdqRGFnRk1DRTZIOTQyU1VpLXc?oc=5",
-      "summary": "Flamengo vai à CAS para tentar suspender venda de ingressos para Palmeiras x Estudiantes na final da Libertadores ESPN Brasil",
-      "date": "2026-10-30T19:43:00+00:00",
       "image": ""
     }
   ],
