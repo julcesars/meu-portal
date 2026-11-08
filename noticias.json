@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T03:36:46.081555+00:00",
+  "updated": "2026-11-08T10:55:57.229133+00:00",
   "thenews": [
     {
       "title": "07/11/2026",
@@ -109,13 +109,6 @@
   ],
   "andreazza": [
     {
-      "title": "‘Flávio Bolsonaro explora a perspectiva de poder. Lula vai para o tudo ou nada’ | Estadão Analisa - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcUhHdDN3WlNocVVCSmlwd21fNGhmMlFEeW94Z09ORFBLMlhuVVllaVA0akp5Y2poeFFGQ2hOUHN2MUVBN256WXlWT21nd0VyQUhZQmtNd3N1MkEwRHJaVkNEODVEeDhDcVowOEhnTW5iaTg5M3hQR241VXJnMjFOWTllVUU4TFBJWEh5bHg1eVhEbFhNUkRFNkFrc3pVblgteEt5RHRKQnlfRUlHdTVrSlh2RHMyWUpsbk94WjlyWHN1U1BRM0t4UkUxcmwzaWVqQXhfbDVTWldfbDE0VWfSAeMBQVVfeXFMTllEMlhqS2pvQ1BCcUF5RkpTS1Nnd18tU0Q4SlEyTWtPd2F6SDJFblo2T2tOR3lWdHd2ZWVTTTJ4OVFET2pUVmg2dXFybko5YnF4TWl6OThTeU9VZWtyZU1yV3RKYmpHalBBLWJLRjRST0l5c0ZDdjlMenVDbUh6WXdxZVgzTXNkMEFLN2dBQWx3VzR0cUJ4MmxmdlpEdFg0MEgtR0hhZmVfRlV3cEJ6MXJ3bGZ2UGNrRVBZVkx4WTlPUnpEck9GTFpIdVhtX0kxLWluSWZkWEdzenRHSUUycktkemM?oc=5",
-      "summary": "‘Flávio Bolsonaro explora a perspectiva de poder. Lula vai para o tudo ou nada’ | Estadão Analisa Estadão",
-      "date": "2026-10-09T07:00:00+00:00",
-      "image": ""
-    },
-    {
       "title": "Carlos Andreazza: A revanche de Moraes e a fuga de Flávio Bolsonaro | Estadão Analisa - Estadão",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYklwUDJfYllrYmJtVGRfdGpjeE5EajBLTmppc0oxTlppeUZUd3ZKWmJZOGxuWVdFcWxIcEdYaHNWMjZJSWNZQ3Q1NGRpcVJmLTFHSUNFd3lOUzZYQjQ0UHdoVm1aYXdwaFY4eDg0U1VaaWV6M0VnTHNhVGkxR284VTMxdlFpOXRiVHNxOWUtZUlhaFpiR3FzRVN3dW1oeGk3djdOcmJHcVhwLUQ5bldqMUJzOVlOUEZQVDRBZVFDbVhWQ19MN2hwYlBGc05Lc1NS0gHWAUFVX3lxTE84aktHYXJPT1ZCQzB4TlBwRFBoUG1ST1l3NkRkamhlQnVKSkNIeElSYm1nOFlLejZGRWxnaDNDaXU0WTZLYnlBdV9xV19Da0xkT05TZURXLS1hdkk0UDBKM2wyQlh4MEFOdW9UX3hoTWQzR3p0UFlxd28tSzlGZ2NYUWxZanMyQkVoelhuZEhtWk44ZE9LWHJ5YW9UTk9uemg2c2pCcXFFMFprOGpFa2hEUTktN0V6c1dac0plakgtdG9ETEtCeVRHemg0LS1vYXhqZV81NHc?oc=5",
       "summary": "Carlos Andreazza: A revanche de Moraes e a fuga de Flávio Bolsonaro | Estadão Analisa Estadão",
@@ -212,6 +205,13 @@
       "summary": "Lula x Flávio Bolsonaro: Debate rasteiro à altura da atividade política no Brasil | Estadão Analisa Estadão",
       "date": "2026-10-19T07:00:00+00:00",
       "image": ""
+    },
+    {
+      "title": "Andreazza: Censura de Nunes Marques é homenagem a Alexandre de Moraes | Estadão Analisa - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMk1CZldXYk5nS01xR2hhdzN5VWpCSkpBZWJrVnVWWGlHMnpjZ3ZGdG5pbWZyLUs0T0RfemVYTXhTN0pUU1IxZFRqNk96R2ptVUdoUm5DLWJRX2dBakN3TXhRcjRqUVdwS0hOOEdxUWJLNml5TXEzUUpsRVpzMXJCWVZwRi1vQ3JqeEhBX2Y0UTNYZjhScjU0bl9VZDBwbXJLcGY1U2J4ZXBRNjI0Y2xfenZhV2xBbkw3bG1wQ0EzbjBiMjhLczlhZ3JUZjZBbms3YmRJ0gHYAUFVX3lxTE9zQUpVcVdxenRRY3kxcnBXckJFc1lSa3pTX0kyalAxWWFMTnVDU2VCX3g5YUJBaTVmdFZXbVJ1QWR2dU1kUUZLYmFLQnVIc3d0MUtCWXhHcG5sbUxfb3ZFN1hlT2pKWk9YN1hTamxDR2M2WEY1THpNbUk3RE56TzJxdFBseElaLVZ5UkRaVEk4VGMxYVhuTWFOeVc0cncyVFBqcmtrWjJtMnNmdkw3VnpwdjlPaXdKNi13bm5ncXAtbnRkNkNoTEpmOU1qUDVOMzhHU01RS1ZJTA?oc=5",
+      "summary": "Andreazza: Censura de Nunes Marques é homenagem a Alexandre de Moraes | Estadão Analisa Estadão",
+      "date": "2026-10-13T07:00:00+00:00",
+      "image": ""
     }
   ],
   "espn": [
@@ -220,6 +220,13 @@
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMFlBYnlLb2VyeFpSVEhSR1RkdExrODNaMV81bXRMaFpJa01kWWlaS05NTnYySWlHMnRsWDZGRXk1ck83WVZqempKLU9VMVFEenFET0RVV2dWdmdyTjBfbkg4SkoycVBFb211NkRWUTQwZ205dmFtVFJVWTVnVExpV2R3eEZ2ck1DUTNtbm54bDVTTmJNVU9YMGdBSVhqbnppYmZHNEJpWmtjOHpaT3pNX2Zic1RJZ0t6V0k5R0ljQkczanpFb2FrOHNRbw?oc=5",
       "summary": "Novorizontino garante vaga na Série A do Brasileirão após vencer o Fortaleza de virada ESPN Brasil",
       "date": "2026-11-07T22:15:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Grêmio suporta pressão do Atlético-MG, arranca empate e se garante na final da Copa do Brasil - ESPN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbWdXOTJHdTRfekRuejRzMmNoT012TG43YUpHejNNNkxHLXlCdUJRRHJsazJ2clBRQmRwOGxOQ1hndUlCenFBTFcycHRnQ25ldkdjR0ZyWUVCdDIzdndJWXNhV2s2ZzR0NEJ2VmFOU3ZXRG05SW4zcS1pWXlWd200WWZteEZfbzZianJnLUI5X1YwRTdVM1Nnd2h5Qm10ekRTUTRUNHdlanhWZDhXUDlDMDFaZWlmYW1VR2tUaFVYb25oVHZzMHhDRTVkdzFBSUZCaVE3RUhPZ2ljRHpGM0NV?oc=5",
+      "summary": "Grêmio suporta pressão do Atlético-MG, arranca empate e se garante na final da Copa do Brasil ESPN Brasil",
+      "date": "2026-11-08T00:11:00+00:00",
       "image": ""
     },
     {
@@ -237,24 +244,17 @@
       "image": ""
     },
     {
+      "title": "Boca é campeão da Liga Argentina de forma épica com gol de Enner Valencia no último lance - ESPN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNWxzV2pvUXVxWnFDckJHTmkyYThBc2xrY3Q2VDBabmhGS1lTWW1zN19PcFlGc3cxdldIdzZTMmpyVklLaWtySXdnak5YaUp0LXhudG1xeGlzazRHbWVfYnJ1cnk2VjhsZmZWYzVHck4wSHJjbFRSQ3ZzMG80cmpZU0tPeV9FdlNYRk1fZlRUMXNzZWt1ZDd2b2FtQ0Z1YXBhaDE4OGNxT1c1OFNXT3JrOGttWi1zOVVLcGc?oc=5",
+      "summary": "Boca é campeão da Liga Argentina de forma épica com gol de Enner Valencia no último lance ESPN Brasil",
+      "date": "2026-11-07T23:33:00+00:00",
+      "image": ""
+    },
+    {
       "title": "Corinthians e Grêmio em desespero, Vitória em apuros: as chances de rebaixamento após a 34ª rodada - ESPN Brasil",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPckxiQmtwTnpmZzQ2RHdveXg3SWE4MkxPd3lZNE50Qm9lU0E2MVFyckJEdWo5T0I5eHFmTExXZlUyS1k3N0VrZXpqQlMtaENMWkZVQUVYZDFKRzM1TjF4TGNrVnNDR2RxVGZvRmFuY0xDZFQwTnpKY0ZoYjQ5RWxqWHVFR3I3eUJNLWNMWWJKRjVwSHJrYWxGVGo0Y1lsNzNHUVRUbjBUbUJkRGx2S3l1aWUyLTZwZk5OWkxjb1E0T21KMkxVWHFSTVBNNGhpWHZvYnhRTWZR?oc=5",
       "summary": "Corinthians e Grêmio em desespero, Vitória em apuros: as chances de rebaixamento após a 34ª rodada ESPN Brasil",
       "date": "2026-11-07T03:40:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Grêmio suporta pressão do Atlético-MG, arranca empate e se garante na final da Copa do Brasil - ESPN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbWdXOTJHdTRfekRuejRzMmNoT012TG43YUpHejNNNkxHLXlCdUJRRHJsazJ2clBRQmRwOGxOQ1hndUlCenFBTFcycHRnQ25ldkdjR0ZyWUVCdDIzdndJWXNhV2s2ZzR0NEJ2VmFOU3ZXRG05SW4zcS1pWXlWd200WWZteEZfbzZianJnLUI5X1YwRTdVM1Nnd2h5Qm10ekRTUTRUNHdlanhWZDhXUDlDMDFaZWlmYW1VR2tUaFVYb25oVHZzMHhDRTVkdzFBSUZCaVE3RUhPZ2ljRHpGM0NV?oc=5",
-      "summary": "Grêmio suporta pressão do Atlético-MG, arranca empate e se garante na final da Copa do Brasil ESPN Brasil",
-      "date": "2026-11-08T00:11:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Bastidores do São Paulo: situação e oposição não pensam em Dorival para 2027 e avaliam técnicos no mercado - ESPN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcHBCVVdHaHgzTTVCeUw1SU5RRGFPNzRMVVRJNWVSRWdZU0RLekhERlp3Nkpvb2I3UTBkaDZGZjZGSkhXM2NVQXIwb2RRNUpMWl80Z0RxaF9lY0lUb1JkaUtCS2NMWlNya3FpSVFncERMdlZ4bjdGajRPdVE4UzFLUE12YVB3U3V4ZTNFUkJiTkZPNEl5YndRclMyUmxWcEZ5SzlkWGdLNzhmMWFzQjVPN252S1lTTXIzX2VpTWxPaWxmNDg0NkYyTk0tS0gzeXd4VDhZYjNsckhudw?oc=5",
-      "summary": "Bastidores do São Paulo: situação e oposição não pensam em Dorival para 2027 e avaliam técnicos no mercado ESPN Brasil",
-      "date": "2026-11-06T15:39:00+00:00",
       "image": ""
     },
     {
@@ -265,17 +265,24 @@
       "image": ""
     },
     {
-      "title": "Por que Grêmio pode perder vaga na Libertadores 2027 após se garantir na final da Copa do Brasil? - ESPN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNT2dTbkszRTNCMklYOVRiaEI1Q1dsVkJQZ1hoMmc0WVhQZE5DLWdmR0wtcVZMXzVreGk0Y2l6UXE1R0tQQldUNjhQWlVUZzRaMEhXZ29IOHp3cjlfYVV1Zi1tbjRmZThWTkFTdVV6cTBkcWtQUUhaVGd2cXlLNTAzWWhWVEU5dmlqOU9DMTYwbnZNaXdXTFlidDhjeWIycEZzd19PRGczNUVCYjFCNmcydWlreVF4RFk4ZmQwZmVYRHk3bzhMemY4VGMxejQwTlJrcFl5d2lB?oc=5",
-      "summary": "Por que Grêmio pode perder vaga na Libertadores 2027 após se garantir na final da Copa do Brasil? ESPN Brasil",
-      "date": "2026-11-08T00:17:00+00:00",
+      "title": "Real Madrid arrasa Valencia, vence 8ª seguida, cola na liderança e põe pressão no Barcelona - ESPN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZl9teU4zdkp3a19kUDh5SjltOV8xelNCM1oxZm9odlBwT3luS1E4NHVpdjFwZUpYV1VZRUpaa25BZkc4WWUzMTdhZ25tTE9EZHhhT0FnS0EtLU5FSHRVUTE5QmZYQmRfZG1vZDlyZlVEWTRrdGg3T0Jvd2VVTlZfWkwzbWdQZjJobW5Xby1IOGF3dGVnOU1VU1dOeGNFc3Z3dTY0eTRWcmI4WHNPMmhlend6MU85VTJGTmVvVTRxZFVqdDhZWEJ4eC1HT2lpSnN5Q0gzR1hHWVk?oc=5",
+      "summary": "Real Madrid arrasa Valencia, vence 8ª seguida, cola na liderança e põe pressão no Barcelona ESPN Brasil",
+      "date": "2026-11-07T22:58:00+00:00",
       "image": ""
     },
     {
-      "title": "Vila Nova 1-0 Criciúma (7 de nov, 2026) Placar Final - ESPN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBQZzhKTFJQS0ZtVmR1UXFIaHY0WDVNalF2RG1kZ3pIV3RCLTN1MGUwQ1ZZVmFPbGVLZGRSdmxsWmx6cjM2UGFPSFZ1c3g5N29scmROd0hkYzA3dGxLWEd0cHNOb25pYTVSSFE?oc=5",
-      "summary": "Vila Nova 1-0 Criciúma (7 de nov, 2026) Placar Final ESPN Brasil",
-      "date": "2026-11-07T22:57:22+00:00",
+      "title": "Paraguai convoca cinco do Brasileirão e pode desfalcar Palmeiras, São Paulo, Santos e Grêmio - ESPN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRk1PUDBWd2xlYXowNEZjY0ZUay04M2lSSy1neVVZeEtyNTFzZUplQ3FPckJ1R2pWYTdURlFTMGNLUl9MUWNPVnYwdmRMaF9ibmUyUVR0QlFHYmJyVEpKd19Sa0R5NXk1aW5JVGd6azhBcENoSkNGc0NNQTNDQzExVUNCb2hCbGdBOVZBSm5teHNtZ1ZWeVliVUlhdElqdS05cTBKdGtISGlQanNiN0dYS0Nhcll3QVoxbzRiZE1UT004RUtxOXgxOHhicm9RdDU5bkdQak9zTExOQUU?oc=5",
+      "summary": "Paraguai convoca cinco do Brasileirão e pode desfalcar Palmeiras, São Paulo, Santos e Grêmio ESPN Brasil",
+      "date": "2026-11-07T18:26:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Arsenal vence Hull City, abre vantagem sobre o City na liderança da Premier League - ESPN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNM1dPX2I1b1hzSzgyYjBuY25EekNlSW9TYUFweFo1eHR1SmxKMlV3d1Etc091NTBMaFpEd1JHdS1Vc1FEQkxJRU1kdVhPeFJmWWduZXlkWjFEczNsQmVheEtzREZrM1E1clh2N2pUWnlZN3ZGR0YtTjNRTjRTMWhtLWdtcE1XOEVxWlBSbjV0YTU5NzgtVXRmTnhoeE9MbGYtUDYzb2FrYno5UDFqazJOSUphekgzdDNFSXJDc2QxUHQyd3V0V3QtbllZSV84VU16eElTdm5WYzR5Y29EV2xmTHVB?oc=5",
+      "summary": "Arsenal vence Hull City, abre vantagem sobre o City na liderança da Premier League ESPN Brasil",
+      "date": "2026-11-07T17:55:00+00:00",
       "image": ""
     },
     {
@@ -286,10 +293,17 @@
       "image": ""
     },
     {
-      "title": "Boca é campeão da Liga Argentina de forma épica com gol de Enner Valencia no último lance - ESPN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNWxzV2pvUXVxWnFDckJHTmkyYThBc2xrY3Q2VDBabmhGS1lTWW1zN19PcFlGc3cxdldIdzZTMmpyVklLaWtySXdnak5YaUp0LXhudG1xeGlzazRHbWVfYnJ1cnk2VjhsZmZWYzVHck4wSHJjbFRSQ3ZzMG80cmpZU0tPeV9FdlNYRk1fZlRUMXNzZWt1ZDd2b2FtQ0Z1YXBhaDE4OGNxT1c1OFNXT3JrOGttWi1zOVVLcGc?oc=5",
-      "summary": "Boca é campeão da Liga Argentina de forma épica com gol de Enner Valencia no último lance ESPN Brasil",
-      "date": "2026-11-07T23:33:00+00:00",
+      "title": "Vila Nova 1-0 Criciúma (7 de nov, 2026) Placar Final - ESPN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBQZzhKTFJQS0ZtVmR1UXFIaHY0WDVNalF2RG1kZ3pIV3RCLTN1MGUwQ1ZZVmFPbGVLZGRSdmxsWmx6cjM2UGFPSFZ1c3g5N29scmROd0hkYzA3dGxLWEd0cHNOb25pYTVSSFE?oc=5",
+      "summary": "Vila Nova 1-0 Criciúma (7 de nov, 2026) Placar Final ESPN Brasil",
+      "date": "2026-11-07T22:57:22+00:00",
+      "image": ""
+    },
+    {
+      "title": "Por que Grêmio pode perder vaga na Libertadores 2027 após se garantir na final da Copa do Brasil? - ESPN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNT2dTbkszRTNCMklYOVRiaEI1Q1dsVkJQZ1hoMmc0WVhQZE5DLWdmR0wtcVZMXzVreGk0Y2l6UXE1R0tQQldUNjhQWlVUZzRaMEhXZ29IOHp3cjlfYVV1Zi1tbjRmZThWTkFTdVV6cTBkcWtQUUhaVGd2cXlLNTAzWWhWVEU5dmlqOU9DMTYwbnZNaXdXTFlidDhjeWIycEZzd19PRGczNUVCYjFCNmcydWlreVF4RFk4ZmQwZmVYRHk3bzhMemY4VGMxejQwTlJrcFl5d2lB?oc=5",
+      "summary": "Por que Grêmio pode perder vaga na Libertadores 2027 após se garantir na final da Copa do Brasil? ESPN Brasil",
+      "date": "2026-11-08T00:17:00+00:00",
       "image": ""
     },
     {
@@ -304,20 +318,6 @@
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRURDUE50MkFIbnB5VUx2V2pwRUhBRHozTy1kQWk0dERnLTN3eXNQVXJ1Z1lZWE02RXZONml2bXhJc2JMWTBrc2U4Yy1lWWdGRmlLY29YU1dnUUU5ek5ydzM3dVZqZG54NExyZkd4V3BlU1JBU2M0Nm1mWjRIR05aTDkzdGVCcDBjSW1Cb3pIdDNwS3hZTEhMOUs2c1NqeGZCSVhFVDlNb1NhUmV5a3I0N3RDZEc2eXc4RDA4YTB1bDdtNEdRSXhzbXB4X2lVMkJ4SUNIZWR5ajYwSkNFSy1uajRB?oc=5",
       "summary": "Jakson Follmann reflete sobre tragédia da Chapecoense dez anos depois: 'Foi um crime, não um acidente' ESPN Brasil",
       "date": "2026-11-07T13:19:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Kentucky X Tennessee - Ao Vivo | Tempo Real - 7 Novembro, 2026 - ESPN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbUVmYVl6V2hLd01aLU9JeWlLUkdvMHZFWTRSSGt1eDBVU1hEcFdnMEJrWkxXcTlxNmxYT2FJN1VWMTlCSkJwMlRFU0R5SGczZ1FleW85MGNKcnNMd2o5a1AxSXA0b1ZpbWtjdC1ud2JXX2ZodXNMcWp2T251SG4ydWpuZXhVdw?oc=5",
-      "summary": "Kentucky X Tennessee - Ao Vivo | Tempo Real - 7 Novembro, 2026 ESPN Brasil",
-      "date": "2026-11-08T00:19:02+00:00",
-      "image": ""
-    },
-    {
-      "title": "Arsenal vence Hull City, abre vantagem sobre o City na liderança da Premier League - ESPN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNM1dPX2I1b1hzSzgyYjBuY25EekNlSW9TYUFweFo1eHR1SmxKMlV3d1Etc091NTBMaFpEd1JHdS1Vc1FEQkxJRU1kdVhPeFJmWWduZXlkWjFEczNsQmVheEtzREZrM1E1clh2N2pUWnlZN3ZGR0YtTjNRTjRTMWhtLWdtcE1XOEVxWlBSbjV0YTU5NzgtVXRmTnhoeE9MbGYtUDYzb2FrYno5UDFqazJOSUphekgzdDNFSXJDc2QxUHQyd3V0V3QtbllZSV84VU16eElTdm5WYzR5Y29EV2xmTHVB?oc=5",
-      "summary": "Arsenal vence Hull City, abre vantagem sobre o City na liderança da Premier League ESPN Brasil",
-      "date": "2026-11-07T17:55:00+00:00",
       "image": ""
     }
   ],
@@ -379,13 +379,6 @@
       "image": ""
     },
     {
-      "title": "Edição de 03/11/2026 - ge",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMEI0QlFfNXA0amItazFxdjlOZ2hGTlBTZUVHNTI2RmQ0d19qSEZqcmF4Y2RXdWRfM1FweV9HRFBJWWZ4aGREVHRHVmlmYS1oQm5mSmR5dmNYdGUtNUl6TmNEdnItT1RFUEJYV0VORV9WdElPeVpsRE1PLTIxWmNtdEFXSWxmMy1YdzI0ZS1VaVBpbUcwWXNuTNIBpwFBVV95cUxQLTd6VzFrYjNpMFFHNE5mQnFVVzFZSlo4R29tVXk0VW1yMHJ0QXJpeHlmYjl6RDVMSlJjM25BS1FWVDFLZnhkcTZtdmVSWDVQc3E5OGwwS2d6WXZKMktEVFBCaVl5Qm0tVm83bW5WTUhTLVhrYWEtM1pacjVHWllnTXR6M0NTUVI2S3B0eUpobk1qV2s5ckdRWFZEZWtOQzdzTENSZk9oUQ?oc=5",
-      "summary": "Edição de 03/11/2026 ge",
-      "date": "2026-11-04T04:18:34+00:00",
-      "image": ""
-    },
-    {
       "title": "Irlan Simões comenta situação de Infantino na FIFA após eleições nos Estados Unidos - ge",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNRXBzTkFuRHhwcWJzVl8yS1hNNDNZbWxkSnFTTVRzeHNTbTNsUHFqbllYOWwwMkFHNWliTWlfeFBfMHBsUDFleWdwMVpCLV90NWN1UGh0amJBbmxxYXR1QklGdGd2OVl3LVJoNmFLTFotcGZvNDJQeHpsRUJpcE1rX0R3Zk9BWU0xb0RMcVpiWXVzd0xVME1KWjBBUTZWMG5iNUtYNXVEc1laSVhhTHFud09aRDRHblJidFZIVjNwbVI3T2YwaDE2Qk4tN0hmYW12SjRUZkdURENLOElNU29yM2hoRFd6UEdsSjJwd1FB0gH8AUFVX3lxTE52UmtBR25hSzNlRGJRbW9KV0xtNDVmT01sVURGQm90a0VJc3BBM3lfUjJFd0dFU1drUmNxY3FHRl9aTzJ3S2t4enRsUmp3UW00MmQ2eHhKUWZvRm03YXZnWXRkSEl5NUFxcHZxM0JoTUxGeGhLSm1pTUJiYzlWYk9seVVPNGZYUm1wSlk5S21FMlNYVGZPdmF3Wm9zSHNNUWRZdHE0LVo3dDZxanFlR2xJNFBmd3p5aUlEM0R3MWh1al9ENkdjaXZMQzI3NmZHVi1keU4wcjlBMXdFOHdQZXloZmtXWkt2MlBpa2FSTzJnMUtrR24yNWZ6dS04Rg?oc=5",
       "summary": "Irlan Simões comenta situação de Infantino na FIFA após eleições nos Estados Unidos ge",
@@ -414,6 +407,13 @@
       "image": ""
     },
     {
+      "title": "Edição de 03/11/2026 - ge",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMEI0QlFfNXA0amItazFxdjlOZ2hGTlBTZUVHNTI2RmQ0d19qSEZqcmF4Y2RXdWRfM1FweV9HRFBJWWZ4aGREVHRHVmlmYS1oQm5mSmR5dmNYdGUtNUl6TmNEdnItT1RFUEJYV0VORV9WdElPeVpsRE1PLTIxWmNtdEFXSWxmMy1YdzI0ZS1VaVBpbUcwWXNuTNIBpwFBVV95cUxQLTd6VzFrYjNpMFFHNE5mQnFVVzFZSlo4R29tVXk0VW1yMHJ0QXJpeHlmYjl6RDVMSlJjM25BS1FWVDFLZnhkcTZtdmVSWDVQc3E5OGwwS2d6WXZKMktEVFBCaVl5Qm0tVm83bW5WTUhTLVhrYWEtM1pacjVHWllnTXR6M0NTUVI2S3B0eUpobk1qV2s5ckdRWFZEZWtOQzdzTENSZk9oUQ?oc=5",
+      "summary": "Edição de 03/11/2026 ge",
+      "date": "2026-11-04T04:18:34+00:00",
+      "image": ""
+    },
+    {
       "title": "Redação sportv analisa vitória do Cruzeiro sobre o Bahia - ge",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQ0xoMF9sU0QtN0JzZ2pKZUUycWlvVG5tS0p0NGFUdjJKbVdsR1VPQmZvYzRxOTdvdHVqOTluQ0s4c2g4ZGZkZXNtNzRfcm05STFoSXRsOTNlYndOSk56SkFGN1BZWURzdzBndVJHeWQxX3NQWGZNbzZ5VFREb3hIWlR1MVhyRldvZU53Nl9nZjdqdnRrRXN6dHViV2ZmUFZqYUo5TjJEbUlBSVBOai1UNVFjX2IxajJ0ak9scWtGamZOSUUwcnhYYmtR0gHYAUFVX3lxTE1LMndQYWVyS2dwOFZSaE9URVFQcHBhR0N3OTc4dVBrU2phSlBoZHpqUGZQSENIX2ZMV2ZSb3Ywb0VZY3NTQTVmRFZ3VXl4aDM4OHpVczljdF9IN2lSeEk4eFdhZWZPSkdNVjVXSnZSaFJMSmlpSkQ2WEJ1amFXNUhXSkZJUDdYbGlud1I0cEdIVFlKcllSZThPSDZ4MDNwb01reWF1ZXJfcmxnQWQ4QkRUQUhFamFCYm5vd2VNeGVvaDB0M2k1dldvT3g5X09Nb3JuT3RYZzNpbg?oc=5",
       "summary": "Redação sportv analisa vitória do Cruzeiro sobre o Bahia ge",
@@ -430,10 +430,10 @@
   ],
   "palmeiras": [
     {
-      "title": "Palmeiras desembarca no Rio para semi da Copa do Brasil com Sosa como novidade; veja relacionados - ge",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNcGg5bzNDNDVjYlNLZjFPYWM1Vy04dC1RbXdGQUtvaFhJRkJUQ1piYll6TmIzZ0xKemxMb3NqSXVwXzNMQ3FYdXVBZ3FqSHlRajZZRy1MVklsNmt6NVdRTHFlLUZxdmR5bkVoRW52Ty0wS1otTHNRRTZDNE5zbloydjdNZzh0VEd1LUY0LWZtUzYxV3ZQQ0ZjLWtxTTZqZnc2VWJVQ2Vlb2NkeTBoSWwwR3d2d3puVDc0cWQxc3JGVlZmTElRZjVibGdlVXYyMVdXZzFpUXM0TEdBTEZKYlFQMTNsNm5RRVpJejhTZjZpVmJaRGQwZ3BZa3RB0gGIAkFVX3lxTE55Z3gwTzB4RW1TNF9mNkJJTzhmN0lzWUpzeXYxVVpuaUVnUkxGZVItTDVVUk1IS0x1NkZaMm1rX2l3MHMxUTA1M3NRTFdVQllYMGQ2YjlOWWU5WldnVDJ1QUJrQVl1WE9RdERiN2N1WW96RG5uRGtEVXByakVaMnY2aE1zWnJlMmdKS3V6R2gwQ2FPQUNTdHRSYjVaVXJ0b1RCMUJuQmx0QnJhUXpmeG5tMWNUdG5kb0tKdjc4QnlYTHBRU3loTzcxYjFHY2dLaC15Sll5MGZndlZ1YklqM3FfZmQ3VnlWNnJCZFFxNFQ1Wk8wTlZWM2pfbXN4WS1IOWdNV1J5SnIyVg?oc=5",
-      "summary": "Palmeiras desembarca no Rio para semi da Copa do Brasil com Sosa como novidade; veja relacionados ge",
-      "date": "2026-11-07T21:04:21+00:00",
+      "title": "Vasco x Palmeiras: onde assistir ao vivo, horário e escalações - ge",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQaHdPOWFyYkU5NmdyMzY4dndGdkxLTmdhVzIxbVBCVERYUzdzRnJGd0h1V2h4aVg3OGFHVG1jUGRCMjlydXVPeC1wTDFBeTdpOEQzWS1wTGx5SVJPX1AtMlc5aGM0Q2JaNDZzSGQ1MmZSaUdLSG5zTU5wY1E2NHBrdkcwOUxMQ0tobzFBNUpFRnB6WUJUYnVzY0ZtZXYtRUVJa2JremhqYXZIM2JqTkhRcjhLb01DeHNybl9oLV9vbVZoMzMxSm5GR01CSWrSAdsBQVVfeXFMT19VN3MyX2RVXzYtN3RTR2lqbk5HbXNGNEpYd0t6SC14eGlIb0ZkQ0V2VFpLQjhaeVVhNG1TY2NnU3BqRlRfcWVObzRBQ3FScU8wTHlWYm9lNFVLdXZEZWpkNHZ3SkY1MTBqT3FUTFJiUVpYcWNqZTdGRTBlaWtUU0V6QW1aWUoyN1BEMGJGUGFtVmpaRWtnN2VySlZTdFdHSnEtcmNnTHVzQWRHNEMzM3VjMDBPWlM3Z1dEOXpWREtwd2M3bHRWRkJTMzI0czRWVWJaOEdLdHp3N3hn?oc=5",
+      "summary": "Vasco x Palmeiras: onde assistir ao vivo, horário e escalações ge",
+      "date": "2026-11-08T05:00:00+00:00",
       "image": ""
     },
     {
@@ -441,6 +441,13 @@
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNWTcyT2gtaFdCU3FzZXpwVWpSMXUzV0x4THBndGxkSk9ZSnVaR0U2S0lGWDJPVXRkTTFBRnozeVZfNk85TUFwR1o4aUYxZDMxclFKNHgzMGpWLV9fcmgxUUNJaVZBQUtUSXc5WFpMcEVPcWItUWF1SzVXc3I2U0oyTDhXVlZBakdTeV9qa0Rfdm55U2dnS0ZmRzcweXJ3cTVfYlkyakp2aGVTLVdidGdQZ1U4RXBJLTYzNElELWN6MVNCNVVhN1k5endibXJXMlBiV3ZKeGRuc0ROUUhZa3V1LW9CUTVpR3BHTTFlN0VsRFVkR1JLdTRNMdIBhwJBVV95cUxQZUdCYXlFS2xzQ095eV95T1BuamJTUEh4dV93Ri1rTVRvRFRaSV9UdW9LVng3OWZQZ2E0eGhqaTR3dnl0QzhJaGhISno5SmVkU2FfZnlGdHRoZUtQSDlnNEFMdkI3cDVrb2hBbmhtU2hRZDBXSERPb0djX3hRSnh3SmVHbS1OOThaQzQ1XzVnQzdVLW9DM0xWRUxBa1pYZkhnb3dHZzZoMlk1UDZPckpkUG1HNlVNaDl4VzR4TjBTRzdGbkZYTUFETWhnbVp0MDdpeFFYNGU2LUJ1Sk56OFd6QkQ0MGpSY2RXa2hzSVp1ck5NSGw2Y1otU19yNE1HcHdZS0hfT1lHVQ?oc=5",
       "summary": "Vasco ou Palmeiras? Weverton revela preferência por rival do Grêmio na final da Copa do Brasil ge",
       "date": "2026-11-08T00:09:24+00:00",
+      "image": ""
+    },
+    {
+      "title": "Palmeiras desembarca no Rio para semi da Copa do Brasil com Sosa como novidade; veja relacionados - ge",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNcGg5bzNDNDVjYlNLZjFPYWM1Vy04dC1RbXdGQUtvaFhJRkJUQ1piYll6TmIzZ0xKemxMb3NqSXVwXzNMQ3FYdXVBZ3FqSHlRajZZRy1MVklsNmt6NVdRTHFlLUZxdmR5bkVoRW52Ty0wS1otTHNRRTZDNE5zbloydjdNZzh0VEd1LUY0LWZtUzYxV3ZQQ0ZjLWtxTTZqZnc2VWJVQ2Vlb2NkeTBoSWwwR3d2d3puVDc0cWQxc3JGVlZmTElRZjVibGdlVXYyMVdXZzFpUXM0TEdBTEZKYlFQMTNsNm5RRVpJejhTZjZpVmJaRGQwZ3BZa3RB0gGIAkFVX3lxTE55Z3gwTzB4RW1TNF9mNkJJTzhmN0lzWUpzeXYxVVpuaUVnUkxGZVItTDVVUk1IS0x1NkZaMm1rX2l3MHMxUTA1M3NRTFdVQllYMGQ2YjlOWWU5WldnVDJ1QUJrQVl1WE9RdERiN2N1WW96RG5uRGtEVXByakVaMnY2aE1zWnJlMmdKS3V6R2gwQ2FPQUNTdHRSYjVaVXJ0b1RCMUJuQmx0QnJhUXpmeG5tMWNUdG5kb0tKdjc4QnlYTHBRU3loTzcxYjFHY2dLaC15Sll5MGZndlZ1YklqM3FfZmQ3VnlWNnJCZFFxNFQ1Wk8wTlZWM2pfbXN4WS1IOWdNV1J5SnIyVg?oc=5",
+      "summary": "Palmeiras desembarca no Rio para semi da Copa do Brasil com Sosa como novidade; veja relacionados ge",
+      "date": "2026-11-07T21:04:21+00:00",
       "image": ""
     },
     {
@@ -479,13 +486,6 @@
       "image": ""
     },
     {
-      "title": "Bruno Rodrigues celebra retomada após \"aval\" de Abel e se declara ao Cruzeiro: \"Mudou minha vida\" - ge",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPRFBndDVpR1YzYThmVnEySmtsbmE3UVctWGpldmZ0OWo1Tkw4TzdPSlNiRlNLTjZ4V3REMWF5RTBsTUhESjZWUF90d0NIWGdyUzZwaVhoRFhsaV9VNTRFX2JzdktmNldDeng0eENpdC1ORnpkVXMwOWdfWkRKX2lPbGlJRHRDd3R3dkRnMjVQNnpoeW9qUnFpVUlsR25hWlB0a0M3VTV3ckdtbHlVVUp3eDhVOV80X3J5enc4Vm0yVDFiZHY0LXBRVDF0VDVYZXZqY0xSVjlLalI4TFRlSnVKQnNKTndLdE1sOWp2UmhnWmNmeGvSAYICQVVfeXFMUHdldW9NMi1FVFZNemR5VmczZDF6dk16UENVR3FqWFR2QkVqRFd5d2ZlbVdmbm9BVnIxckFUT2tWenJIRF9UaXBfb1BzNS1GVHVrTGR5RnZoUGpDMzNmT0lLR3RXdi1vSW5WQk9pVUZUbW5DbjQzNUg3Rkh2LThtUHVhZzdMNjdtWW9NT1ozV2xyMUZjekF5aUdyMkRiMDNIenZ5WVVlT29TYTh6bVRuV0U1OHU5akFzSGE5ZnZROFpoUy1XdjV3VUhzM0NhNk0ySU9LZUZod0FrcmNVOWZseEtydUpuOTJadXp4TlBkU3FVZFhHVUpBMUpWQUlUX3lIZktR?oc=5",
-      "summary": "Bruno Rodrigues celebra retomada após \"aval\" de Abel e se declara ao Cruzeiro: \"Mudou minha vida\" ge",
-      "date": "2026-11-07T20:28:45+00:00",
-      "image": ""
-    },
-    {
       "title": "Paraguai é convocado para amistosos com jogadores de Palmeiras, São Paulo, Santos e Grêmio - ge",
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxObkFiSlFob245Mi1EWVBGZ2ROM2gtd1VYQW1CellzbHVsX1NyVnRfMWNJSEdCSHNFNmtPRzNkN3BUb0VRVU43ZGw4a0xzS0hHdy1xSE8zWXl6UkNjcE1feEFuQ2NwcExxVzdyVXZmdTlkZVpvUkUxbFBrVTNWU3ByTUlkRGhRUzRVZko3RGJ1RVlZbnBBVWUwOVlHclV3UHI0WWpnSjBWVFpPNEpldFhTMkh0NjlCMTl5YlUtVHRaTnkwejdwZ0FTREEtMEdjYjZfQWZYMGx6WDlRa2FQWmt6ck1EUTl0WGh6ZEhZUS1VNXRjOF9QaERF0gGGAkFVX3lxTE9KemltbjBkejlDNEtSdnNONTBKYk9fRkFrOVVSOWNVaDhkckZvSklMU2pWRmZuSml2SmNRa3BTV1pfWHZBNnZGQ1NsaFJEbUhScWJVdGxIajQwSnVkZmc4ZDZSY1lzZmRfSXRUUV9VQk5CY3dwMVpnek5sWGpuUTYzT1IxeWFtWnVGMDdQNUk2YnQ5cGdDU09QMTYxaUh6WkduWTFULWpTaUhXdnhnRmxWdUtoeDdZVzUxY3M0TnE1UGRzX1lmMWllb3Jfemp4TUZieDFWcVVZV3VLRDNYUUZQd2JGcmloQld1YzRRclhkWWpUNThvYW9BOWxUVUVDMFJtTEhfaXc?oc=5",
       "summary": "Paraguai é convocado para amistosos com jogadores de Palmeiras, São Paulo, Santos e Grêmio ge",
@@ -493,10 +493,10 @@
       "image": ""
     },
     {
-      "title": "Renato Gaúcho pode evitar final inédita de técnicos estrangeiros na Copa do Brasil - ge",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNNHN5amExV0N0UEdIb3J1Tjctb3JtZHpPT19mbmU0Z3YxcVJrY3lINF9xMFZ1cGlyRE5TcWFnSDRobjRqS3JqZDNiVFVBWmJkSlRKTmpBb3lvYUNEVTVDdnQxNUxMMWFGTE9tLTRpYmZwRHZ6alVKRnpGa1VHVjM0a0tobThjZDVESDlCaFRBaFMwc3VMYklFeVVNbC1oeGl5U0Fseko5aHRSdVowZXNwam1FMzdnNFl6ZmxxaVIxbVB5eWk5LXUzN3pNSnJFZEFZc3FLaEFUMDgwSndIWlRaNktWb2N2QThHeUHSAfgBQVVfeXFMTjRjQW5xREpkZVdnanV5YmtYYUNKLU9LQUozSUpQaTY3blk5SENndEx5QklBdlhLRDBzQTBCR2puR0p6VDVxUnRxLTkyTkNERm9ua1V4ZGt2UUZId3M2SnZvSEc2c2tENXlZTy1yNlkzNWhZZVJscGRUeW4wdjJST1FwZ1E2VWp2dFZvenR4bENyekRSVjFRM2ZkeDZSNHZhbDl4amVwb1haMEdPUHZFcEN4b01MQkRzenBqZ3RUWW5xRm8tVXIzQzNDb2x4dHo3cHVLWWQxQmdhNk9xMVgxbDdGTnZ2djdnMEt3Y3NWYTFiYzZLM2s2MlQ?oc=5",
-      "summary": "Renato Gaúcho pode evitar final inédita de técnicos estrangeiros na Copa do Brasil ge",
-      "date": "2026-11-07T11:00:00+00:00",
+      "title": "Bruno Rodrigues celebra retomada após \"aval\" de Abel e se declara ao Cruzeiro: \"Mudou minha vida\" - ge",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPRFBndDVpR1YzYThmVnEySmtsbmE3UVctWGpldmZ0OWo1Tkw4TzdPSlNiRlNLTjZ4V3REMWF5RTBsTUhESjZWUF90d0NIWGdyUzZwaVhoRFhsaV9VNTRFX2JzdktmNldDeng0eENpdC1ORnpkVXMwOWdfWkRKX2lPbGlJRHRDd3R3dkRnMjVQNnpoeW9qUnFpVUlsR25hWlB0a0M3VTV3ckdtbHlVVUp3eDhVOV80X3J5enc4Vm0yVDFiZHY0LXBRVDF0VDVYZXZqY0xSVjlLalI4TFRlSnVKQnNKTndLdE1sOWp2UmhnWmNmeGvSAYICQVVfeXFMUHdldW9NMi1FVFZNemR5VmczZDF6dk16UENVR3FqWFR2QkVqRFd5d2ZlbVdmbm9BVnIxckFUT2tWenJIRF9UaXBfb1BzNS1GVHVrTGR5RnZoUGpDMzNmT0lLR3RXdi1vSW5WQk9pVUZUbW5DbjQzNUg3Rkh2LThtUHVhZzdMNjdtWW9NT1ozV2xyMUZjekF5aUdyMkRiMDNIenZ5WVVlT29TYTh6bVRuV0U1OHU5akFzSGE5ZnZROFpoUy1XdjV3VUhzM0NhNk0ySU9LZUZod0FrcmNVOWZseEtydUpuOTJadXp4TlBkU3FVZFhHVUpBMUpWQUlUX3lIZktR?oc=5",
+      "summary": "Bruno Rodrigues celebra retomada após \"aval\" de Abel e se declara ao Cruzeiro: \"Mudou minha vida\" ge",
+      "date": "2026-11-07T20:28:45+00:00",
       "image": ""
     },
     {
@@ -507,6 +507,20 @@
       "image": ""
     },
     {
+      "title": "Renato Gaúcho pode evitar final inédita de técnicos estrangeiros na Copa do Brasil - ge",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNNHN5amExV0N0UEdIb3J1Tjctb3JtZHpPT19mbmU0Z3YxcVJrY3lINF9xMFZ1cGlyRE5TcWFnSDRobjRqS3JqZDNiVFVBWmJkSlRKTmpBb3lvYUNEVTVDdnQxNUxMMWFGTE9tLTRpYmZwRHZ6alVKRnpGa1VHVjM0a0tobThjZDVESDlCaFRBaFMwc3VMYklFeVVNbC1oeGl5U0Fseko5aHRSdVowZXNwam1FMzdnNFl6ZmxxaVIxbVB5eWk5LXUzN3pNSnJFZEFZc3FLaEFUMDgwSndIWlRaNktWb2N2QThHeUHSAfgBQVVfeXFMTjRjQW5xREpkZVdnanV5YmtYYUNKLU9LQUozSUpQaTY3blk5SENndEx5QklBdlhLRDBzQTBCR2puR0p6VDVxUnRxLTkyTkNERm9ua1V4ZGt2UUZId3M2SnZvSEc2c2tENXlZTy1yNlkzNWhZZVJscGRUeW4wdjJST1FwZ1E2VWp2dFZvenR4bENyekRSVjFRM2ZkeDZSNHZhbDl4amVwb1haMEdPUHZFcEN4b01MQkRzenBqZ3RUWW5xRm8tVXIzQzNDb2x4dHo3cHVLWWQxQmdhNk9xMVgxbDdGTnZ2djdnMEt3Y3NWYTFiYzZLM2s2MlQ?oc=5",
+      "summary": "Renato Gaúcho pode evitar final inédita de técnicos estrangeiros na Copa do Brasil ge",
+      "date": "2026-11-07T11:00:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Corinthians e Grêmio em desespero, Vitória em apuros: as chances de rebaixamento após a 34ª rodada - ESPN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPckxiQmtwTnpmZzQ2RHdveXg3SWE4MkxPd3lZNE50Qm9lU0E2MVFyckJEdWo5T0I5eHFmTExXZlUyS1k3N0VrZXpqQlMtaENMWkZVQUVYZDFKRzM1TjF4TGNrVnNDR2RxVGZvRmFuY0xDZFQwTnpKY0ZoYjQ5RWxqWHVFR3I3eUJNLWNMWWJKRjVwSHJrYWxGVGo0Y1lsNzNHUVRUbjBUbUJkRGx2S3l1aWUyLTZwZk5OWkxjb1E0T21KMkxVWHFSTVBNNGhpWHZvYnhRTWZR?oc=5",
+      "summary": "Corinthians e Grêmio em desespero, Vitória em apuros: as chances de rebaixamento após a 34ª rodada ESPN Brasil",
+      "date": "2026-11-07T03:40:00+00:00",
+      "image": ""
+    },
+    {
       "title": "Palmeiras x Estudiantes: Conmebol anuncia nova venda de ingressos para setor misto na Libertadores - ge",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPOUYtMmpqdERyTW1uOFJOZUF2Y3RiNkNzQnk1aGdoTHk5ZDdxN0NtZUM5NmszUkM5ZFhzdHpjS3NpeVBsbzh2VmUtb3lQNkRGLTk0TklQcWNUem8zdnhVcWo3cHlWZndZRTdMMDhRZm5LRUt1SDBwcElMZ2pNc05IcjBMX1hIVWdhamNuQ29OenJpSlFLejJybF9rQmFaMGxhV3I5endzSGxGRUtITy1EODFVY1FBcnVXMkZYUWlmNmFlRUtNMktrYVgxZ1JlQjNEWFc1OThaSW5vMENpZkdIdzgwSHQwQzhP0gH3AUFVX3lxTE51UnhNcGx4WWNWV2FoZDNOb0hneVBpb254MFlIclZjbDVORWsyREk3RG9zcXhWbDBlSjZJM1hxeXdMZTdyUmZ3eDhUNWg3N0lOc1hZSXFCZ3IyQ3pmdDZybzQ4WkN5U0RlZXl4UnZRZzNDZ1RvMjM5azVXSW1RMEtGX1BzUFktUHJiS0tod3dsN1M4RVQ0bW8wdVg4aXkxbFdUelV2bjQ4czlBOEZVTW04bmFlR3lVd0k3SzgwTVhObjZoVVVSUHh3RXQ2bzE1ZVFHdlU1SEp6UGUzbVhNc1ZGbmtOSzZTbVB3clpjdTU5bDg4bFdOQjQ?oc=5",
       "summary": "Palmeiras x Estudiantes: Conmebol anuncia nova venda de ingressos para setor misto na Libertadores ge",
@@ -514,24 +528,10 @@
       "image": ""
     },
     {
-      "title": "Como desabafo de Abel incomodou Seleção; dois jogadores do Palmeiras estavam em pré-lista - ESPN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNW0tWVJVRmJKeHFuZHk2Y05aVVhJMGNHaXpCQU5GRGNLejRMdXVSQzdGTEVwbmFzRC1lNWdmenU4djNpa093UHVsSEttRk1Fd1E3S1FORzZsVTdxM0dJaWR3WVAyaDZ1TWVyNDRBdlYyU3MxemFkSGdmNE1VbDAwQkFGWndCMnBESkNqQkx2Y01aWW00NExtYXFkcXNKVTB4ZWhOVU0xdUNOT2JtbUpCSFZjNlZrNmcxcGFxcG1zRTY4MHRMWU0ycEpJWEFKWDJPeFh4V0NhYm1KV2dJREdBQWRvWQ?oc=5",
-      "summary": "Como desabafo de Abel incomodou Seleção; dois jogadores do Palmeiras estavam em pré-lista ESPN Brasil",
-      "date": "2026-11-06T20:46:00+00:00",
-      "image": ""
-    },
-    {
       "title": "CBF divulga datas e horários das duas últimas rodadas do Brasileirão; veja detalhes - ge",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOV2ZsQ3h4cjZsNWxYaWZBNTNaOUVKWE1DandJZ1g1MFVxMTh4cm05V3BvdHJGYjg3NU0yTG04LTNleW1hUTFyc1pXLW1WMjcyVlk3elEwZmxFbFYteXlNYXg1ZXZ3Y3VBU1pSMXltQ2hhOE5KQUNtNk9SaHN2LXBBTXBvYTJsZmw4R1hxZWJQQngwQXE0cjFkWFBuaTZSLWlqR0NMM0ZOaWNBaUEtQktQVzJYWTJROVBORm1DNWk1SzdCdjl1YWRlcGFrQTdiV0RUcWRsc0VQZEhydkVkSkNWVGM1UWR6R2VPNnplMTJZZU_SAf8BQVVfeXFMT3FZX2MyRFlFTEJiclJ3Z2JuU295cDZCemp4VVNjSzd0T2tad2Q5cU8yM2pET0hQdFpSN2JxZWppSGl0c0dRVkFRTWRKQkQ0OWM1Um9XLS1tZm9BaWxkS2JYQUJGUmR6OTY5eVRyRHJwT2tRckNETEh6MWdaY09kdzlrdWYxaW1fR20wNkhzX0U5dHY1aHJqUzh5ZXU5RHNnQllTUGhpV18yRHkzRGZTTG9QelFkeEZSajVjUzM2NDlhUExvRnRmRXNMeTdZVFBUV0JiZ0EzcmliUHlZTXBIUUtkOE5DT0IxZm5mMWNyRnZaYXpFemtsWVRFRmxRZUpB?oc=5",
       "summary": "CBF divulga datas e horários das duas últimas rodadas do Brasileirão; veja detalhes ge",
       "date": "2026-11-06T22:08:20+00:00",
-      "image": ""
-    },
-    {
-      "title": "Ex-Remo detona jogadores do time paraense após goleada para o Palmeiras: “Caras gordos” - ge",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOT2c1Z1dYOEdDUFpSSjZDY3NfWWlBdW53VzhRNUFXVzNYY2Eta3doT2pKbGlJOExTcUhlSlYtVDhvSGFZUTN1S05UZW5UQzBHcUV4Vm5rSFBkcWJfLVJSNVlCVVpOc2ZjTVQwM2lrZGMxa0JNQ1VQNWh5Z1BZMEdETXZVamRmWmRZVWFwQXN4OTAyUzAxUnlja2NiaGRFaGJIQk80U0lmMGZLNjVWUlV3WHVZOWtvendseHJxZzJuMmtlbzJzVmRtNmtNSFBSRDNkdEFrbGthQ09JZXp0THVJSV9JLWdWZ0HSAfYBQVVfeXFMT1ZxUEdvMGdPaWpMYTdoVlRwMGxRYXpQcUU0NVk3aFBSalIydFYxYU5oU0ZCS29nV3hQQ3M3ckxwQU8zd296ZEVfQkY4Tm1Ma1ROME4yODRtWWhLd0NQbGM3Tkt2RmpFa19lVnc5ZTM1UkE2VEFiNjVKMC1UZVVIQlltWlFETWN3Rkh6RlpENnMtY0VQVlNhTFRXRl9LQjNLaGU1MWNHUngtRUh2RGx1X0h5RWl1ZHBPOEZjVnUxcEJueUZQWnJEemlmTjNnNU9KWklUZi1XM3Jaam0tV2JHeC1wRVB5aFJJSjZuVUVrQUlnaEx2Wk5n?oc=5",
-      "summary": "Ex-Remo detona jogadores do time paraense após goleada para o Palmeiras: “Caras gordos” ge",
-      "date": "2026-11-06T18:58:18+00:00",
       "image": ""
     }
   ],
