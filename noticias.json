@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-10T19:21:24.095582+00:00",
+  "updated": "2026-11-11T00:19:47.090536+00:00",
   "thenews": [
+    {
+      "title": "NIGHT #347",
+      "url": "https://thenewscc.beehiiv.com/p/night-347",
+      "summary": "10/11/2026",
+      "date": "2026-11-10T21:16:28+00:00",
+      "image": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/366ed797-23bd-4304-8074-5fac0352ba19/featureimage.jpg"
+    },
     {
       "title": "10/11/2026",
       "url": "https://thenewscc.beehiiv.com/p/10-11-2026",
@@ -98,13 +105,6 @@
       "summary": "02/11/2026",
       "date": "2026-11-02T21:24:36+00:00",
       "image": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/600a6c63-a799-405f-b626-b6196a20a202/image__4_.png"
-    },
-    {
-      "title": "02/11/2026",
-      "url": "https://thenewscc.beehiiv.com/p/02-11-2026",
-      "summary": "tudo que você precisa saber pra começar seu dia bem e informado",
-      "date": "2026-11-02T09:03:00+00:00",
-      "image": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/816687f9-c2dd-42a4-859b-35fa7cb11d3e/image.png"
     }
   ],
   "andreazza": [
@@ -216,10 +216,10 @@
   ],
   "espn": [
     {
-      "title": "Com desejo de permanência no Liverpool, Alisson dá prioridade a clube inglês por novo contrato; veja os bastidores - ESPN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMElUd0g5ODlZN0lSVmtOMnF1bGdoZ0RicmdET0o0WmNBTnFJbnAwTktYbW4xWmZFWDFteUVaUXAzODduWnpRWWNUdjUwc0YxSzVYVlNDaVVobFd2X2p5S1ZCTVktSVgwRkxGOWs4aFRjbHIyd041YzhyRVFHLTViczljZFZnS0YxX0p0SEttS3RIdVdxQTI4bzZfV3Q0TFFhbDJvSFM1MndBYzRmc2pJZDRncjhQVk9fbU5zRnYwYV92eXRrNDB1a0N6ZEI5NDZPRERV?oc=5",
-      "summary": "Com desejo de permanência no Liverpool, Alisson dá prioridade a clube inglês por novo contrato; veja os bastidores ESPN Brasil",
-      "date": "2026-11-10T14:51:00+00:00",
+      "title": "Fortaleza acerta volta de Vojvoda para treinar o clube sem receber salários; veja detalhes - ESPN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNN2NnOE5CM3VZTk9nOWhqZEZTblZDSUR2dndZNVZJRVcyWkczandDQjVJOXM3RHhVV3ByQXVjbE04YWd4MjJ1VzNwNzlaVm81a1RaRkUwMnBTR2FUOFlQd0ZBQUVRLS1hdjF4UFRrM1l4U21oTmZJQWllaWJLVWxGR0I5TTZFQy1GZU9KZXF3SWloSUNtVHFJRlNyNVRQM1hFaWFQMmt2V0pydDdyaEZoYVVwVEVGVEVSOTBVNUVmeDBPUlljbjhUclpPT1Z5QQ?oc=5",
+      "summary": "Fortaleza acerta volta de Vojvoda para treinar o clube sem receber salários; veja detalhes ESPN Brasil",
+      "date": "2026-11-11T00:02:00+00:00",
       "image": ""
     },
     {
@@ -227,6 +227,27 @@
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSzlJaU9FNjU1SGFnUjN6d25FcmpFbkNkYWhfTkxFNDB2R3lEYkhmMDUtY0U1dnRGeTVudXh6eGt2MlhXVjMxX2lyVGZ3ZUFGb1RDR3NmNmRYS0tDSkhmQl9uNWpJWkFfM2pxaDlES1lDQWw0N2cwX1lXOExlX2x2UGFYVjVSV1RmS0xQdlpjc3oxUHhHamx5V0ZhWldjWGxDNlNpMThXX08yWUFnZ0ljdS1va3dTQ1k2d2FEMUxMTE9sSk1yWHc?oc=5",
       "summary": "Nottingham Forest estipula preço por John e recebe sondagens por Igor Jesus ESPN Brasil",
       "date": "2026-11-10T15:24:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Justiça dá 15 dias para o Santos quitar calote de R$ 200 mil em hotel e comida em Buenos Aires - ESPN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOb3VpUURHaWhtdUlQNFdhR01hVGtjV1VKWWt2OVRVVjZCVUh1U25nWWRIWTJ2Y20wdHc1d3VZajdtTVl6NFppaHRtdWRWMjRlRFRUU0d6aTE0RWZfUVBTT05VcWxuWmJFWU9ZV2lSYTlwazNPRklzNWk3M1lCSzYwZTBmZ21aSmlWcXJObUJuNHYzME1HZjB1S25ISXBPekwwRHF4VUJkOFI3VEpMMEhOZEEyNUpsc0NmRUx6LUpocXhYbTY4X0wzeW1KYkxWRG40OXFmYw?oc=5",
+      "summary": "Justiça dá 15 dias para o Santos quitar calote de R$ 200 mil em hotel e comida em Buenos Aires ESPN Brasil",
+      "date": "2026-11-10T14:03:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Com desejo de permanência no Liverpool, Alisson dá prioridade a clube inglês por novo contrato; veja os bastidores - ESPN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMElUd0g5ODlZN0lSVmtOMnF1bGdoZ0RicmdET0o0WmNBTnFJbnAwTktYbW4xWmZFWDFteUVaUXAzODduWnpRWWNUdjUwc0YxSzVYVlNDaVVobFd2X2p5S1ZCTVktSVgwRkxGOWs4aFRjbHIyd041YzhyRVFHLTViczljZFZnS0YxX0p0SEttS3RIdVdxQTI4bzZfV3Q0TFFhbDJvSFM1MndBYzRmc2pJZDRncjhQVk9fbU5zRnYwYV92eXRrNDB1a0N6ZEI5NDZPRERV?oc=5",
+      "summary": "Com desejo de permanência no Liverpool, Alisson dá prioridade a clube inglês por novo contrato; veja os bastidores ESPN Brasil",
+      "date": "2026-11-10T14:51:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Palmeiras e Mauricio conversam por renovação de contrato após sondagem do mercado; veja os bastidores - ESPN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQWGR5YmxVSldSN0pSRGVTQTFsWW5wLUNSOEt4cFNCLVhRdG5MZExvMjhuQlBfMGtjRHJtNDZ1Z19COFAxVXJZX0pGcG5DcU9SaThUUXg0SE9mSkYxR09WaWc2aTZ3ZVM4Y0ViZlNNNHFjd3NzYldMUlluR0xkQ2RuWVJ3MXB0d242Qnp4Z24ta19pR0VUTGxLd21TMHRaR1JuUl9oMkZwS29wX0czUkdGb3ViM3c0dFJpcWNUWE1MWFhRcEZEbktURzZvZW9hMkJQbjNMalNWZ1dvM05MZ0NscEYzMmRacEU5NTBxOWMzbEE0ZzI4WGc?oc=5",
+      "summary": "Palmeiras e Mauricio conversam por renovação de contrato após sondagem do mercado; veja os bastidores ESPN Brasil",
+      "date": "2026-11-10T18:45:00+00:00",
       "image": ""
     },
     {
@@ -244,13 +265,6 @@
       "image": ""
     },
     {
-      "title": "Yuri Alberto é punido com dois jogos de suspensão pelo STJD e desfalca Corinthians contra Botafogo e Atlético-MG - ESPN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPeUZyYVV5T0Z1QlVGbDkzdi1jVFRKRVpva2xTbjFwQWhoQUhmb0RFek0xM3cwUWpXWWgtNTVNLUJZU05zZzlreUZocFR0c3dsVXRXUVVQdWJnYXV3ekg3S0Z6dmFlbjBpTzNMVVlyUDdtcGYwd2VoZC0tUmJMSF9oWGhyUXloUTloMGc0WXRPckY1VUNwT2tnSFNhNDRCM1Vma1JoNmZ3bUpHSkxxcWp6MkJxem9rYU5mYk96SW5vNXd3MWpDd3JrZlhxWS04a0p0MlY2MVJLSVJGVzJJOXZOd3l3UEZtSUxxQ3NxMGlzeXl0YUF6RjZlRQ?oc=5",
-      "summary": "Yuri Alberto é punido com dois jogos de suspensão pelo STJD e desfalca Corinthians contra Botafogo e Atlético-MG ESPN Brasil",
-      "date": "2026-11-09T15:56:00+00:00",
-      "image": ""
-    },
-    {
       "title": "Bastidores: como Palmeiras contornou 'crise' entre Gustavo Gomez e PM após bate-boca quente em São Januário - ESPN Brasil",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdmVoNmZESFZqX29aS2FQQnRxNkprWWpVSk9LQ3M4Q2NDYUxPbnpic3c3b0NJQTlfeFNtR2xQLVQyMnRKNDZrTjNkbTZUM3NMYThKbFFmSlUwVUZUeFBiZ2EtV3JkZGVvUmhtVk16eEl4cGQ0b3F3dTA4WG5jak8tRDlsZkxXRkoyLW9yMFNNQ0dKcXRnZ1dVWmRjN3VwdE95Zmg4bjBucTZIRUpSdDVZNWVqM3BmVG12QzdWaXk4Y2xkdGpjbVkyaHVSNE1WMnBPWjNET2JEVU9ZWW1hWHR1Rg?oc=5",
       "summary": "Bastidores: como Palmeiras contornou 'crise' entre Gustavo Gomez e PM após bate-boca quente em São Januário ESPN Brasil",
@@ -265,13 +279,6 @@
       "image": ""
     },
     {
-      "title": "Justiça dá 15 dias para o Santos quitar calote de R$ 200 mil em hotel e comida em Buenos Aires - ESPN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOb3VpUURHaWhtdUlQNFdhR01hVGtjV1VKWWt2OVRVVjZCVUh1U25nWWRIWTJ2Y20wdHc1d3VZajdtTVl6NFppaHRtdWRWMjRlRFRUU0d6aTE0RWZfUVBTT05VcWxuWmJFWU9ZV2lSYTlwazNPRklzNWk3M1lCSzYwZTBmZ21aSmlWcXJObUJuNHYzME1HZjB1S25ISXBPekwwRHF4VUJkOFI3VEpMMEhOZEEyNUpsc0NmRUx6LUpocXhYbTY4X0wzeW1KYkxWRG40OXFmYw?oc=5",
-      "summary": "Justiça dá 15 dias para o Santos quitar calote de R$ 200 mil em hotel e comida em Buenos Aires ESPN Brasil",
-      "date": "2026-11-10T14:03:00+00:00",
-      "image": ""
-    },
-    {
       "title": "Endrick faz mistério sobre futuro no Real, mas diz como 'fator Mourinho' pesa em decisão: 'Me doo ainda mais' - ESPN Brasil",
       "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQQmdLOG1yLW83OTllaGNtbnNnVTNxOFFtZVRCdXNSdVMtMHNmS3hxVXl6UFNGYktraGF2T1c1UEczdHhteDEzTlRONkdqOFV1UG1LTEJySFhRek8xajYxdnZJR1JrUDdnbFp0Vl8wNklGdng0aVp0anhOTzdHLWdrbDVERWhWMWRzYlhhUHQtWERpUDZnemtNOTNTUlNmV0xKR2F1dE9RUFJId3BrRXJic1RlTGpFTFJnd2NlaVRPRVVudDRFLWNpN2RFYWxPWFFERFV6Ylh4Qk5GN1hRbm9vc0o2NHd2SjNWb2ZfWlpqdFhzT3hrd1VSRi1SUUU4OXhjeVJNc212SjI5ZWc?oc=5",
       "summary": "Endrick faz mistério sobre futuro no Real, mas diz como 'fator Mourinho' pesa em decisão: 'Me doo ainda mais' ESPN Brasil",
@@ -279,45 +286,38 @@
       "image": ""
     },
     {
+      "title": "Intervenção judicial no Corinthians: o que significa e o que muda no clube se pedido do MP-SP for atendido pela Justiça - ESPN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOOGlMeWFYOXU5ak4wV0IxYmU4UnRPLVhJeXRjNkxGSDRLRVRUMlVoQ0ZqbHlNT0libXoxOEp4dU5TMmNBTnA5RnlYYjRrdjNadHkxT3NvUzE0QzZUNDNXOUUwTGRfYkxydnZhNzJMcllfcGIyNS1IRXF1VERlQXJXYW9lT1ZlRjJCRk93My03U0RKWlFIRjZRTHc2REhkRFFSRm55RjhXNDU0OVhfTnVQdEx2RjdRcXNmNThvVkFkQktScnlZcW1ILXRSY3kwUmVacVM2bzJ0eUFZeUxTekR1V1ZQUm53M2w3WXVIRWNOVXlZNzNxN3l1Y3l0WFdoS1Y2WF9EcGNOU3MtYnBORWVIYQ?oc=5",
+      "summary": "Intervenção judicial no Corinthians: o que significa e o que muda no clube se pedido do MP-SP for atendido pela Justiça ESPN Brasil",
+      "date": "2026-11-10T18:45:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Por que postura mais rígida do STJD pode complicar Corinthians em recurso após suspensão de Yuri Alberto - ESPN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNLVAwcERMd2pHNWdKcVpiUDR2OGpZdDFsT1VjYXBZVl9aUFVpQ3h2LXhNYmRoNXRUMGhzSWU5OU10LXR5ZDJuUUxaV0RFS3BBb3FxdGNSVXVsX25wbnFiNVFRdVhscVBxSzhRbEZzcDRKb1BLWVk5SmR0TnZfMUc0VTJ5XzBRczBHVTBBS0M1ZnNUdkY5eE81S2pqLVZwZnpoOWJ5Y2V3MkxPMEgwc1V0TF80QTNTVnJRNGxtc2pDUFdQRVNyMkxkbW1NSTJreDktTmR3eWtGYzluRjdTOHZVWjNiTnFFX2xaREJJZnF3?oc=5",
+      "summary": "Por que postura mais rígida do STJD pode complicar Corinthians em recurso após suspensão de Yuri Alberto ESPN Brasil",
+      "date": "2026-11-10T09:00:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "República Tcheca x Espanha: onde assistir ao vivo, horário, palpite e prováveis escalações do jogo da Nations League - ESPN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQNFcyaHNOZ3hoQ1ZpWFNZN2x3MDA4SjRjbHRIMWFKYmVEa3ROb1BFcGVpT3NLcGhjTjdPd3BtUlJKQ3ZrWXJrZGJRUXVYMmxrOXdKdnNrdTQ4YzNTR094dklWSWU5dmF2XzJCbGtJb2VoV3FqUW1tS0o3cHRpU0V4MnRCM0FDOG5QcHZBYzRVem14Z29jODdtbzMyLWNva0pUYkhMVUNDY2ttUWRuajRXclNralZpQXU4WGNQWWpPTUJpVnkwX1N0cjJlYmlkbHlYUzVkRWZJWmtEMzlFN1Y1UGRKX2tlSXNXejhzSFpHMA?oc=5",
+      "summary": "República Tcheca x Espanha: onde assistir ao vivo, horário, palpite e prováveis escalações do jogo da Nations League ESPN Brasil",
+      "date": "2026-11-10T22:33:21+00:00",
+      "image": ""
+    },
+    {
+      "title": "Itália x França: onde assistir ao vivo, horário, palpite e prováveis escalações do jogo da Nations League - ESPN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNM3RDMnBYVFdZSlBQMTZWWDNyNllkSVdQRWJhTmIxckhiNF8tUHpOOFlHbWxIenVXTklXZmY1NkpkUHNEQlFsZ2pnRy1yLU5QR2hoVGY0SDZUWDlUVXJ3TkpUTkdZZmc0NkRBVzNRU3hsSjZIS01veWhKMjZSSTg2UC00WUc2S0w0LVdodzVrdGg1N3VaTUpYY0l1VWtWWDhMRWViVFh1dzhBVkdaNDVkRTVCMldGUXE0R1BSSzZlekUwa3JWVktDNUVYejJwNU96blFjamxTdFlHZDhwN1UxcA?oc=5",
+      "summary": "Itália x França: onde assistir ao vivo, horário, palpite e prováveis escalações do jogo da Nations League ESPN Brasil",
+      "date": "2026-11-10T22:28:51+00:00",
+      "image": ""
+    },
+    {
       "title": "Palmeiras e Abel tiveram reuniões com seleções por convocáveis - ESPN Brasil",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQYU5Ca1gtLThIT2VhODhUNWJUZVc2QVZLQmNEakpqbWJtckZTN28xd1kwSkdOZEIyaVlkTWF6S3hlZTFncWlieFRnSEtRTV9IYlZucVRieVB3VC1IZDRORzZ2UjM1XzJVTEpqYWYtTkNOcE8zV0dpSE1Xc1dZTTR0M1hYNm0tcFhrOFVnWmRCeDlydVJtQWI4b0ZKTGp4XzhQLW9iQU81SkNvazdENUFKenktZ19hUW4yMlBDajFteERYSlRhTV9ydl81UVF4VWU3YUJlWmNUbnRDemZHNVRpOUJDc0ZGbjJXWTJLbVdfbU5UT0k?oc=5",
       "summary": "Palmeiras e Abel tiveram reuniões com seleções por convocáveis ESPN Brasil",
       "date": "2026-11-09T18:58:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Novo CEO do Santos, Neymar Pai indica 'caminho' para renovação do craque para 2027: 'Preciso deixar ele feliz' - ESPN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPODQwazR3UHpOU2hyRHNlSTdLQXl1Vy1MUXNtVHMwVW41UjFKY2l2djlWRlZiYzk1QTNUYVllWXlIOGp1VDFCV3dCdlpNZ1ZVVVZiTUNSVFU0Q04xWkk0c05CQ3ZnNEZtcm1mOHFtSDVVU1UyZTJvcVBkSURIS2NYRnhNZUxwLWJxN2pwN3pNQkpnczJEdUlmdlppYWRyY1VROFpiMkNOQQ?oc=5",
-      "summary": "Novo CEO do Santos, Neymar Pai indica 'caminho' para renovação do craque para 2027: 'Preciso deixar ele feliz' ESPN Brasil",
-      "date": "2026-11-09T13:50:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Dirigentes do Manchester United marcam encontro com dono para discutir futuro de Carrick - ESPN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdTU2WG9XMFlqMmNyT2gtOWxGRmY5cUJhX3FBeWYxRWktaUhhalFuN3pZUVg3b3hsT0dhNFFrbHdxaW1iX0hMWWo3MWdMR2ZoTjZUekZZLWZhY1JJeWsxelhVRmxSOTlnUEpMOWRvV20ydlBwaGl4VHQtbUR4aGtobkFzcGJkZFpkTGJ0WnpJM1RZYjJGdFdoX3lrZE5pQnZSNFVyRTl2NlQ3OC1VODJGWThUS0xMbUlaVDl4VktLZmx2RUF4SjRr?oc=5",
-      "summary": "Dirigentes do Manchester United marcam encontro com dono para discutir futuro de Carrick ESPN Brasil",
-      "date": "2026-11-10T14:10:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Ídolo do Bayern de Munique detona declaração de presidente sobre doença de Musiala - ESPN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVlR5eDN2YUhXOWlLLWozVkZqNTBfRnR4dWN3cjg1TWdtdW9HV25ma0U4eG9VUDM5dUZzVXlOazVkWUhEWGk1TUlza0IzNWp2TVBycmRiaUh2dzNvQnpDRTVvVFRZOHVtaFB6WWM3aG55N2s3c2JTUDdsZkVtSGh3cXJWbmJXWG1rdjF3eTJqY0NvR2NrWm9BZHdXYzNCM0VsMzlaNVdKaWUzQzNWeGFLbGJTcw?oc=5",
-      "summary": "Ídolo do Bayern de Munique detona declaração de presidente sobre doença de Musiala ESPN Brasil",
-      "date": "2026-11-10T14:59:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Ceará revive pesadelo de 2025 e pode ser rebaixado para a Série C em cenário inacreditável - ESPN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaDJ6Rnp2OFFaUTFNVkt5UUEtM0FMT1hScmdWbmo5bDItUVQwa1FGaFgtMjE3Y3NSQ3B0LThfSUZkem5LbG5ZS3RNdEN5S21pYTRGWUV1X0ZQd1NmWThzaVR5UXVURXRqcW9vWE03Y3BON3h3V1BiRG8wUGlpRWN6VFJ3RkxCYnF1R2JYQXdXeExRX0pHX295emc3TmRjV2paM1dsTjl1YlNvUQ?oc=5",
-      "summary": "Ceará revive pesadelo de 2025 e pode ser rebaixado para a Série C em cenário inacreditável ESPN Brasil",
-      "date": "2026-11-10T07:00:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Sem Marta e Kerolin, Arthur Elias convoca Seleção Brasileira feminina com quatro novidades - ESPN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcDhFcXlGd29iVUNCN3BuZFlkNlgyZ3IxOHF4R1RpTVJWeXI3elZVLW5fUmdLMVZIeW1NeGdUQU5nTlV3R3BOQUdwVlcwRDZtaG45d3hUODBfeV84UFhHeFROQ19PU19DTi1OWEVYQktKRGRJRkd3WHY1akowN3lUZHl3NEdVaWJKUnhCeExpRFB4amQ3RHlZUk52Y2c0aFptdTk2b1d4SXdzS2dFMHVhRHRqTVZFMWZHdjZwaHZTUjBxUXQzNFhER0NiZVQxNlJ2R2c?oc=5",
-      "summary": "Sem Marta e Kerolin, Arthur Elias convoca Seleção Brasileira feminina com quatro novidades ESPN Brasil",
-      "date": "2026-11-10T19:18:13+00:00",
       "image": ""
     }
   ],
@@ -337,20 +337,6 @@
       "image": ""
     },
     {
-      "title": "Bancada do Redação sportv relembra as lesões de Raphinha nas últimas convocações - ge",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPTmVKbkNZaWlEMHBhSXVYZXRxbnFnSElpY2lNUWxOdXlYczVmRTJjWG9URlZtejExZGVRalBzdnJXRUYwNjBvaUNBSmJsOW5fZGJMd3RNSTIzZU5FZUdVdjNQWXlDbXFkRW44Nk8zSUhLM3VvRDhHdzdYSjMwcGNYMThTVGl4Wk84TEUwbVcyVmF0enFYMVJqRlR4SkpCcC1TVUhaSERJR1A4YjdxX0RxcmRyX2toQk5RcGdSSHRYV2x6V3pTNl82MDFCVHVBZzNRZUdqTWdpLWtGRFVzWlJTREtCdkpQa2xRNEHSAfgBQVVfeXFMUGU2aEs3ZHpCN1BOczdhQXA0RkZ4TDcwVTBFYUgtQmtwQTVweXNBSGhBWjc1LV96bVBVdF9EMEE1Qkt1WVFyZUxrVTh3SmYyMWpfQVBiLS1COXpxSlNrSG1BZjFlSTRpcDZ2Z2ZzZVF5eFZJMkZDVXR0RzFJd0RYa0FTOWc1MHVqdUdseW14emxPSVJmY0lScEt2MWs1MFlPblE0bkF5ek1TekEtdzZEUndyNURtNW5seFBqWmRNWUhfcmVtaDVZdHNSQ3N0X1ZNYU1MY0tzVXJIZkxDZWwxWkgxX1d4MDQyN0xudU5SYWt3Z045V25pdTI?oc=5",
-      "summary": "Bancada do Redação sportv relembra as lesões de Raphinha nas últimas convocações ge",
-      "date": "2026-11-10T14:46:28+00:00",
-      "image": ""
-    },
-    {
-      "title": "Mari Pereira analisa o momento do Palmeiras na temporada! - ge",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORFl5WlVkM0RVdXAzWVNnM1lhVzV0SUZGS0p4TXhJN0UzbjR5VEJWWjVnNmVfOWF3ZDZJRDUwLTdCRmIzN2pvcVlHN0dHMVQyX2h6QzVDVVdtWHlRcFpqNjVrY2wxREJqdXJlU0NFSlBadnA0c1RlVVl4UVVaZ3VaeU5HZEpvX2Y5aFVaWkhvRDhOVXQ5M084SlhzdlJmZjlrc3h2RFBBdFRNSlFLTXVDT1AzeHBUQmFUOTB2aTVEYnAtTXlUaUczUW1n0gHYAUFVX3lxTE4tSDk3ekR0X0szVnhvc0w0R3daQ3Q4dWZ6UVkteDhCZmZHY1h4Z1hLckxSVXJvZkp5dWNNU1ZZVUZqQmZKeDJzdy00eXVMRmRTSm9aUUpLRkZDR3JUam5Jamlmd1BhcG9wZEV4eFN2d1dJNHR0b05URmNmTkVGWEMwUHlreUtvY0h4aHZJOG9jZVJNQkRQbzkzYXh3a3ZxZUN0UVRiSko1VUdDcVBoNUNlbG5sQ3Npal9Qa1JqZTZBbEEwSHZWZURqYlAyQW4tY1RYbzZaOGxyMQ?oc=5",
-      "summary": "Mari Pereira analisa o momento do Palmeiras na temporada! ge",
-      "date": "2026-11-06T15:29:19+00:00",
-      "image": ""
-    },
-    {
       "title": "Arthur Elias comenta retorno de Ary Borges: \"Muito técnica, liderança muito positiva\" - ge",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZWZGd2NuanBWNy1mY2o2ZVJjOTFoYmE1cTNCcV8xSERvNzhVOXdTWVdOVk9LWnc2aVhsQUdUTUZCRWIyak85by1fcTMya2Q0ZTlKRGRmNTdsbF9lNVp0UUpqZFJGTy01c0tNbEhWVERfU2pGVU9kV1lWNDN3RGo1cUpUeUpQLUZsYjh6YjdrUDd5YWtiTC1FNEdhbDBlUEdqMWE5dFBVQVl5UXZUUTgwdFozMUNzdE45dm5xdWlvc0xpLUhpdEZpZFRQNkMxZ1l4b1ZrbnRaM1YyNURVV05VbU0zRHZPOGpFa3JF0gH6AUFVX3lxTE9USkRQLUJoR1kzVHpaUjVZNVpCU0gxRTZlVkZsMFdsbFNBY2VTdklGWmVWZ1BNc1l2V3NTTUhrcjFwVU13cTlGR1Qyb19HRDc1a2J2ZUJsR0hIVUQwOWRlZW1hT3BidzdOTTRlaVhvUXYzVWF4VWpOMkhOcTJpLTFsc3E0OFhvMEM0bnVxQUlFN0lNZUY1OG92ZG9YeWhMZEdPc0huelRsNkpRX3Itdjl0WGltZ01MVGxFWC1SRlA1ZmpfbFloZXNjMmo1aWVTekN5dHVQRmx6N1VFOXNGdVkyRkNPLV9LMWQtaFVoRjZ2Q0xGMUliX1lZWkE?oc=5",
       "summary": "Arthur Elias comenta retorno de Ary Borges: \"Muito técnica, liderança muito positiva\" ge",
@@ -358,10 +344,31 @@
       "image": ""
     },
     {
-      "title": "Veja a convocação da Seleção Brasileira feminina para os amistosos contra o Japão - ge",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPc0Rnd19DbUJuZGRqalB5TnhKbVdpbEJSMHFiY2ZRbmpYY0ctWm5rU05sZ0k4MWo1ZnZoZ3B0QnBRbjNXODVxc0t0SlFpRUZ5c0ZDUUljUUJ3OWNDYWZiN09vZHpNZmVpQl9uQ2dRUW5FSDlGSGJGYkwxWjJPVW9DTElLS3J4ZEI4TVNfUEk2MzlROTBXSXc2aUxwbWVHM2x3SHZjM1MxazJ1SG95UTVkYWhibkFhN3Vfd3QwRnBMaDN6ZFVqZUc2bjVlS1R0NkFfYU01eTlJSGZHaGlJSGh3dzBPQk14b0ZuTDUw0gH6AUFVX3lxTE5vRkZlVTBUbWtNb19qdVJfdEg2YmdfOVA3SmxZcFRYaUptU2lhaTliRWcxU25CUk9DVGM2QlhlbFk4VTg4LW5xNVpyRW1WZ3lZbmpFRFpvQjFsb2w2ZFRnaUZ6NHdKTENGUWRPSVI1V1c4QlNMTE04U1dYOEhaaDVhbVJiVDdBQUxSYzItZ1JIeGRLbUJBVTN2LWZrVEJ6alZ2MDMycF9NTW1HMUJSYmZMbUg1OUlrb2VpcElCOU5zU3BFOElxUXdkOWpnQS0wYXlseUNKN0V4bHJkblJXamhYaHhfdDQ3cmRlMnAyOFBzaWhKdHZULXFFd0E?oc=5",
-      "summary": "Veja a convocação da Seleção Brasileira feminina para os amistosos contra o Japão ge",
-      "date": "2026-11-10T18:17:39+00:00",
+      "title": "Bancada do Redação sportv relembra as lesões de Raphinha nas últimas convocações - ge",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPTmVKbkNZaWlEMHBhSXVYZXRxbnFnSElpY2lNUWxOdXlYczVmRTJjWG9URlZtejExZGVRalBzdnJXRUYwNjBvaUNBSmJsOW5fZGJMd3RNSTIzZU5FZUdVdjNQWXlDbXFkRW44Nk8zSUhLM3VvRDhHdzdYSjMwcGNYMThTVGl4Wk84TEUwbVcyVmF0enFYMVJqRlR4SkpCcC1TVUhaSERJR1A4YjdxX0RxcmRyX2toQk5RcGdSSHRYV2x6V3pTNl82MDFCVHVBZzNRZUdqTWdpLWtGRFVzWlJTREtCdkpQa2xRNEHSAfgBQVVfeXFMUGU2aEs3ZHpCN1BOczdhQXA0RkZ4TDcwVTBFYUgtQmtwQTVweXNBSGhBWjc1LV96bVBVdF9EMEE1Qkt1WVFyZUxrVTh3SmYyMWpfQVBiLS1COXpxSlNrSG1BZjFlSTRpcDZ2Z2ZzZVF5eFZJMkZDVXR0RzFJd0RYa0FTOWc1MHVqdUdseW14emxPSVJmY0lScEt2MWs1MFlPblE0bkF5ek1TekEtdzZEUndyNURtNW5seFBqWmRNWUhfcmVtaDVZdHNSQ3N0X1ZNYU1MY0tzVXJIZkxDZWwxWkgxX1d4MDQyN0xudU5SYWt3Z045V25pdTI?oc=5",
+      "summary": "Bancada do Redação sportv relembra as lesões de Raphinha nas últimas convocações ge",
+      "date": "2026-11-10T14:46:28+00:00",
+      "image": ""
+    },
+    {
+      "title": "Vitor Chicarolli fala sobre bastidores do Corinthians - ge",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNXZEQnNOUG5naXRCQnByNGVPTVNQNWtFOGZfcXU5akVRWjdHdE54aVQyUXlxNDBybkcyclVNVVo3cnl5Q0pLYmlHQU5oeWF0UkZLc0M3d1F2Vmg1VkpoVTVOMGRTb1U5c1c3dldSbU1LYUpDYzBjWmtuNDl3OWpMdkRNNnNkelBneUJrWFM0a21iSlR5R1JHT3VVZTZQR25HRFVWbjRYMkdwX3AtaThWOU9qdDNJSDhaQ21qN2p2MEliMnNVd1HSAdQBQVVfeXFMTTdlS3pXT2FwNGFkQS1LRFZzVXpJTHZyRDkzNEE0dVRoSW1rWkFuLWNUQkowYTR4T1U1UlVPUEFsMjRxa3hrSGo1eEJSLWZkQWJIOXV2MnBhSXV0MGZ0QmJJTzlFdUdQVk9RVTN6N1BFTzMycnlURE4zS1VaNlFtaUU1dFRZS3VoRUFUZUVpU0M3YUNBZktkNHYwd1NWcW1ZbjFQLWNWNHdBVFRwWURRdTVsbXQyZWFsN3lQRmhqTDZOb1BVZGYzVGduT3VaYXBzd3d1eUY?oc=5",
+      "summary": "Vitor Chicarolli fala sobre bastidores do Corinthians ge",
+      "date": "2026-11-10T19:51:03+00:00",
+      "image": ""
+    },
+    {
+      "title": "Felipe Bastos: 'A fala do Raphinha mostra total desinteresse pela seleção brasileira' - ge",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOb1lnYThWODBrQWQ5TTRDMVlwRWJ2UzhjTFJlX0Jzc0RzRzNNUExEQnFOcE5WalZROWxEcllpTFQ1M1BOQk5JeFN6N1JwMnV0dUM1anpWRXdfRWFpTkZZdXlSTnBsdl92MDNNdng4NnlCWjBUTDFxaDZXTjVqUHl5eGVlRUs1YjdfYTBuU0VzazNqSExNSWFackhkOEkxenNfc2l5TVU0QUpoZnZSeEN2T2tOUl9NTDFoNlB5WnAyUldyNHNsbk5IUFRCMnBGX1BQNnlsNnk2RzI5ZS1qUDhGV1lUYXg4dUg2U0lpX9IB-wFBVV95cUxOTi1jZkQzSGI0NUpiQUVKdDJkdU1wUE5QY0liMjRBUmkzbko5Uy1VemxfVV9EeU85VlRXbkp3R3dVRlNhbm4zME14TVN4bmpzRnpVSUthMTdDcm1sV0w1UktjSDRJM09MbWNmeGxNZllNS0sxeHVmUmV3OTJBWF9yWExhMU1GZUJxdHZqM2ZTNzByMjVDdm9KS2pxNHhfbi1meFBhTEFJakY5VWVBNTU0TTBHbzU2TnFjQVExekxVOXF1X1ZXX09HdzJHWXlRVF9nd0VKYVh0eEw1M1g4aGE4WnMzZ3gxSGtlU0VoUUpacG1DalppSDAxNFVkYw?oc=5",
+      "summary": "Felipe Bastos: 'A fala do Raphinha mostra total desinteresse pela seleção brasileira' ge",
+      "date": "2026-11-10T20:40:45+00:00",
+      "image": ""
+    },
+    {
+      "title": "Arthur Elias lamenta a lesão de Kerolin e destaca chance para outras atletas - ge",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUHV0WnMwYmI2N0F2bWJtdXdBNzk2RFVnbC10VC1GaXpkcEZ3dzNFaHdVNzBzQ0ttNHVHWGZlbmItcUt4d2RsbUJxRFo5X1JGWklVVzFNOXlwZFJHdTcxa0ZPQXlZTEF2dzBBamlwdWVJVEhZSVAySUNpM2pxR1BWRFEwdW9EWS1ITkhia0d6Z3RzNWpnWG5mdU1zMkNZSXZ4SHFqb2g4d1JmSmF1OHpJamlCU2duMzVnRVNkVGZ4eW10SndIQ2JLdGhxUUJBSkVqMVBaOEtXczZTY05WcTZaNjRyUEXSAfMBQVVfeXFMUERPampDUE44NDBLMzU5eTcyV0k5WTRBQjkzVnpidUxhdTVtc2NiZEprcTFQX2JQZEpXLXhRUXhMVFRiYU5NM0UzaVBaUXJJNWozak1DN2JmVFgtbzJiVGpTTG5Tay12V1VwQXllU1I1M29hVzFPbGFrVHAxVDZtWjRpeHhFaHdqUWxXZFBDSmphbGZFMFdweUhkMG0zd0diUVpDYmEycWNiUGp5a1BsUDZEQ2Z1WExjSDFQYlB4U3RxQmlibHgxaWI5eVEwZ3VvMUVMcVRnX2w4akMzR24wb0thUGNEaHMxRlpMN0w0d1VobnJB?oc=5",
+      "summary": "Arthur Elias lamenta a lesão de Kerolin e destaca chance para outras atletas ge",
+      "date": "2026-11-10T18:46:58+00:00",
       "image": ""
     },
     {
@@ -369,20 +376,6 @@
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPb0x3ZzNQaE5lWEVlTmZuekxEUnd5bGd3MmhaQ0RycDJscVNDVEdfdzYybE1WdXFNRG9WMWxxRFNjTllVa3Z1Y2d3TkJ1Z09YUWhEcTRaMm1yTXNJWVpvbUJWU2dWZ1lHUnVIQmxCSXFKR2JwcW5Ic3ExR2R5WkpwM2VaOUVtT2ZHeGR0aE4zdHRDdHpVVWtfbHJ5SlVSdTVlcm9ZN2JOeXB4SV9jQm5EMUtCVnI2WW5Ea3VOTDlNZ3JtR2NGcEVuQk9aMDcxZVJHUDMwZXNlbHNEd1BzaWh0SUhWa9IB8gFBVV95cUxQdld2cnBzRmppcWh0RmNhOGRlcnNHYXRtMEkya29UOTN5S0llMVVfQ25uZTJqeTNpc3JmN2lDYXhQcThwZzlUeHFYSFlveWtndkRFcDVCdUItOEVPUWYtZkl4UWFWaG1Cc1d3ZEVOd2tkSmJrOWNYbWNqTjZFY1JMcXNVVUc0R2RCUGFFM2ZwNWFpZDJKSklVYVFqTndoRVBXU0pSRWJrR0lTcDZLNkZ4ak94WkYtSjVGWjVXV21UV0FrSzJPVEkwZUtDMGxBVHRjRllSTEd2V0Z2aF9zYmJPY3NjS2ltRzRvSVF6TjZrT2QxQQ?oc=5",
       "summary": "Redação SporTV analisa erros do Atlético-MG em eliminação na Copa do Brasil ge",
       "date": "2026-11-09T14:34:02+00:00",
-      "image": ""
-    },
-    {
-      "title": "Redação sportv opina que Gabriel Pereira deveria ter sido expulso em entrada em Arias - ge",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQUllmVmlwY0pJMGl2RXZIQU5jZXk2ZWN3MWthdWFNXzJjZmNjRm1idmZ5eVZpU2ZjaWs5Tk9CdTRjbjhhb1FrNXZYU1I0Tnhaem5UUWVPX0E3eW1VN21DcVNMS0VBNDk3SjlHM2R4a2JmOW1ILXZCU0dnLV9HejNQQTVId1ZycHI3TGRORXYzRDE0VlJESGlrV2dGVE9IZVBfQ0xnU24wXzA4eVljMXlVejVObHo0SlpjVEpjYm5kZHdLa0N4ZENFUEJCWU1rc1BOUEJuc1pTUWRpMi1JZFJ5ZGY1aWNvV3lXM240cEpxNFXSAf8BQVVfeXFMUC1tWnpWeVN0OVJ4ZU9nQW13d2pUejhYRzFTdlV5bzFDZndIaWhDeVhhdUFUY3RFXy1VbnhjWmFRdWMxeDdSbGl6ajlKWnNzeTFJWUtrU0swWjJFNzg1bTFlYWtVZzJTOTR5dWE4Rlp4QUhGUVg4WnZtWEpfUGI3aThYQkNXa3MyRWkzb2FtYmhCNFFFWTZvd1JlQkw0XzdhVjM3LTdvX09rRkZscmxFbmNaWDBHMGxTdFNtQ19NRkVnOU5GTmlIQWhkbC1KMHVCZGZtMzJZVG1DYzRoQWdqaHhTMmczVTBKQ05qQm9nZGRWVWNMUjBsNENtUWwwZDJR?oc=5",
-      "summary": "Redação sportv opina que Gabriel Pereira deveria ter sido expulso em entrada em Arias ge",
-      "date": "2026-11-09T14:58:09+00:00",
-      "image": ""
-    },
-    {
-      "title": "Redação sportv debate fala de Abel Ferreira depois da classificação do Palmeiras - ge",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPVi1aZmJFdTFlNjRHOUY4dTNOSW54MndFZHFDX3VVbVU2UTdSOU96cE5uZTVpaU5mSjdWeVVIOWlOZTBnNkljaW9VelhpNjh5RWhvejJ2VmVXNnNrVnBDeW0tQVRxenlKcUtsLTl4QjdpRUpZWEcyRHFrRkRGdk9vQVk4eDZEVzJrR0pTYmtpOXhpSmV6ckhXcjBlMW9ZeXI5NnlrbGxtUUp3NXpqYmMydG9NVXFsU090Qkd0ekh6SU92RFdaelNGdzczUnUtcmVrdjFnUHVubEZ0REd1Y2NqMjF5ZWo0OHZEcnfSAfgBQVVfeXFMTW5XT1lPMHBtN0dtSGMyTzVuR1Jma1lvQ09hMnVPeWxvRnN4aFY0ZjdCbU9qQ0VfdEY3X0dFQ18yN0tRb2daQk1mempLZXBLaHc2Wi1RRUVXOUdJYVNJWjhrcklYYzluSTZLdkNGbDRBQjd2ekh6UlFrZFVqa21ONjB2NzNNWHN4c2QwQS1nMjVOdFVvQnhnQ0VYUlN0WFIwbHNUeW41T0FkMFowZ2t4UURVNklRZ1hUbmFlNElzOExOUGtOM1VaRTdJUjVHWG1tdW9DcGl6T3RyWG1JdVpZNFlqUlh1VnVIQUpUNEtYaE4wdWd4RzNzc3g?oc=5",
-      "summary": "Redação sportv debate fala de Abel Ferreira depois da classificação do Palmeiras ge",
-      "date": "2026-11-09T14:15:54+00:00",
       "image": ""
     },
     {
@@ -421,19 +414,47 @@
       "image": ""
     },
     {
-      "title": "Redação sportv analisa vitória do Cruzeiro sobre o Bahia - ge",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQ0xoMF9sU0QtN0JzZ2pKZUUycWlvVG5tS0p0NGFUdjJKbVdsR1VPQmZvYzRxOTdvdHVqOTluQ0s4c2g4ZGZkZXNtNzRfcm05STFoSXRsOTNlYndOSk56SkFGN1BZWURzdzBndVJHeWQxX3NQWGZNbzZ5VFREb3hIWlR1MVhyRldvZU53Nl9nZjdqdnRrRXN6dHViV2ZmUFZqYUo5TjJEbUlBSVBOai1UNVFjX2IxajJ0ak9scWtGamZOSUUwcnhYYmtR0gHYAUFVX3lxTE1LMndQYWVyS2dwOFZSaE9URVFQcHBhR0N3OTc4dVBrU2phSlBoZHpqUGZQSENIX2ZMV2ZSb3Ywb0VZY3NTQTVmRFZ3VXl4aDM4OHpVczljdF9IN2lSeEk4eFdhZWZPSkdNVjVXSnZSaFJMSmlpSkQ2WEJ1amFXNUhXSkZJUDdYbGlud1I0cEdIVFlKcllSZThPSDZ4MDNwb01reWF1ZXJfcmxnQWQ4QkRUQUhFamFCYm5vd2VNeGVvaDB0M2k1dldvT3g5X09Nb3JuT3RYZzNpbg?oc=5",
-      "summary": "Redação sportv analisa vitória do Cruzeiro sobre o Bahia ge",
-      "date": "2026-11-06T14:15:11+00:00",
+      "title": "Mari Pereira analisa o momento do Palmeiras na temporada! - ge",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORFl5WlVkM0RVdXAzWVNnM1lhVzV0SUZGS0p4TXhJN0UzbjR5VEJWWjVnNmVfOWF3ZDZJRDUwLTdCRmIzN2pvcVlHN0dHMVQyX2h6QzVDVVdtWHlRcFpqNjVrY2wxREJqdXJlU0NFSlBadnA0c1RlVVl4UVVaZ3VaeU5HZEpvX2Y5aFVaWkhvRDhOVXQ5M084SlhzdlJmZjlrc3h2RFBBdFRNSlFLTXVDT1AzeHBUQmFUOTB2aTVEYnAtTXlUaUczUW1n0gHYAUFVX3lxTE4tSDk3ekR0X0szVnhvc0w0R3daQ3Q4dWZ6UVkteDhCZmZHY1h4Z1hLckxSVXJvZkp5dWNNU1ZZVUZqQmZKeDJzdy00eXVMRmRTSm9aUUpLRkZDR3JUam5Jamlmd1BhcG9wZEV4eFN2d1dJNHR0b05URmNmTkVGWEMwUHlreUtvY0h4aHZJOG9jZVJNQkRQbzkzYXh3a3ZxZUN0UVRiSko1VUdDcVBoNUNlbG5sQ3Npal9Qa1JqZTZBbEEwSHZWZURqYlAyQW4tY1RYbzZaOGxyMQ?oc=5",
+      "summary": "Mari Pereira analisa o momento do Palmeiras na temporada! ge",
+      "date": "2026-11-06T15:29:19+00:00",
+      "image": ""
+    },
+    {
+      "title": "Belle, sobre vitória do Fla: “Concordo com o Coutinho, ontem foi jogo-treino” - ge",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQd1NTY1BTMmpfTkZKUWJlenp6S3RhcFAzWmJMZVNkQmVJM0hET01VOEJETTZkRFJ2MlhvaTZ0X1N2U2k4ZWpGV216YlRnS1NLNGt1cG9VN09kRlFia3J0eFBNY3pWMklRbDdzTGVMSkpmdmxHbG1CUGhXdFFWbE9jbGlNUXBUVEdDX1BBQzZ4WGk3VWZHXzF3M3poa3ZQQ0F1cGFtUE5ZS09ocHB1cjJnNzRhWFlNUDMtOGtSMmItdVIxSWNYNWJralNrVGM4Zk45Q3N0aUVPdy1VWVhxSno40gHuAUFVX3lxTE9iaWFvNEFOQ3hHd2ZWMXE2M3hFeE1vSXRBOXZLVTNUNU0wVUJBYTF0X18tWkNNQ3dOY0RJNmduRmNYWDJUNmtxQzh3VEhYRHhpTHlhb2tORzMwaWd2RU9xMmg4Ul9vZjE1OXd0eGhfdTNtemp6djhfZ3JxNmQxaEpZbUlWbnpHZ25KS1NuZEVCamg0QTlQLTJHYVBYdnJnUWVKVnI4c0JGcHJacG9TQXFJYkVnU3ZvZ25RRjdITnVLb1VIeE9zODYyLVZtaE5iNHBBdndfM1cxeE9LQ0dVVFNqTG5MS2YxZGREVU9ZUkE?oc=5",
+      "summary": "Belle, sobre vitória do Fla: “Concordo com o Coutinho, ontem foi jogo-treino” ge",
+      "date": "2026-11-05T20:16:03+00:00",
       "image": ""
     }
   ],
   "palmeiras": [
     {
+      "title": "Campeonato Paulista de 2027 terá clássicos na primeira fase; veja todos os confrontos - ge",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQa1RtX0lCM045UjR6SWx2NnAyOWlnUm1LSkF5NmprdHFaUkdTRWkwV3BfWE9GWHZiS01kcE5lUi1KV0dCeW9mU2xsSHhiZ0Z2cG9VV2Y1OVgwZ0RVS05ZTDBmSDZzWWlEaEhPS0pBbUJmckFoSlpuWWhrUF9wZGFqTFdZNDVxTGlqWEJzcERaa0xjUzU2eTdudnBOM0tOTC0tX3I5ZnhJcERXN2RGZ0FfVFhWa3Y5SWxHZVdMUFZsRm15TVZfOGpTa0JwMk9ibDhGUFZMNThJSkFKb2N4RlppNm1PeWNIS3pramRxM0pfUWxENFXSAYICQVVfeXFMUE4weEpvdVBOWTJwSlAtbVREWDNUMF9tamxaSWtESkkxRnJZRmQxR3N2dmlIekZyUGVPZmhKT1lpYzRwRVVfWlJQLWlFSnE5Ql9Sd3hPMFBuWmNWdHlTeU9OUG0yb25EZ1lCQUtZYVY3V0g2TkdSLUJQRGNGbElmc1pZOTVPZkowbW0yWS1tWmZobWdyOFBNR3A2M1NndkdLcEhVMmNZTExCc3FSckVsTVdoUWJHT3NQb2RDVS1MV2xQdUtkbGhNQXA2Q0RzUUw0WTQxdHcwaTNkWXdZSTBwaGtYTUw5QkdlZ0ZpT0lEWDZjMFRqZzU0NGRabHY3NjU3ZWVn?oc=5",
+      "summary": "Campeonato Paulista de 2027 terá clássicos na primeira fase; veja todos os confrontos ge",
+      "date": "2026-11-10T22:23:35+00:00",
+      "image": ""
+    },
+    {
+      "title": "Paredão: Carlos Miguel, do Palmeiras, ocupa 21% do espaço do gol mesmo parado - ge",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNT2hhWC1ZSGk0S1c3Y0twVHExank4VWt4U1AtelduUlZOQTB1RGpMajBYSFFDSWtSZldsTmZ3Z1VXazlrZUhXdHRTaFNzZ0VDUGRGYUFycHlFT3dsV003em5wbFVqYUlfeHEzWWsydEYxYW8xd0Y3UkpQakx3b01MbjNmWWd6TFphaTJlU0ZIRm9vejlNY01GSDBob3RnOG14Y2dSNlBEazFmYk01bVZwNUVteFlFbFhwampqZ1dVT3FhbUQ4Vkh3bWRGaTFuTHpOeC1KSHA1eEJLZlJsaGRnS3BhNGXSAfMBQVVfeXFMTWpOdGZmYXFVYXZnd1gtdEhUT1ZwUDNMa3pCVzAwVmZ5YXR3NGhyMm16RzlCRXFpZEN5Rlk2STFTOUVSS01pM0c0aDJFUENQMzBuTVJtXzllUmZwN3FYX1ZzZk4yVW05dVQxVDJfSndvOUFiQzU1ZHRPZzdpUlRLdnI0WTdwVEp4RTVJVDRTY0JBOGF0ZmxacjlMU1M0aUl0YWN3U2tOdGE3eElQS0ltMlpwaXVzdXg3U19zS3RDQUlwbnJNOFBJQ2tJblRiU1Zhbl9xaW9IS3FKR0JscU9TSFNSNEtvckFvWXVhUDRkZDlXNURr?oc=5",
+      "summary": "Paredão: Carlos Miguel, do Palmeiras, ocupa 21% do espaço do gol mesmo parado ge",
+      "date": "2026-11-10T18:35:25+00:00",
+      "image": ""
+    },
+    {
       "title": "\"Estão mais calmos?\": a história por trás do meme que virou marca de Leila Pereira no Palmeiras - ge",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxObjUzWjREZlJDc0h2RGoyLXBwaTZYamlqMlBQZks3LUUyQmFkZDNDcW9GMUZ6cDZFaXhrcXFiU05SX1VjaG56dU04YVdBd3loZVYydURTcEFhYkZkaTNjWl9HaV9vMDQ4cEJmb2FwVUk5RGxxZmtCblBfcm1sVVlsWFl4TkwwTi1mTGw2V0pZNWFsVlgzM21fRDRSYWVSMmdqdUtZR3c5bEtQeDRGUmY2bXJZdUJ5MmwzdTktcVIzdUFXOE40VmdBNHN5MUVlYlNKTTNpdm1WLTR4NWdWN3pNSlBMTEZ5dnhyWTQ2Zkplc3hIRTg?oc=5",
       "summary": "\"Estão mais calmos?\": a história por trás do meme que virou marca de Leila Pereira no Palmeiras ge",
       "date": "2026-11-10T14:00:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Palmeiras e Mauricio conversam por renovação de contrato após sondagem do mercado; veja os bastidores - ESPN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQWGR5YmxVSldSN0pSRGVTQTFsWW5wLUNSOEt4cFNCLVhRdG5MZExvMjhuQlBfMGtjRHJtNDZ1Z19COFAxVXJZX0pGcG5DcU9SaThUUXg0SE9mSkYxR09WaWc2aTZ3ZVM4Y0ViZlNNNHFjd3NzYldMUlluR0xkQ2RuWVJ3MXB0d242Qnp4Z24ta19pR0VUTGxLd21TMHRaR1JuUl9oMkZwS29wX0czUkdGb3ViM3c0dFJpcWNUWE1MWFhRcEZEbktURzZvZW9hMkJQbjNMalNWZ1dvM05MZ0NscEYzMmRacEU5NTBxOWMzbEE0ZzI4WGc?oc=5",
+      "summary": "Palmeiras e Mauricio conversam por renovação de contrato após sondagem do mercado; veja os bastidores ESPN Brasil",
+      "date": "2026-11-10T18:45:00+00:00",
       "image": ""
     },
     {
@@ -451,13 +472,6 @@
       "image": ""
     },
     {
-      "title": "Bastidores: como Palmeiras contornou 'crise' entre Gustavo Gomez e PM após bate-boca quente em São Januário - ESPN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdmVoNmZESFZqX29aS2FQQnRxNkprWWpVSk9LQ3M4Q2NDYUxPbnpic3c3b0NJQTlfeFNtR2xQLVQyMnRKNDZrTjNkbTZUM3NMYThKbFFmSlUwVUZUeFBiZ2EtV3JkZGVvUmhtVk16eEl4cGQ0b3F3dTA4WG5jak8tRDlsZkxXRkoyLW9yMFNNQ0dKcXRnZ1dVWmRjN3VwdE95Zmg4bjBucTZIRUpSdDVZNWVqM3BmVG12QzdWaXk4Y2xkdGpjbVkyaHVSNE1WMnBPWjNET2JEVU9ZWW1hWHR1Rg?oc=5",
-      "summary": "Bastidores: como Palmeiras contornou 'crise' entre Gustavo Gomez e PM após bate-boca quente em São Januário ESPN Brasil",
-      "date": "2026-11-09T15:04:00+00:00",
-      "image": ""
-    },
-    {
       "title": "Com G-6, Cruzeiro já está garantido na Libertadores? Entenda cenário - ge",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNa1lmamE2b2p6ck1rSGpiVUJGYkhoMENIcEhZbEs4emFuSERSc0ZUSnp6RkVKVWFOcjFDY05NZm1Fc0wtei1NS3VISkFfdlpCaERwX3R2ZVgwdU1KaGl0c0RMMFV0a2JienZPb3VqaFAxakFNdXlTN0taeEhaQzduWEp0UGNNWXM2QW4yaHNEVjF6d0FJMHJqelRibGFIZjRRNU84WjFYamRGT1dGLWRkOXZtZy1HTjlhRFc5OEF6RjFlNFF1Uzdfb0ZjWmVpSExr0gHfAUFVX3lxTE5nMTVZazlzYWo1T0dYcnUtQVJaQU5pMEdnSXBhVEdSVEZEQW5HYlpEVjhnT3pJX1ZHTVR5RUo2QjFxU3NqVUl3TGpKV1gyZzlyNFN3c3dkckVoZzZhSVFJR1FSZVMyWWladUdqREhmMUNkTVBZQndrUmUtYllBQ2VHdmJfVnpieWVSa2VjOWYwRG9xRXNXY0d2T2UxeGhwaXVydmlJalJldEItUEljY0FyYnA5QTRDRTVZUzljbHR6RHVqSk4xSTA3dzlJYU5ORG1rVHhBZXRzZDFTR3Bhc3M?oc=5",
       "summary": "Com G-6, Cruzeiro já está garantido na Libertadores? Entenda cenário ge",
@@ -469,6 +483,27 @@
       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNM0ktQWVVNC1qSTFyODRSZ0NpM0VvQzE5bGFvcU9oTlNJQnRtWktfSnFjR3JKcWN0dEo2NnZCUG9xQms5SElUdS1pOGp4d0tGb21kM3VOM3kxcGVpRW9LQURfeGNXVEpIbU1GMTFaWmRlem5FOFo2N2lEQXNIRkFBcHVpTTZDNmFmSGhyQmJqOXFreUFPZXdNNjNJWU9YalVIbHBqMGo5NFdRQk9RTjVDZ2hRREZ6aTdxVElfM2J5UWx0NnJvRTlQZUp5OGsyWUVOR1dEZWRSblllaEkwemg5aG1mazVIWVVTVXlVR3ExQ0pfMTFvbXBaT09ic9IBigJBVV95cUxObnUyN3F5MTlvMDgwMUozeU5TYTRXdzhZUmZQNFZ2eFNQRjliWFFsZTd4U2I3U2hHaEJfeTFRRklWU3kyM3ozb3ItYXVIRnZ1ajJESHpCZlBVZnhjbEFnTTJpZ2g5MWhVdXcyTnFhWUc1SndLekJTTmxfMGJoUkF0ZUpWaWdoUGRwd2ZVRFZEODlnbUliLUF3UENKNlBLeVQ3LVZFWU82MmZ0TDY3SFIwTUEyVmxxSEJEZXN3YXRJRGFQZ0VlUEE0UDkxakZsZkVqM3BYT281cnktaG16Z3BUeXNETmlUQUpDaUVJUzJmcFZqTWRjVktqNkwzZkt2WHdwMHRRWW5mVXV4dw?oc=5",
       "summary": "Brasileirão abre G-6; veja como possível rebaixamento do Grêmio afeta vagas na Libertadores ge",
       "date": "2026-11-09T17:48:57+00:00",
+      "image": ""
+    },
+    {
+      "title": "Primo de Militão no Cruzeiro? Conheça jovem com multa de R$ 600 milhões que pode estrear no profissional - ge",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxONV9HNFJPQlNROFVoVS16S2dZT2U0UnVwaUtfQTJTSmhpWnRETXhoQlNvWGk0ZkJudm9pZ2xJNjkzbXQyMjlVcEZMQTNUVE0zTEwwSVZiaW1FczBQVlM1LV95MENVaGVldVpzOEhvbkpFMWs0UGpxUHE1Um52RXFfMllERHA0dDRhcjV5bHc2d3FWVnFNNzdONTJOV3NnRkxoODFDOHY3bTk3NjNBTWItX3lQMVc2bjhxaEpQOTk4V2liendES2VwV2ctM3Z2NFZUU09rdmpZaGRzb2J0cEFmYVExNnI0Nkk3eUJqYk1NQXhtN1pUVktXb3lDLV9HbUwy0gGPAkFVX3lxTE94X3o5clU3T09FVlhvcDdHM0s4RE90Z3JtUlVCeVVoMS1TUno0NVFWdWhqeWlkQ214TzR1M2pVYVRfaGNwOWVIblV5enVsM3NlV0tuYmN0c2ZkdURkclZWbHBkTjZDRFIyN0k5RG95d3RGUlZGY0RWeTNtZ0cxdVBqam1iWlBjZzNleEN6MWMxR3hTbW9Qcm5CSXJPeUxiOTJNUnhVOHRuc2s0bUN6eDEzOUNpenVfNlVMOW56cm1NTEtVamtnT0V5aTJqM2IyRnd5VVo4NEE0VUJjR21nQllKV1ktM1BBRWFzcThjYlRaN0Rmb3JxVDMyamYzdFhhbm9Ec2ZxWWRyNWpkTHNjLTQ?oc=5",
+      "summary": "Primo de Militão no Cruzeiro? Conheça jovem com multa de R$ 600 milhões que pode estrear no profissional ge",
+      "date": "2026-11-10T07:00:01+00:00",
+      "image": ""
+    },
+    {
+      "title": "Bastidores: como Palmeiras contornou 'crise' entre Gustavo Gomez e PM após bate-boca quente em São Januário - ESPN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdmVoNmZESFZqX29aS2FQQnRxNkprWWpVSk9LQ3M4Q2NDYUxPbnpic3c3b0NJQTlfeFNtR2xQLVQyMnRKNDZrTjNkbTZUM3NMYThKbFFmSlUwVUZUeFBiZ2EtV3JkZGVvUmhtVk16eEl4cGQ0b3F3dTA4WG5jak8tRDlsZkxXRkoyLW9yMFNNQ0dKcXRnZ1dVWmRjN3VwdE95Zmg4bjBucTZIRUpSdDVZNWVqM3BmVG12QzdWaXk4Y2xkdGpjbVkyaHVSNE1WMnBPWjNET2JEVU9ZWW1hWHR1Rg?oc=5",
+      "summary": "Bastidores: como Palmeiras contornou 'crise' entre Gustavo Gomez e PM após bate-boca quente em São Januário ESPN Brasil",
+      "date": "2026-11-09T15:04:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Ainda é possível chegar à Libertadores? Entenda os cenários e veja situação do Vasco no Brasileirão - ge",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNR0J0V1MxSnhiQ0tzYzhERW5vVTJrdzhUTmRld3ljOEZSeU5YVmZlWDBHQU5YSzBmRHNXMEtTbDRvUkRxUzBfSGNvV283cDA2ZWdCS3BWSnY2TmhicExhMDBBS3gtTG9nT29OcDJDU0ZHY1czNndPTmRoQVA0SnRRNmxGSTB3ejdQR0FWOUtxckxIdk10U3M0RFpCU25MTEdSc2NGNjJUcWNqVmtwS2ozYkl1TS1IQTlmZ0xrcm5keG1CMG54NFlaNFV6VWtBWjZSWllRdkF6WVVFbGliYlBwQVdld2xDem1Bd0JvTkRiUU1DZ3JMN0VZ0gGGAkFVX3lxTE1tN1RULVcySlN1aENGOU5sdWFqd01QM1VzUm5kMjFrMmpVOXhJZlNnWjNEU3dfejMtV1lNMmNmNkplbno3eGJXNzdONUpvTkJMQk1EYmdENmtnYndRbTYwTWszZ3ZHU1pwTV9IMWlUdklGck5aQVMtMUpFdkxpVHZrQTF0VHRxdW83MHRRWnZuVy16akhGcDV3UzZsVDBMNjRhUXpMS0l0R1RXR3YyeWQ2Rmg1bVB5elZBMDF5dVprbFRMTGFYODFwRWNIdVQ0VXZoMzNfWFFmVG1MQXd5UU5NaTRGbUk5VWkzdWhUdDZEOFhaRzN2ZXRqRU90aUFpWFFDRGJ0Mnc?oc=5",
+      "summary": "Ainda é possível chegar à Libertadores? Entenda os cenários e veja situação do Vasco no Brasileirão ge",
+      "date": "2026-11-09T10:00:00+00:00",
       "image": ""
     },
     {
@@ -486,34 +521,6 @@
       "image": ""
     },
     {
-      "title": "Festa no avião, chapéu de porco e textão da Leila: como Palmeiras comemorou vaga na final - ge",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNd2JZbWk1aUJDYlA2aUZwX1R6RFozS3ZpQjNVdlBNa1pEU3RlUU43aExPWl9mcktraG1TaDZUeWJxZmpHNmZKeGdCU0VvdTFEUEdWVnkyWkQtV3c2QzFCMFQzMV9KYk9Ua0Y1cFFFRXoxRVhUX21vZ0lTbm8xTXJTUkxCLTlsZkN2dUZIVmRyN0x5ZGhWTDFIS25OZ1J3ZTlaa2JYM04xMmZlSnRqMHNveHluQnJzQ1RtTU5QTVA5S0R3S3ltczJtTERlQXlwZEZCeENrNVVuUTdJbElSN0J3QXJRN3o3d0FtaFJXVXJ30gH8AUFVX3lxTE5OQWpPR2g2eEEwd2JrSWljWjNhSkpUMTVSYThuWXlJZ2Y1N2NLZ2hCdm9iMXF1dUxzcHpkQmpIZThGUmQxTFR1d3JVQWZNcG95REdlYTN0c3VrcjIyVE9uWkxoaTc2SUhpa1NFeTRwaTdtNTVQUmRXVENJRjRBLWRMUU5hMzhmWWN5WUJ3emNxM2FxR1dnNVZXQlk0Vnh5ek54Vmh1Z3VzdXVLeU9KbFFwVlFUMDF1UkhpeXp6UmF2ZExRZzZrNzBEaTVFNVB0VlVTVnpqOTY5T3pzU1hBZ0YyeF9DNGhKZ3ZueTdiUE5VVGtWY2ZSZmtkMThtcA?oc=5",
-      "summary": "Festa no avião, chapéu de porco e textão da Leila: como Palmeiras comemorou vaga na final ge",
-      "date": "2026-11-09T09:00:01+00:00",
-      "image": ""
-    },
-    {
-      "title": "Ainda é possível chegar à Libertadores? Entenda os cenários e veja situação do Vasco no Brasileirão - ge",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNR0J0V1MxSnhiQ0tzYzhERW5vVTJrdzhUTmRld3ljOEZSeU5YVmZlWDBHQU5YSzBmRHNXMEtTbDRvUkRxUzBfSGNvV283cDA2ZWdCS3BWSnY2TmhicExhMDBBS3gtTG9nT29OcDJDU0ZHY1czNndPTmRoQVA0SnRRNmxGSTB3ejdQR0FWOUtxckxIdk10U3M0RFpCU25MTEdSc2NGNjJUcWNqVmtwS2ozYkl1TS1IQTlmZ0xrcm5keG1CMG54NFlaNFV6VWtBWjZSWllRdkF6WVVFbGliYlBwQVdld2xDem1Bd0JvTkRiUU1DZ3JMN0VZ0gGGAkFVX3lxTE1tN1RULVcySlN1aENGOU5sdWFqd01QM1VzUm5kMjFrMmpVOXhJZlNnWjNEU3dfejMtV1lNMmNmNkplbno3eGJXNzdONUpvTkJMQk1EYmdENmtnYndRbTYwTWszZ3ZHU1pwTV9IMWlUdklGck5aQVMtMUpFdkxpVHZrQTF0VHRxdW83MHRRWnZuVy16akhGcDV3UzZsVDBMNjRhUXpMS0l0R1RXR3YyeWQ2Rmg1bVB5elZBMDF5dVprbFRMTGFYODFwRWNIdVQ0VXZoMzNfWFFmVG1MQXd5UU5NaTRGbUk5VWkzdWhUdDZEOFhaRzN2ZXRqRU90aUFpWFFDRGJ0Mnc?oc=5",
-      "summary": "Ainda é possível chegar à Libertadores? Entenda os cenários e veja situação do Vasco no Brasileirão ge",
-      "date": "2026-11-09T10:00:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Copa do Brasil: Grêmio desafia a lógica e o Palmeiras - ge",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOEtxa3VKSjZFMHduNENjU0ZmTTJVQTIxUkpIb0NiOHRsTmZpOUtoekRFUDVHek5Tal95em5ma3o0bGlsalJGWW1uYjQwT2hpdXhqYlBpMmtaUVBObmlrX3lmTF9DcURhTW9DeTFUUEhGcVFXZExZbDFNamFoRF9zZUVMQVBKVDhpazFYMnRGd3VKZUo3WE13bFd1RXJ2TWtXT2lhTm9xS3RZdDB6ZGlxRU9ueGhZbknSAcYBQVVfeXFMTjZSOGQ2Rk5xdVBvV3dmZ0ZxX0Nqd1lOY2ZrUXVZVjRiQl9jWEhNMjA1SjRmUWJuZDJiV3lCM0pYR1BrTHg3YVF2Rko2Rlc3cGJWd1N1WnRzWVBCQjFJYWs5MVhqQjZXemlEMkE2cmNBNURKLXdpeDlGbXBDTjVSYzFCVDQyaXVRNWFJRmk2X0RuSlZFdXNrSW00NGdMbmhzV1d5bzZVeG9pQVlSYWR5cjlOM1JCWWdOQlJRWWdDMUZHTldYWGd3?oc=5",
-      "summary": "Copa do Brasil: Grêmio desafia a lógica e o Palmeiras ge",
-      "date": "2026-11-09T10:00:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Conheça destaques da categoria do Guarani que eliminou o Palmeiras no Paulista - ge",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNZHpleTRYUUpMc1JoTEVGOHpJbF9PUGRtUXRaMVJYT3pKZkFxeWVFVU5hQzFzaDlrV0U4bVZUT05fdi1IV2t5eEhzS2UyUFVLdk82RUhxaTY1bUtlemNjUXhHM0JHaV9XU2FMUnBBbnI2RXVFNFB5M0c5YXhQYWZjcFQ0a2NwMzlEcFlSN3FncF9uMVlvcEM0Zm1IMmp3c1pnWkl1Wm0yY3RVUnhiajlUbFhlLXItLUtfNnE3UW9XcGdrQlhGVkd5alFRYjZ1dU1wcndUa2pUbnpUb0hoTXBPbXE4bVNKc3FtYk4wWEVMbTBiRmtvUlNWYmF1WdIBigJBVV95cUxQV3RQNWlsSWJpd1U3elBXd3hUZ3E0Nl9iR2RHWTBzelFHN0EzUHBBdlZrTTBTck5FNHowNElMSUpTaHRFODRPZ1V5bDQwWklOYnAxRVAybDdWcWxQdlRTaF9hUGtVNmNza2U2OHk4eWVtQlN5ZnBxNTRDZ1cwMkhCVl9qNUxXelljREM2cTV6cXlnUGVYdVhBVUFyT0N1a3ZsYUlkWkF3cXZwX2tmbG91TjZyQ0RWX3U2eWJFcUpaTHlwc0F0bC1DWDFvOW5rVVd4emNaZUJ3TGx1TVJfdldfbE9scWczTG5BV0Z6WEFqeW9xSno4NEExcnVMcVJfaXFSV2x2QTV2SkZjZw?oc=5",
-      "summary": "Conheça destaques da categoria do Guarani que eliminou o Palmeiras no Paulista ge",
-      "date": "2026-11-10T13:25:46+00:00",
-      "image": ""
-    },
-    {
       "title": "Destaque do Estudiantes sofre lesão e pode ser baixa contra o Palmeiras na final da Libertadores - ESPN Brasil",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQM2M2d0VKcjJKU2VhWGFGYTJjSUhvZUNhdFpNamI5OVpEdW1yaHN5dzFMX29MbDFhaDdoNnBRdTNKZTFMZWRUYmhKYkFQc0F2SlV2N056NVgtYjA5QldIbWdiMGh4YlhuQjBYcEkxV2Z1ZDVMQ1ZrYUxhNmdwa2pUOEJxQlVyOUNjbVV5YlVnOVo2ZjN4LUNhbFRXN1dxdmcwcjA0eGxnUUhxRWhRV2x6ZVhMd0VRdWtNVjFrajFWeVZTa3Jmb180SjNTeEp3UVgwMmREN0t1UU4wUQ?oc=5",
       "summary": "Destaque do Estudiantes sofre lesão e pode ser baixa contra o Palmeiras na final da Libertadores ESPN Brasil",
@@ -521,17 +528,10 @@
       "image": ""
     },
     {
-      "title": "Análise: Vasco cai de cabeça erguida com a esperança de um 2027 melhor - ge",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTHdjQ0Rzd2NiY2l4ZVBEOXEzTzFnVGpvTzQ4bzVVWWUwcl9wUGlzc3ZqQ1F2TG1JSFNGSnRQRGlOVEhqQUVyVUwtbkJHYzBrRDBqQXd1QlFUV0hRVnF0LXlwcnFYS0JLU1ZRdEFVUjJSaHVwY0g1NEZ2bVJ2SHVVVHR2dExwTm9UaE1nTmgycXlfZTlacVl0TkhqUEJxYzVIUUV4a2tqTDU5WmFpaFdQOGRMU3BQVWNWbVhqY1N3QUpRT2htQUlfTElnUkxwU09F0gHfAUFVX3lxTFBJMjVXeWNTTjY0dXRYeE5DVy0tS2xaclMzV20tTG1qaGJpVzhpR0E0T3h3dWR5RmtPRVhVYmJ3Wk5VUHM5ZGRLYU96U0o3VzFQM3BReDBvbnM4TkF2N25uTmdGZS1KUzllbC1lVkNoLU9WUTFXSnBfWW9xZ0hZVm50U3o2a0laWGJzWDlQTGVTT1pWREpPVnZDZk40TlRlR0UySEVEcnE4YzRIZEFEZlZOSGhtOFJBT1BJbFQ1c2ZkX3h0aWtpbjdRRGRYWWFtV1pIODhDMTIwSkk0RU1zLXc?oc=5",
-      "summary": "Análise: Vasco cai de cabeça erguida com a esperança de um 2027 melhor ge",
-      "date": "2026-11-09T06:00:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Paredão: Carlos Miguel, do Palmeiras, ocupa 21% do espaço do gol mesmo parado - ge",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNT2hhWC1ZSGk0S1c3Y0twVHExank4VWt4U1AtelduUlZOQTB1RGpMajBYSFFDSWtSZldsTmZ3Z1VXazlrZUhXdHRTaFNzZ0VDUGRGYUFycHlFT3dsV003em5wbFVqYUlfeHEzWWsydEYxYW8xd0Y3UkpQakx3b01MbjNmWWd6TFphaTJlU0ZIRm9vejlNY01GSDBob3RnOG14Y2dSNlBEazFmYk01bVZwNUVteFlFbFhwampqZ1dVT3FhbUQ4Vkh3bWRGaTFuTHpOeC1KSHA1eEJLZlJsaGRnS3BhNGXSAfMBQVVfeXFMTWpOdGZmYXFVYXZnd1gtdEhUT1ZwUDNMa3pCVzAwVmZ5YXR3NGhyMm16RzlCRXFpZEN5Rlk2STFTOUVSS01pM0c0aDJFUENQMzBuTVJtXzllUmZwN3FYX1ZzZk4yVW05dVQxVDJfSndvOUFiQzU1ZHRPZzdpUlRLdnI0WTdwVEp4RTVJVDRTY0JBOGF0ZmxacjlMU1M0aUl0YWN3U2tOdGE3eElQS0ltMlpwaXVzdXg3U19zS3RDQUlwbnJNOFBJQ2tJblRiU1Zhbl9xaW9IS3FKR0JscU9TSFNSNEtvckFvWXVhUDRkZDlXNURr?oc=5",
-      "summary": "Paredão: Carlos Miguel, do Palmeiras, ocupa 21% do espaço do gol mesmo parado ge",
-      "date": "2026-11-10T18:35:25+00:00",
+      "title": "Conheça destaques da categoria do Guarani que eliminou o Palmeiras no Paulista - ge",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNZHpleTRYUUpMc1JoTEVGOHpJbF9PUGRtUXRaMVJYT3pKZkFxeWVFVU5hQzFzaDlrV0U4bVZUT05fdi1IV2t5eEhzS2UyUFVLdk82RUhxaTY1bUtlemNjUXhHM0JHaV9XU2FMUnBBbnI2RXVFNFB5M0c5YXhQYWZjcFQ0a2NwMzlEcFlSN3FncF9uMVlvcEM0Zm1IMmp3c1pnWkl1Wm0yY3RVUnhiajlUbFhlLXItLUtfNnE3UW9XcGdrQlhGVkd5alFRYjZ1dU1wcndUa2pUbnpUb0hoTXBPbXE4bVNKc3FtYk4wWEVMbTBiRmtvUlNWYmF1WdIBigJBVV95cUxQV3RQNWlsSWJpd1U3elBXd3hUZ3E0Nl9iR2RHWTBzelFHN0EzUHBBdlZrTTBTck5FNHowNElMSUpTaHRFODRPZ1V5bDQwWklOYnAxRVAybDdWcWxQdlRTaF9hUGtVNmNza2U2OHk4eWVtQlN5ZnBxNTRDZ1cwMkhCVl9qNUxXelljREM2cTV6cXlnUGVYdVhBVUFyT0N1a3ZsYUlkWkF3cXZwX2tmbG91TjZyQ0RWX3U2eWJFcUpaTHlwc0F0bC1DWDFvOW5rVVd4emNaZUJ3TGx1TVJfdldfbE9scWczTG5BV0Z6WEFqeW9xSno4NEExcnVMcVJfaXFSV2x2QTV2SkZjZw?oc=5",
+      "summary": "Conheça destaques da categoria do Guarani que eliminou o Palmeiras no Paulista ge",
+      "date": "2026-11-10T13:25:46+00:00",
       "image": ""
     }
   ],
